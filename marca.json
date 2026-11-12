@@ -1,0 +1,30 @@
+{
+  "configurado": true,
+  "canal": "Magno Explica",
+  "arroba": "@eumagnoleite",
+  "marcaDagua": {
+    "usar": "texto",
+    "texto": "Magno Explica | @eumagnoleite",
+    "imagem": "",
+    "larguraDaImagem": 170,
+    "opacidade": 0.4
+  },
+  "logoRedonda": "",
+  "cores": {
+    "palavraFalada": "#FFD23F",
+    "destaque": "#2FA36B"
+  },
+  "legenda": {
+    "fonte": "Poppins",
+    "peso": 800,
+    "corpo": 42,
+    "y": 1748
+  },
+  "voz": {
+    "tipo": "gravada",
+    "elevenlabsVozId": "",
+    "elevenlabsVozNome": ""
+  },
+  "trilha": true,
+  "formatoPadrao": "vertical"
+}

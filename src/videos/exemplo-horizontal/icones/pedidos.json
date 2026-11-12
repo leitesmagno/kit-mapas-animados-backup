@@ -1,0 +1,151 @@
+{
+ "ficha": {
+  "tema": "Conjunto de ícones 3D para um documentário de geopolítica do petróleo (Estreito de Ormuz)",
+  "contexto": "Ícones que entram sobre mapas de satélite e painéis escuros: precisam ser legíveis pequenos e ter o mesmo acabamento entre si.",
+  "estilo": "consistent glossy 3D emoji icon set, same render style, same lighting and same level of detail for every icon",
+  "paleta": [
+   "saturated but clean colors",
+   "dark navy",
+   "warm orange",
+   "steel grey"
+  ],
+  "iluminacao": "soft studio key light from the top left, gentle rim light",
+  "evitar": [
+   "text",
+   "numbers",
+   "flags",
+   "logos",
+   "any green color on the object"
+  ]
+ },
+ "imagens": [
+  {
+   "id": "barril_de_petroleo",
+   "cena": "icone",
+   "tipo": "icone",
+   "proporcao": "1:1",
+   "tamanho": "1K",
+   "descricao": "A classic 55-gallon steel oil drum standing upright, glossy dark navy blue body with two raised rings, a small orange cap on the top lid, slight three-quarter view from above."
+  },
+  {
+   "id": "petroleiro",
+   "cena": "icone",
+   "tipo": "icone",
+   "proporcao": "1:1",
+   "tamanho": "1K",
+   "descricao": "A large crude oil tanker ship in three-quarter side view, dark red hull below the waterline, black upper hull, white bridge superstructure at the stern, pipes on the deck, sitting on a tiny stylized blue water splash."
+  },
+  {
+   "id": "navio_de_gas",
+   "cena": "icone",
+   "tipo": "icone",
+   "proporcao": "1:1",
+   "tamanho": "1K",
+   "descricao": "An LNG carrier ship in three-quarter side view with four large white spherical tanks on deck, dark blue hull, white bridge at the stern, on a tiny stylized blue water splash."
+  },
+  {
+   "id": "cavalo_de_petroleo",
+   "cena": "icone",
+   "tipo": "icone",
+   "proporcao": "1:1",
+   "tamanho": "1K",
+   "descricao": "An oil pumpjack (nodding donkey) in orange and dark grey steel, three-quarter view, on a small sand-colored base."
+  },
+  {
+   "id": "oleoduto",
+   "cena": "icone",
+   "tipo": "icone",
+   "proporcao": "1:1",
+   "tamanho": "1K",
+   "descricao": "A short section of a large steel oil pipeline on two supports, with a red valve wheel on top, three-quarter view, the pipe in light steel grey."
+  },
+  {
+   "id": "tanque_de_petroleo",
+   "cena": "icone",
+   "tipo": "icone",
+   "proporcao": "1:1",
+   "tamanho": "1K",
+   "descricao": "A cylindrical oil storage tank, white with a dark grey roof and a spiral staircase around it, three-quarter view, on a small concrete base."
+  },
+  {
+   "id": "navio_de_guerra",
+   "cena": "icone",
+   "tipo": "icone",
+   "proporcao": "1:1",
+   "tamanho": "1K",
+   "descricao": "A generic modern grey naval frigate in three-quarter side view, smooth stealthy shapes, a single gun at the bow, plain grey with no numbers, flags or insignia, on a tiny stylized blue water splash."
+  },
+  {
+   "id": "mina_naval",
+   "cena": "icone",
+   "tipo": "icone",
+   "proporcao": "1:1",
+   "tamanho": "1K",
+   "descricao": "A classic spherical naval sea mine with protruding contact horns, dark gunmetal with a subtle red band, slight three-quarter view."
+  },
+  {
+   "id": "fortaleza",
+   "cena": "icone",
+   "tipo": "icone",
+   "proporcao": "1:1",
+   "tamanho": "1K",
+   "descricao": "A small 16th-century stone sea fortress with low thick walls and round corner bastions on a rocky islet, warm sandstone color, three-quarter view, no flags."
+  },
+  {
+   "id": "nau",
+   "cena": "icone",
+   "tipo": "icone",
+   "proporcao": "1:1",
+   "tamanho": "1K",
+   "descricao": "A 16th-century carrack sailing ship (nau) with three masts and plain cream-colored sails without any symbols, wooden brown hull, three-quarter view, on a tiny stylized blue water splash."
+  },
+  {
+   "id": "cadeado_fechado",
+   "cena": "icone",
+   "tipo": "icone",
+   "proporcao": "1:1",
+   "tamanho": "1K",
+   "descricao": "A closed padlock with a thick shackle, glossy red body and steel shackle, slight three-quarter view."
+  },
+  {
+   "id": "aviao_de_passageiros",
+   "cena": "icone",
+   "tipo": "icone",
+   "proporcao": "1:1",
+   "tamanho": "1K",
+   "descricao": "A wide-body passenger airliner seen from below at three-quarter angle, white fuselage, plain with no logos, no text and no livery."
+  },
+  {
+   "id": "joinha",
+   "cena": "icone",
+   "tipo": "icone",
+   "proporcao": "1:1",
+   "tamanho": "1K",
+   "descricao": "A hand giving a thumbs up (like gesture), warm yellow skin tone like an emoji hand, glossy, three-quarter view."
+  },
+  {
+   "id": "sino",
+   "cena": "icone",
+   "tipo": "icone",
+   "proporcao": "1:1",
+   "tamanho": "1K",
+   "descricao": "A golden notification bell with a small clapper and two short motion lines, glossy gold, slight tilt."
+  },
+  {
+   "id": "balao_de_comentario",
+   "cena": "icone",
+   "tipo": "icone",
+   "proporcao": "1:1",
+   "tamanho": "1K",
+   "descricao": "A rounded speech bubble (chat balloon) in glossy white with three small dark dots inside, slight three-quarter view."
+  },
+  {
+   "id": "compartilhar",
+   "cena": "icone",
+   "tipo": "icone",
+   "proporcao": "1:1",
+   "tamanho": "1K",
+   "descricao": "A thick curved arrow pointing to the right and up (share symbol), glossy bright blue, slight three-quarter view."
+  }
+ ]
+}

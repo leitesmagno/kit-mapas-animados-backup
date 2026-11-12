@@ -1,0 +1,98 @@
+{
+ "ficha": {
+  "tema": "O Estreito de Ormuz e a rota do petróleo do Golfo Pérsico",
+  "contexto": "Passagem marítima estreita entre o Golfo Pérsico e o Golfo de Omã, entre a costa do Irã ao norte e a península de Musandam (Omã) ao sul; costas áridas e montanhosas, tráfego intenso de petroleiros.",
+  "estilo": "bold cinematic documentary thumbnail, high contrast, realistic",
+  "paleta": [
+   "deep teal sea",
+   "warm desert ochre",
+   "hazy dawn gold",
+   "oil black"
+  ],
+  "iluminacao": "low golden dawn light through light haze, soft long shadows",
+  "regiao": "Strait of Hormuz, between the Persian Gulf and the Gulf of Oman",
+  "epoca": "present day",
+  "evitar": [
+   "explosions or combat",
+   "warships"
+  ],
+  "referencias": []
+ },
+ "imagens": [
+  {
+   "id": "capa-petroleiro",
+   "cena": "capa",
+   "tipo": "thumbnail",
+   "modelo": "alta",
+   "descricao": "One huge crude oil tanker seen from a low angle on the water, sailing through a narrow passage between steep dark arid mountains, the ship on the right half of the frame, low warm sun behind the mountains creating a strong rim light, deep teal water.",
+   "objetivo": "Fundo da thumbnail: um ponto focal (o petroleiro), contraste forte e o terço esquerdo livre para o título por código.",
+   "proporcao": "16:9",
+   "tamanho": "2K",
+   "espaco_para_texto": "esquerda",
+   "restricoes": [
+    "company names, flags or markings on the ship"
+   ],
+   "obrigatoria": false
+  },
+  {
+   "id": "fundo-estreito",
+   "cena": "capa",
+   "tipo": "fundo",
+   "modelo": "alta",
+   "descricao": "narrow sea passage between two dark steep arid mountain walls at dusk, a glowing orange sky right behind the center of the frame, deep teal water with sparkles, light haze",
+   "proporcao": "16:9",
+   "tamanho": "2K",
+   "obrigatoria": false
+  },
+  {
+   "id": "petroleiro",
+   "cena": "capa",
+   "tipo": "elemento",
+   "modelo": "alta",
+   "descricao": "a huge dark red and black crude oil tanker seen from a low front three-quarter angle, the bow coming towards the camera, warm orange rim light from behind on the left, small white bow wave at the waterline (the hull cut cleanly at the waterline, no sea around it)",
+   "proporcao": "4:3",
+   "tamanho": "2K",
+   "restricoes": [
+    "company names, flags, numbers or markings on the ship"
+   ],
+   "obrigatoria": false
+  },
+  {
+   "id": "petroleiro-frente",
+   "cena": "capa",
+   "tipo": "elemento",
+   "modelo": "alta",
+   "descricao": "a gigantic dark red and black crude oil tanker seen almost head-on from a very low angle at water level, the massive bow towering towards the camera, slight perspective, warm orange rim light from behind, white bow wave at the waterline (hull cut cleanly at the waterline, no sea around it)",
+   "proporcao": "3:4",
+   "tamanho": "2K",
+   "restricoes": [
+    "company names, flags, numbers or markings on the ship"
+   ],
+   "obrigatoria": false
+  },
+  {
+   "id": "fundo-noite",
+   "cena": "capa",
+   "tipo": "fundo",
+   "modelo": "alta",
+   "descricao": "tense night seascape in a narrow strait between dark mountain silhouettes, the sky behind the center glowing deep red and orange as if from a distant fire, dark navy water reflecting red light, smoke haze, ominous mood",
+   "proporcao": "16:9",
+   "tamanho": "2K",
+   "obrigatoria": false
+  },
+  {
+   "id": "fortaleza",
+   "cena": "capa",
+   "tipo": "elemento",
+   "modelo": "alta",
+   "descricao": "an old 16th-century European stone sea fortress in ruins on a small rocky island outcrop, thick ochre-red stone walls with round bastions and a few rusty bronze cannons on top, seen from a low three-quarter angle, warm golden sunlight from the left (the rock base cut cleanly, no sea around it)",
+   "proporcao": "4:3",
+   "tamanho": "2K",
+   "restricoes": [
+    "flags or coats of arms",
+    "people"
+   ],
+   "obrigatoria": false
+  }
+ ]
+}

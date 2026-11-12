@@ -1,0 +1,47 @@
+[
+ {
+  "nome": "Coutos",
+  "lon": -39.0525,
+  "lat": -14.8713
+ },
+ {
+  "nome": "Japu",
+  "lon": -39.1727,
+  "lat": -14.9
+ },
+ {
+  "nome": "Olivença",
+  "lon": -39.0106,
+  "lat": -14.9476
+ },
+ {
+  "nome": "Aritaguá",
+  "lon": -39.0695,
+  "lat": -14.6651
+ },
+ {
+  "nome": "Castelo Novo",
+  "lon": -39.1887,
+  "lat": -14.6549
+ },
+ {
+  "nome": "Pimenteira",
+  "lon": -39.4408,
+  "lat": -14.568
+ },
+ {
+  "nome": "Banco Central",
+  "lon": -39.4012,
+  "lat": -14.4549
+ },
+ {
+  "nome": "Sambaituba",
+  "lon": -39.1022,
+  "lat": -14.6558
+ },
+ {
+  "nome": "Banco do Pedro",
+  "lon": -39.2666,
+  "lat": -14.6552
+ }
+]

@@ -1,0 +1,600 @@
+{
+ "semAudio": true,
+ "duracao": 107.668,
+ "fimDaFala": 107.446,
+ "eventos": {
+  "maiorRio": {
+   "t": 0.098,
+   "fim": 0.65,
+   "palavra": "O maior rio",
+   "acao": "o rio acende",
+   "whisper": 0.05
+  },
+  "atravessa": {
+   "t": 0.93,
+   "fim": 1.43,
+   "palavra": "atravessa",
+   "acao": ""
+  },
+  "amazonas": {
+   "t": 1.424,
+   "fim": 1.99,
+   "palavra": "o Amazonas",
+   "acao": "o estado acende",
+   "whisper": 1.43
+  },
+  "inteiro": {
+   "t": 1.99,
+   "fim": 2.31,
+   "palavra": "inteiro",
+   "acao": ""
+  },
+  "existe": {
+   "t": 2.65,
+   "fim": 3.07,
+   "palavra": "não existe",
+   "acao": ""
+  },
+  "ponte": {
+   "t": 3.496,
+   "fim": 3.79,
+   "palavra": "ponte",
+   "acao": "ponte cortada",
+   "whisper": 3.47
+  },
+  "maiorEstado": {
+   "t": 4.879,
+   "fim": 5.379,
+   "palavra": "maior estado",
+   "acao": "a bandeira abre"
+  },
+  "guarda": {
+   "t": 6.099,
+   "fim": 6.579,
+   "palavra": "guarda",
+   "acao": ""
+  },
+  "teatro": {
+   "t": 6.667,
+   "fim": 6.999,
+   "palavra": "teatro",
+   "acao": "foto Teatro",
+   "whisper": 6.619
+  },
+  "praias": {
+   "t": 8.583,
+   "fim": 9.359,
+   "palavra": "praias de rio",
+   "acao": "foto praia",
+   "whisper": 8.519
+  },
+  "cachoeiras": {
+   "t": 9.679,
+   "fim": 10.259,
+   "palavra": "cachoeiras",
+   "acao": "foto cachoeira"
+  },
+  "mata": {
+   "t": 10.939,
+   "fim": 11.239,
+   "palavra": "mata.",
+   "acao": ""
+  },
+  "norte": {
+   "t": 11.955,
+   "fim": 12.563,
+   "palavra": "Fica no norte,",
+   "acao": "Região Norte",
+   "whisper": 11.843
+  },
+  "divisa": {
+   "t": 12.754,
+   "fim": 13.243,
+   "palavra": "faz divisa",
+   "acao": "recuo até os vizinhos",
+   "whisper": 12.703
+  },
+  "roraima": {
+   "t": 13.363,
+   "fim": 13.803,
+   "palavra": "Roraima,",
+   "acao": "RR"
+  },
+  "para": {
+   "t": 13.803,
+   "fim": 14.243,
+   "palavra": "Pará,",
+   "acao": "PA"
+  },
+  "mt": {
+   "t": 14.243,
+   "fim": 14.843,
+   "palavra": "Mato Grosso,",
+   "acao": "MT"
+  },
+  "rondonia": {
+   "t": 14.883,
+   "fim": 15.323,
+   "palavra": "Rondônia",
+   "acao": "RO"
+  },
+  "acre": {
+   "t": 15.503,
+   "fim": 15.863,
+   "palavra": "Acre",
+   "acao": "AC"
+  },
+  "fronteira": {
+   "t": 16.123,
+   "fim": 16.543,
+   "palavra": "fronteira",
+   "acao": ""
+  },
+  "venezuela": {
+   "t": 16.783,
+   "fim": 17.183,
+   "palavra": "Venezuela,",
+   "acao": "VEN"
+  },
+  "colombia": {
+   "t": 17.663,
+   "fim": 18.083,
+   "palavra": "Colômbia",
+   "acao": "COL",
+   "whisper": 17.603
+  },
+  "peru": {
+   "t": 18.294,
+   "fim": 18.403,
+   "palavra": "Peru.",
+   "acao": "PER",
+   "whisper": 18.243
+  },
+  "municipios": {
+   "t": 19.434,
+   "fim": 20.254,
+   "palavra": "municípios",
+   "acao": "malha + 62"
+  },
+  "milhoes": {
+   "t": 20.334,
+   "fim": 21.254,
+   "palavra": "mais de 4 milhões",
+   "acao": "pontos + habitantes"
+  },
+  "metade": {
+   "t": 22.202,
+   "fim": 22.574,
+   "palavra": "metade",
+   "acao": "",
+   "whisper": 22.174
+  },
+  "manaus": {
+   "t": 22.774,
+   "fim": 23.534,
+   "palavra": "em Manaus,",
+   "acao": "pino Manaus"
+  },
+  "maiorCidade": {
+   "t": 23.754,
+   "fim": 24.294,
+   "palavra": "maior cidade",
+   "acao": "tag"
+  },
+  "aventura": {
+   "t": 26.098,
+   "fim": 26.678,
+   "palavra": "aventura,",
+   "acao": ""
+  },
+  "aviao": {
+   "t": 28.038,
+   "fim": 28.398,
+   "palavra": "avião",
+   "acao": "ícone avião"
+  },
+  "barco": {
+   "t": 28.738,
+   "fim": 29.118,
+   "palavra": "barco.",
+   "acao": "ícone barco"
+  },
+  "terra": {
+   "t": 29.372,
+   "fim": 29.738,
+   "palavra": "Por terra,",
+   "acao": "",
+   "whisper": 29.318
+  },
+  "br319": {
+   "t": 29.998,
+   "fim": 31.338,
+   "palavra": "BR319",
+   "acao": "BR-319"
+  },
+  "centenas": {
+   "t": 31.578,
+   "fim": 32.178,
+   "palavra": "centenas",
+   "acao": "trecho de terra"
+  },
+  "floresta": {
+   "t": 33.785,
+   "fim": 34.138,
+   "palavra": "floresta.",
+   "acao": "",
+   "whisper": 33.698
+  },
+  "borracha": {
+   "t": 34.994,
+   "fim": 35.474,
+   "palavra": "borracha,",
+   "acao": "satélite cinza"
+  },
+  "paris": {
+   "t": 36.578,
+   "fim": 37.534,
+   "palavra": "Paris dos Trópicos",
+   "acao": "tag",
+   "whisper": 36.494
+  },
+  "ergueu": {
+   "t": 37.874,
+   "fim": 38.174,
+   "palavra": "ergueu",
+   "acao": ""
+  },
+  "teatroAm": {
+   "t": 38.26,
+   "fim": 39.114,
+   "palavra": "teatro Amazonas",
+   "acao": "foto",
+   "whisper": 38.214
+  },
+  "europa": {
+   "t": 40.154,
+   "fim": 40.354,
+   "palavra": "Europa.",
+   "acao": ""
+  },
+  "ingles": {
+   "t": 41.344,
+   "fim": 41.664,
+   "palavra": "inglês",
+   "acao": ""
+  },
+  "sementes": {
+   "t": 42.564,
+   "fim": 43.084,
+   "palavra": "sementes",
+   "acao": "70.000"
+  },
+  "seringueira": {
+   "t": 43.184,
+   "fim": 43.764,
+   "palavra": "seringueira",
+   "acao": ""
+  },
+  "asia": {
+   "t": 45.084,
+   "fim": 45.524,
+   "palavra": "Ásia",
+   "acao": "seta à Ásia"
+  },
+  "acabou": {
+   "t": 46.244,
+   "fim": 46.544,
+   "palavra": "acabou.",
+   "acao": ""
+  },
+  "decadas": {
+   "t": 47.02,
+   "fim": 47.44,
+   "palavra": "Décadas",
+   "acao": "cor volta"
+  },
+  "zonaFranca": {
+   "t": 48.04,
+   "fim": 48.68,
+   "palavra": "zona franca,",
+   "acao": ""
+  },
+  "moto": {
+   "t": 49.9,
+   "fim": 50.06,
+   "palavra": "moto",
+   "acao": "ícone moto"
+  },
+  "saiManaus": {
+   "t": 50.92,
+   "fim": 51.66,
+   "palavra": "sai de Manaus.",
+   "acao": ""
+  },
+  "mercado": {
+   "t": 52.98,
+   "fim": 53.42,
+   "palavra": "Mercado",
+   "acao": "foto Mercado"
+  },
+  "pontaNegra": {
+   "t": 54.92,
+   "fim": 55.56,
+   "palavra": "Ponta Negra.",
+   "acao": "foto Ponta Negra"
+  },
+  "negro": {
+   "t": 56.496,
+   "fim": 56.716,
+   "palavra": "negro",
+   "acao": ""
+  },
+  "escuro": {
+   "t": 56.716,
+   "fim": 57.236,
+   "palavra": "escuro",
+   "acao": ""
+  },
+  "solimoes": {
+   "t": 57.536,
+   "fim": 58.436,
+   "palavra": "o Solimões,",
+   "acao": ""
+  },
+  "barrento": {
+   "t": 58.691,
+   "fim": 59.296,
+   "palavra": "barrento",
+   "acao": "",
+   "whisper": 58.676
+  },
+  "misturar": {
+   "t": 60.881,
+   "fim": 61.296,
+   "palavra": "misturar.",
+   "acao": "",
+   "whisper": 60.876
+  },
+  "juntos": {
+   "t": 61.63,
+   "fim": 62.036,
+   "palavra": "Juntos",
+   "acao": "",
+   "whisper": 61.576
+  },
+  "rioAmazonas": {
+   "t": 62.376,
+   "fim": 63.196,
+   "palavra": "Rio Amazonas.",
+   "acao": "recuo"
+  },
+  "mas": {
+   "t": 63.747,
+   "fim": 64.367,
+   "palavra": "Mas é saindo",
+   "acao": "impacto",
+   "whisper": 63.727
+  },
+  "impressiona": {
+   "t": 65.547,
+   "fim": 66.147,
+   "palavra": "impressiona.",
+   "acao": ""
+  },
+  "janauari": {
+   "t": 66.787,
+   "fim": 67.327,
+   "palavra": "Janauari,",
+   "acao": "pino + foto"
+  },
+  "vitorias": {
+   "t": 67.447,
+   "fim": 68.107,
+   "palavra": "vitórias-régias",
+   "acao": ""
+  },
+  "doisMetros": {
+   "t": 68.547,
+   "fim": 69.047,
+   "palavra": "dois metros.",
+   "acao": ""
+  },
+  "novoAirao": {
+   "t": 69.739,
+   "fim": 70.259,
+   "palavra": "Novo Airão,",
+   "acao": "pino"
+  },
+  "anavilhanas": {
+   "t": 70.419,
+   "fim": 71.039,
+   "palavra": "anavilhanas",
+   "acao": ""
+  },
+  "ilhas": {
+   "t": 72.379,
+   "fim": 73.039,
+   "palavra": "ilhas",
+   "acao": ""
+  },
+  "botos": {
+   "t": 73.219,
+   "fim": 74.259,
+   "palavra": "botos-cor-de-rosa.",
+   "acao": "foto boto"
+  },
+  "figueiredo": {
+   "t": 74.656,
+   "fim": 75.557,
+   "palavra": "Presidente Figueiredo",
+   "acao": "pino",
+   "whisper": 74.577
+  },
+  "cem": {
+   "t": 75.677,
+   "fim": 76.277,
+   "palavra": "mais de 100",
+   "acao": ""
+  },
+  "grutas": {
+   "t": 76.957,
+   "fim": 77.317,
+   "palavra": "grutas",
+   "acao": ""
+  },
+  "parintins": {
+   "t": 78.496,
+   "fim": 79.056,
+   "palavra": "Parintins,",
+   "acao": "pino"
+  },
+  "ilha": {
+   "t": 79.276,
+   "fim": 79.496,
+   "palavra": "ilha",
+   "acao": ""
+  },
+  "festival": {
+   "t": 80.435,
+   "fim": 80.696,
+   "palavra": "Festival",
+   "acao": "foto",
+   "whisper": 80.356
+  },
+  "garantido": {
+   "t": 82.215,
+   "fim": 82.876,
+   "palavra": "garantido",
+   "acao": "",
+   "whisper": 82.236
+  },
+  "caprichoso": {
+   "t": 83.011,
+   "fim": 83.556,
+   "palavra": "caprichoso.",
+   "acao": "",
+   "whisper": 82.956
+  },
+  "maues": {
+   "t": 84.043,
+   "fim": 84.423,
+   "palavra": "Maués",
+   "acao": "pino"
+  },
+  "guarana": {
+   "t": 84.863,
+   "fim": 85.303,
+   "palavra": "guaraná",
+   "acao": ""
+  },
+  "satere": {
+   "t": 85.643,
+   "fim": 86.483,
+   "palavra": "os Sateré-Mawé,",
+   "acao": ""
+  },
+  "olhos": {
+   "t": 87.083,
+   "fim": 87.303,
+   "palavra": "olhos",
+   "acao": ""
+  },
+  "olho": {
+   "t": 88.639,
+   "fim": 89.223,
+   "palavra": "parece um olho.",
+   "acao": "",
+   "whisper": 88.623
+  },
+  "indigenas": {
+   "t": 90.535,
+   "fim": 91.095,
+   "palavra": "indígenas",
+   "acao": ""
+  },
+  "quatrocentos": {
+   "t": 92.27,
+   "fim": 92.535,
+   "palavra": "mais de",
+   "acao": "",
+   "whisper": 92.235
+  },
+  "javari": {
+   "t": 94.735,
+   "fim": 95.135,
+   "palavra": "Javari",
+   "acao": ""
+  },
+  "isolados": {
+   "t": 95.715,
+   "fim": 96.235,
+   "palavra": "isolados",
+   "acao": ""
+  },
+  "extremoNorte": {
+   "t": 97.228,
+   "fim": 97.908,
+   "palavra": "extremo norte,",
+   "acao": "voo"
+  },
+  "neblina": {
+   "t": 98.128,
+   "fim": 98.768,
+   "palavra": "pico da Neblina",
+   "acao": "",
+   "whisper": 98.048
+  },
+  "teto": {
+   "t": 99.061,
+   "fim": 99.228,
+   "palavra": "teto",
+   "acao": "",
+   "whisper": 98.968
+  },
+  "tresMil": {
+   "t": 100.068,
+   "fim": 100.308,
+   "palavra": "quase",
+   "acao": ""
+  },
+  "encontroFim": {
+   "t": 101.542,
+   "fim": 102.06,
+   "palavra": "Do Encontro",
+   "acao": "",
+   "whisper": 101.5
+  },
+  "neblinaFim": {
+   "t": 102.58,
+   "fim": 102.94,
+   "palavra": "ao Pico",
+   "acao": ""
+  },
+  "cheio": {
+   "t": 104.2,
+   "fim": 104.46,
+   "palavra": "cheio",
+   "acao": ""
+  },
+  "descobrir": {
+   "t": 105.02,
+   "fim": 105.3,
+   "palavra": "descobrir?",
+   "acao": ""
+  },
+  "qual": {
+   "t": 105.941,
+   "fim": 106.226,
+   "palavra": "Qual desses",
+   "acao": "a pergunta",
+   "whisper": 105.866
+  },
+  "conhecia": {
+   "t": 107.075,
+   "fim": 107.446,
+   "palavra": "conhecia?",
+   "acao": "",
+   "whisper": 107.006
+  }
+ }
+}

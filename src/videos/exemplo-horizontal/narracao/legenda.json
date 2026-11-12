@@ -1,0 +1,4592 @@
+[
+ {
+  "palavra": "Em",
+  "inicio": 0.44,
+  "fim": 0.58
+ },
+ {
+  "palavra": "fevereiro",
+  "inicio": 0.58,
+  "fim": 1.39
+ },
+ {
+  "palavra": "de",
+  "inicio": 1.39,
+  "fim": 1.57
+ },
+ {
+  "palavra": "2026,",
+  "inicio": 1.57,
+  "fim": 2.91
+ },
+ {
+  "palavra": "um",
+  "inicio": 2.91,
+  "fim": 2.98
+ },
+ {
+  "palavra": "corredor",
+  "inicio": 2.98,
+  "fim": 3.46
+ },
+ {
+  "palavra": "de",
+  "inicio": 3.46,
+  "fim": 3.58
+ },
+ {
+  "palavra": "água",
+  "inicio": 3.58,
+  "fim": 3.82
+ },
+ {
+  "palavra": "com",
+  "inicio": 3.82,
+  "fim": 4.0
+ },
+ {
+  "palavra": "pouco",
+  "inicio": 4.0,
+  "fim": 4.3
+ },
+ {
+  "palavra": "mais",
+  "inicio": 4.3,
+  "fim": 4.54
+ },
+ {
+  "palavra": "de",
+  "inicio": 4.54,
+  "fim": 4.66
+ },
+ {
+  "palavra": "30",
+  "inicio": 4.66,
+  "fim": 5.02
+ },
+ {
+  "palavra": "quilômetros",
+  "inicio": 5.02,
+  "fim": 5.76
+ },
+ {
+  "palavra": "de",
+  "inicio": 5.76,
+  "fim": 5.96
+ },
+ {
+  "palavra": "largura",
+  "inicio": 5.96,
+  "fim": 6.66
+ },
+ {
+  "palavra": "entrou",
+  "inicio": 6.66,
+  "fim": 7.05
+ },
+ {
+  "palavra": "no",
+  "inicio": 7.05,
+  "fim": 7.18
+ },
+ {
+  "palavra": "centro",
+  "inicio": 7.18,
+  "fim": 7.57
+ },
+ {
+  "palavra": "da",
+  "inicio": 7.57,
+  "fim": 7.7
+ },
+ {
+  "palavra": "maior",
+  "inicio": 7.7,
+  "fim": 8.03
+ },
+ {
+  "palavra": "interrupção",
+  "inicio": 8.03,
+  "fim": 8.74
+ },
+ {
+  "palavra": "no",
+  "inicio": 8.74,
+  "fim": 8.87
+ },
+ {
+  "palavra": "fornecimento",
+  "inicio": 8.87,
+  "fim": 9.66
+ },
+ {
+  "palavra": "de",
+  "inicio": 9.66,
+  "fim": 9.79
+ },
+ {
+  "palavra": "petróleo",
+  "inicio": 9.79,
+  "fim": 10.31
+ },
+ {
+  "palavra": "da",
+  "inicio": 10.31,
+  "fim": 10.44
+ },
+ {
+  "palavra": "história,",
+  "inicio": 10.44,
+  "fim": 11.24
+ },
+ {
+  "palavra": "segundo",
+  "inicio": 11.24,
+  "fim": 11.58
+ },
+ {
+  "palavra": "a",
+  "inicio": 11.58,
+  "fim": 11.64
+ },
+ {
+  "palavra": "Agência",
+  "inicio": 11.64,
+  "fim": 12.11
+ },
+ {
+  "palavra": "Internacional",
+  "inicio": 12.11,
+  "fim": 12.99
+ },
+ {
+  "palavra": "de",
+  "inicio": 12.99,
+  "fim": 13.12
+ },
+ {
+  "palavra": "Energia.",
+  "inicio": 13.12,
+  "fim": 13.66
+ },
+ {
+  "palavra": "Antes",
+  "inicio": 14.249,
+  "fim": 14.509
+ },
+ {
+  "palavra": "da",
+  "inicio": 14.509,
+  "fim": 14.639
+ },
+ {
+  "palavra": "guerra,",
+  "inicio": 14.639,
+  "fim": 15.049
+ },
+ {
+  "palavra": "passavam",
+  "inicio": 15.049,
+  "fim": 15.589
+ },
+ {
+  "palavra": "por",
+  "inicio": 15.589,
+  "fim": 15.789
+ },
+ {
+  "palavra": "ali",
+  "inicio": 15.789,
+  "fim": 15.989
+ },
+ {
+  "palavra": "cerca",
+  "inicio": 15.989,
+  "fim": 16.329
+ },
+ {
+  "palavra": "de",
+  "inicio": 16.329,
+  "fim": 16.459
+ },
+ {
+  "palavra": "vinte",
+  "inicio": 16.459,
+  "fim": 16.789
+ },
+ {
+  "palavra": "milhões",
+  "inicio": 16.789,
+  "fim": 17.269
+ },
+ {
+  "palavra": "de",
+  "inicio": 17.269,
+  "fim": 17.389
+ },
+ {
+  "palavra": "barris",
+  "inicio": 17.389,
+  "fim": 17.799
+ },
+ {
+  "palavra": "por",
+  "inicio": 17.799,
+  "fim": 17.999
+ },
+ {
+  "palavra": "dia.",
+  "inicio": 17.999,
+  "fim": 18.419
+ },
+ {
+  "palavra": "Um",
+  "inicio": 18.419,
+  "fim": 18.489
+ },
+ {
+  "palavra": "em",
+  "inicio": 18.489,
+  "fim": 18.609
+ },
+ {
+  "palavra": "cada",
+  "inicio": 18.609,
+  "fim": 18.949
+ },
+ {
+  "palavra": "cinco",
+  "inicio": 18.949,
+  "fim": 19.289
+ },
+ {
+  "palavra": "barris",
+  "inicio": 19.289,
+  "fim": 19.669
+ },
+ {
+  "palavra": "consumidos",
+  "inicio": 19.669,
+  "fim": 20.299
+ },
+ {
+  "palavra": "no",
+  "inicio": 20.299,
+  "fim": 20.419
+ },
+ {
+  "palavra": "planeta.",
+  "inicio": 20.419,
+  "fim": 21.069
+ },
+ {
+  "palavra": "Este",
+  "inicio": 21.626,
+  "fim": 21.996
+ },
+ {
+  "palavra": "é",
+  "inicio": 21.996,
+  "fim": 22.086
+ },
+ {
+  "palavra": "o",
+  "inicio": 22.086,
+  "fim": 22.176
+ },
+ {
+  "palavra": "Estreito",
+  "inicio": 22.176,
+  "fim": 22.926
+ },
+ {
+  "palavra": "de",
+  "inicio": 22.926,
+  "fim": 23.116
+ },
+ {
+  "palavra": "Ormuz.",
+  "inicio": 23.116,
+  "fim": 23.716
+ },
+ {
+  "palavra": "E,",
+  "inicio": 23.716,
+  "fim": 23.786
+ },
+ {
+  "palavra": "para",
+  "inicio": 23.786,
+  "fim": 23.966
+ },
+ {
+  "palavra": "entender",
+  "inicio": 23.966,
+  "fim": 24.376
+ },
+ {
+  "palavra": "por",
+  "inicio": 24.376,
+  "fim": 24.616
+ },
+ {
+  "palavra": "que",
+  "inicio": 24.616,
+  "fim": 24.856
+ },
+ {
+  "palavra": "ele",
+  "inicio": 24.856,
+  "fim": 25.136
+ },
+ {
+  "palavra": "importa",
+  "inicio": 25.136,
+  "fim": 25.666
+ },
+ {
+  "palavra": "tanto,",
+  "inicio": 25.666,
+  "fim": 26.216
+ },
+ {
+  "palavra": "é",
+  "inicio": 26.216,
+  "fim": 26.296
+ },
+ {
+  "palavra": "preciso",
+  "inicio": 26.296,
+  "fim": 26.636
+ },
+ {
+  "palavra": "olhar",
+  "inicio": 26.636,
+  "fim": 26.916
+ },
+ {
+  "palavra": "para",
+  "inicio": 26.916,
+  "fim": 27.176
+ },
+ {
+  "palavra": "o",
+  "inicio": 27.176,
+  "fim": 27.236
+ },
+ {
+  "palavra": "mapa.",
+  "inicio": 27.236,
+  "fim": 27.696
+ },
+ {
+  "palavra": "O",
+  "inicio": 28.734,
+  "fim": 28.754
+ },
+ {
+  "palavra": "Golfo",
+  "inicio": 28.754,
+  "fim": 29.144
+ },
+ {
+  "palavra": "Pérsico",
+  "inicio": 29.144,
+  "fim": 29.704
+ },
+ {
+  "palavra": "é",
+  "inicio": 29.704,
+  "fim": 29.784
+ },
+ {
+  "palavra": "um",
+  "inicio": 29.784,
+  "fim": 29.944
+ },
+ {
+  "palavra": "mar",
+  "inicio": 29.944,
+  "fim": 30.204
+ },
+ {
+  "palavra": "quase",
+  "inicio": 30.204,
+  "fim": 30.594
+ },
+ {
+  "palavra": "fechado.",
+  "inicio": 30.594,
+  "fim": 31.364
+ },
+ {
+  "palavra": "De",
+  "inicio": 31.364,
+  "fim": 31.414
+ },
+ {
+  "palavra": "um",
+  "inicio": 31.414,
+  "fim": 31.574
+ },
+ {
+  "palavra": "lado,",
+  "inicio": 31.574,
+  "fim": 32.124
+ },
+ {
+  "palavra": "o",
+  "inicio": 32.124,
+  "fim": 32.184
+ },
+ {
+  "palavra": "Irã.",
+  "inicio": 32.184,
+  "fim": 32.774
+ },
+ {
+  "palavra": "Do",
+  "inicio": 32.774,
+  "fim": 32.804
+ },
+ {
+  "palavra": "outro,",
+  "inicio": 32.804,
+  "fim": 33.334
+ },
+ {
+  "palavra": "a",
+  "inicio": 33.334,
+  "fim": 33.414
+ },
+ {
+  "palavra": "Arábia",
+  "inicio": 33.414,
+  "fim": 33.824
+ },
+ {
+  "palavra": "Saudita,",
+  "inicio": 33.824,
+  "fim": 34.554
+ },
+ {
+  "palavra": "o",
+  "inicio": 34.554,
+  "fim": 34.574
+ },
+ {
+  "palavra": "Kuwait,",
+  "inicio": 34.574,
+  "fim": 35.374
+ },
+ {
+  "palavra": "o",
+  "inicio": 35.374,
+  "fim": 35.404
+ },
+ {
+  "palavra": "Iraque,",
+  "inicio": 35.404,
+  "fim": 36.154
+ },
+ {
+  "palavra": "o",
+  "inicio": 36.154,
+  "fim": 36.154
+ },
+ {
+  "palavra": "Catar,",
+  "inicio": 36.154,
+  "fim": 36.984
+ },
+ {
+  "palavra": "o",
+  "inicio": 36.984,
+  "fim": 37.004
+ },
+ {
+  "palavra": "Bahrein",
+  "inicio": 37.004,
+  "fim": 37.714
+ },
+ {
+  "palavra": "e",
+  "inicio": 37.714,
+  "fim": 37.744
+ },
+ {
+  "palavra": "os",
+  "inicio": 37.744,
+  "fim": 37.844
+ },
+ {
+  "palavra": "Emirados",
+  "inicio": 37.844,
+  "fim": 38.384
+ },
+ {
+  "palavra": "Árabes",
+  "inicio": 38.384,
+  "fim": 38.774
+ },
+ {
+  "palavra": "Unidos.",
+  "inicio": 38.774,
+  "fim": 39.414
+ },
+ {
+  "palavra": "Todos",
+  "inicio": 39.883,
+  "fim": 40.233
+ },
+ {
+  "palavra": "dividem",
+  "inicio": 40.233,
+  "fim": 40.753
+ },
+ {
+  "palavra": "a",
+  "inicio": 40.753,
+  "fim": 40.823
+ },
+ {
+  "palavra": "mesma",
+  "inicio": 40.823,
+  "fim": 41.203
+ },
+ {
+  "palavra": "saída",
+  "inicio": 41.203,
+  "fim": 41.623
+ },
+ {
+  "palavra": "para",
+  "inicio": 41.623,
+  "fim": 41.863
+ },
+ {
+  "palavra": "o",
+  "inicio": 41.863,
+  "fim": 41.933
+ },
+ {
+  "palavra": "oceano:",
+  "inicio": 41.933,
+  "fim": 42.563
+ },
+ {
+  "palavra": "uma",
+  "inicio": 42.563,
+  "fim": 42.693
+ },
+ {
+  "palavra": "passagem",
+  "inicio": 42.693,
+  "fim": 43.263
+ },
+ {
+  "palavra": "entre",
+  "inicio": 43.263,
+  "fim": 43.653
+ },
+ {
+  "palavra": "o",
+  "inicio": 43.653,
+  "fim": 43.723
+ },
+ {
+  "palavra": "Irã,",
+  "inicio": 43.723,
+  "fim": 44.163
+ },
+ {
+  "palavra": "ao",
+  "inicio": 44.163,
+  "fim": 44.373
+ },
+ {
+  "palavra": "norte,",
+  "inicio": 44.373,
+  "fim": 45.023
+ },
+ {
+  "palavra": "e",
+  "inicio": 45.023,
+  "fim": 45.093
+ },
+ {
+  "palavra": "a",
+  "inicio": 45.093,
+  "fim": 45.243
+ },
+ {
+  "palavra": "península",
+  "inicio": 45.243,
+  "fim": 45.723
+ },
+ {
+  "palavra": "de",
+  "inicio": 45.723,
+  "fim": 45.873
+ },
+ {
+  "palavra": "Musandam,",
+  "inicio": 45.873,
+  "fim": 46.633
+ },
+ {
+  "palavra": "um",
+  "inicio": 46.633,
+  "fim": 46.783
+ },
+ {
+  "palavra": "pedaço",
+  "inicio": 46.783,
+  "fim": 47.233
+ },
+ {
+  "palavra": "de",
+  "inicio": 47.233,
+  "fim": 47.383
+ },
+ {
+  "palavra": "Omã",
+  "inicio": 47.383,
+  "fim": 47.683
+ },
+ {
+  "palavra": "separado",
+  "inicio": 47.683,
+  "fim": 48.423
+ },
+ {
+  "palavra": "do",
+  "inicio": 48.423,
+  "fim": 48.453
+ },
+ {
+  "palavra": "resto",
+  "inicio": 48.453,
+  "fim": 48.843
+ },
+ {
+  "palavra": "do",
+  "inicio": 48.843,
+  "fim": 48.993
+ },
+ {
+  "palavra": "país.",
+  "inicio": 48.993,
+  "fim": 49.683
+ },
+ {
+  "palavra": "No",
+  "inicio": 50.201,
+  "fim": 50.281
+ },
+ {
+  "palavra": "ponto",
+  "inicio": 50.281,
+  "fim": 50.671
+ },
+ {
+  "palavra": "mais",
+  "inicio": 50.671,
+  "fim": 51.061
+ },
+ {
+  "palavra": "estreito,",
+  "inicio": 51.061,
+  "fim": 51.601
+ },
+ {
+  "palavra": "são",
+  "inicio": 51.601,
+  "fim": 51.831
+ },
+ {
+  "palavra": "cerca",
+  "inicio": 51.831,
+  "fim": 52.271
+ },
+ {
+  "palavra": "de",
+  "inicio": 52.271,
+  "fim": 52.371
+ },
+ {
+  "palavra": "33",
+  "inicio": 52.371,
+  "fim": 52.831
+ },
+ {
+  "palavra": "quilômetros.",
+  "inicio": 52.831,
+  "fim": 53.821
+ },
+ {
+  "palavra": "E",
+  "inicio": 53.821,
+  "fim": 53.831
+ },
+ {
+  "palavra": "as",
+  "inicio": 53.831,
+  "fim": 54.001
+ },
+ {
+  "palavra": "faixas",
+  "inicio": 54.001,
+  "fim": 54.571
+ },
+ {
+  "palavra": "de",
+  "inicio": 54.571,
+  "fim": 54.711
+ },
+ {
+  "palavra": "navegação",
+  "inicio": 54.711,
+  "fim": 55.351
+ },
+ {
+  "palavra": "são",
+  "inicio": 55.351,
+  "fim": 55.571
+ },
+ {
+  "palavra": "ainda",
+  "inicio": 55.571,
+  "fim": 55.811
+ },
+ {
+  "palavra": "menores:",
+  "inicio": 55.811,
+  "fim": 56.811
+ },
+ {
+  "palavra": "uns",
+  "inicio": 56.811,
+  "fim": 56.971
+ },
+ {
+  "palavra": "3",
+  "inicio": 56.971,
+  "fim": 57.171
+ },
+ {
+  "palavra": "quilômetros",
+  "inicio": 57.171,
+  "fim": 57.971
+ },
+ {
+  "palavra": "para",
+  "inicio": 57.971,
+  "fim": 58.271
+ },
+ {
+  "palavra": "entrar",
+  "inicio": 58.271,
+  "fim": 58.721
+ },
+ {
+  "palavra": "e",
+  "inicio": 58.721,
+  "fim": 58.731
+ },
+ {
+  "palavra": "três",
+  "inicio": 58.731,
+  "fim": 59.021
+ },
+ {
+  "palavra": "para",
+  "inicio": 59.021,
+  "fim": 59.311
+ },
+ {
+  "palavra": "sair.",
+  "inicio": 59.311,
+  "fim": 59.666
+ },
+ {
+  "palavra": "No",
+  "inicio": 60.166,
+  "fim": 60.236
+ },
+ {
+  "palavra": "caminho",
+  "inicio": 60.236,
+  "fim": 60.766
+ },
+ {
+  "palavra": "há",
+  "inicio": 60.766,
+  "fim": 60.836
+ },
+ {
+  "palavra": "ilhas.",
+  "inicio": 60.836,
+  "fim": 61.486
+ },
+ {
+  "palavra": "Ormuz,",
+  "inicio": 61.486,
+  "fim": 62.286
+ },
+ {
+  "palavra": "Queixome",
+  "inicio": 62.286,
+  "fim": 63.116
+ },
+ {
+  "palavra": "e",
+  "inicio": 63.116,
+  "fim": 63.176
+ },
+ {
+  "palavra": "Larak",
+  "inicio": 63.176,
+  "fim": 63.766
+ },
+ {
+  "palavra": "são",
+  "inicio": 63.766,
+  "fim": 64.046
+ },
+ {
+  "palavra": "iranianas.",
+  "inicio": 64.046,
+  "fim": 65.076
+ },
+ {
+  "palavra": "Mais",
+  "inicio": 65.076,
+  "fim": 65.356
+ },
+ {
+  "palavra": "a",
+  "inicio": 65.356,
+  "fim": 65.446
+ },
+ {
+  "palavra": "oeste,",
+  "inicio": 65.446,
+  "fim": 66.006
+ },
+ {
+  "palavra": "Abu",
+  "inicio": 66.006,
+  "fim": 66.406
+ },
+ {
+  "palavra": "Musa",
+  "inicio": 66.406,
+  "fim": 66.806
+ },
+ {
+  "palavra": "e",
+  "inicio": 66.806,
+  "fim": 66.926
+ },
+ {
+  "palavra": "as",
+  "inicio": 66.926,
+  "fim": 67.046
+ },
+ {
+  "palavra": "duas",
+  "inicio": 67.046,
+  "fim": 67.366
+ },
+ {
+  "palavra": "ilhas",
+  "inicio": 67.366,
+  "fim": 67.566
+ },
+ {
+  "palavra": "Tunb",
+  "inicio": 67.566,
+  "fim": 68.166
+ },
+ {
+  "palavra": "estão",
+  "inicio": 68.166,
+  "fim": 68.386
+ },
+ {
+  "palavra": "sob",
+  "inicio": 68.386,
+  "fim": 68.566
+ },
+ {
+  "palavra": "controle",
+  "inicio": 68.566,
+  "fim": 69.046
+ },
+ {
+  "palavra": "do",
+  "inicio": 69.046,
+  "fim": 69.256
+ },
+ {
+  "palavra": "Irã",
+  "inicio": 69.256,
+  "fim": 69.586
+ },
+ {
+  "palavra": "desde",
+  "inicio": 69.586,
+  "fim": 70.296
+ },
+ {
+  "palavra": "1971",
+  "inicio": 70.296,
+  "fim": 72.066
+ },
+ {
+  "palavra": "e",
+  "inicio": 72.066,
+  "fim": 72.146
+ },
+ {
+  "palavra": "são",
+  "inicio": 72.146,
+  "fim": 72.266
+ },
+ {
+  "palavra": "reivindicadas",
+  "inicio": 72.266,
+  "fim": 73.106
+ },
+ {
+  "palavra": "pelos",
+  "inicio": 73.106,
+  "fim": 73.436
+ },
+ {
+  "palavra": "Emirados.",
+  "inicio": 73.436,
+  "fim": 74.206
+ },
+ {
+  "palavra": "A",
+  "inicio": 75.25,
+  "fim": 75.26
+ },
+ {
+  "palavra": "disputa",
+  "inicio": 75.26,
+  "fim": 75.83
+ },
+ {
+  "palavra": "por",
+  "inicio": 75.83,
+  "fim": 76.08
+ },
+ {
+  "palavra": "este",
+  "inicio": 76.08,
+  "fim": 76.41
+ },
+ {
+  "palavra": "lugar",
+  "inicio": 76.41,
+  "fim": 76.83
+ },
+ {
+  "palavra": "é",
+  "inicio": 76.83,
+  "fim": 76.91
+ },
+ {
+  "palavra": "antiga.",
+  "inicio": 76.91,
+  "fim": 77.58
+ },
+ {
+  "palavra": "Na",
+  "inicio": 77.58,
+  "fim": 77.62
+ },
+ {
+  "palavra": "Idade",
+  "inicio": 77.62,
+  "fim": 77.95
+ },
+ {
+  "palavra": "Média,",
+  "inicio": 77.95,
+  "fim": 78.4
+ },
+ {
+  "palavra": "a",
+  "inicio": 78.4,
+  "fim": 78.46
+ },
+ {
+  "palavra": "ilha",
+  "inicio": 78.46,
+  "fim": 78.72
+ },
+ {
+  "palavra": "de",
+  "inicio": 78.72,
+  "fim": 78.85
+ },
+ {
+  "palavra": "Ormuz",
+  "inicio": 78.85,
+  "fim": 79.31
+ },
+ {
+  "palavra": "era",
+  "inicio": 79.31,
+  "fim": 79.43
+ },
+ {
+  "palavra": "o",
+  "inicio": 79.43,
+  "fim": 79.49
+ },
+ {
+  "palavra": "centro",
+  "inicio": 79.49,
+  "fim": 79.91
+ },
+ {
+  "palavra": "de",
+  "inicio": 79.91,
+  "fim": 80.03
+ },
+ {
+  "palavra": "um",
+  "inicio": 80.03,
+  "fim": 80.13
+ },
+ {
+  "palavra": "reino",
+  "inicio": 80.13,
+  "fim": 80.45
+ },
+ {
+  "palavra": "que",
+  "inicio": 80.45,
+  "fim": 80.63
+ },
+ {
+  "palavra": "vivia",
+  "inicio": 80.63,
+  "fim": 80.93
+ },
+ {
+  "palavra": "do",
+  "inicio": 80.93,
+  "fim": 80.97
+ },
+ {
+  "palavra": "comércio",
+  "inicio": 80.97,
+  "fim": 81.51
+ },
+ {
+  "palavra": "entre",
+  "inicio": 81.51,
+  "fim": 81.81
+ },
+ {
+  "palavra": "a",
+  "inicio": 81.81,
+  "fim": 81.87
+ },
+ {
+  "palavra": "Índia,",
+  "inicio": 81.87,
+  "fim": 82.42
+ },
+ {
+  "palavra": "a",
+  "inicio": 82.42,
+  "fim": 82.45
+ },
+ {
+  "palavra": "Pérsia",
+  "inicio": 82.45,
+  "fim": 82.93
+ },
+ {
+  "palavra": "e",
+  "inicio": 82.93,
+  "fim": 83.01
+ },
+ {
+  "palavra": "a",
+  "inicio": 83.01,
+  "fim": 83.09
+ },
+ {
+  "palavra": "Arábia.",
+  "inicio": 83.09,
+  "fim": 83.87
+ },
+ {
+  "palavra": "No",
+  "inicio": 84.437,
+  "fim": 84.517
+ },
+ {
+  "palavra": "começo",
+  "inicio": 84.517,
+  "fim": 84.977
+ },
+ {
+  "palavra": "do",
+  "inicio": 84.977,
+  "fim": 85.137
+ },
+ {
+  "palavra": "século",
+  "inicio": 85.137,
+  "fim": 85.587
+ },
+ {
+  "palavra": "dezesseis,",
+  "inicio": 85.587,
+  "fim": 85.807
+ },
+ {
+  "palavra": "chegaram",
+  "inicio": 85.807,
+  "fim": 86.417
+ },
+ {
+  "palavra": "os",
+  "inicio": 86.417,
+  "fim": 86.567
+ },
+ {
+  "palavra": "portugueses.",
+  "inicio": 86.567,
+  "fim": 87.667
+ },
+ {
+  "palavra": "Afonso",
+  "inicio": 87.667,
+  "fim": 88.007
+ },
+ {
+  "palavra": "de",
+  "inicio": 88.007,
+  "fim": 88.137
+ },
+ {
+  "palavra": "Albuquerque",
+  "inicio": 88.137,
+  "fim": 88.887
+ },
+ {
+  "palavra": "atacou",
+  "inicio": 88.887,
+  "fim": 89.257
+ },
+ {
+  "palavra": "Ormuz",
+  "inicio": 89.257,
+  "fim": 89.647
+ },
+ {
+  "palavra": "em",
+  "inicio": 89.647,
+  "fim": 89.877
+ },
+ {
+  "palavra": "1507",
+  "inicio": 89.877,
+  "fim": 91.327
+ },
+ {
+  "palavra": "e,",
+  "inicio": 91.327,
+  "fim": 91.357
+ },
+ {
+  "palavra": "em",
+  "inicio": 91.357,
+  "fim": 91.967
+ },
+ {
+  "palavra": "1515",
+  "inicio": 91.967,
+  "fim": 92.687
+ },
+ {
+  "palavra": "Portugal",
+  "inicio": 92.687,
+  "fim": 93.287
+ },
+ {
+  "palavra": "tomou",
+  "inicio": 93.287,
+  "fim": 93.657
+ },
+ {
+  "palavra": "a",
+  "inicio": 93.657,
+  "fim": 93.727
+ },
+ {
+  "palavra": "ilha",
+  "inicio": 93.727,
+  "fim": 94.107
+ },
+ {
+  "palavra": "e",
+  "inicio": 94.107,
+  "fim": 94.147
+ },
+ {
+  "palavra": "ergueu",
+  "inicio": 94.147,
+  "fim": 94.497
+ },
+ {
+  "palavra": "ali",
+  "inicio": 94.497,
+  "fim": 94.697
+ },
+ {
+  "palavra": "uma",
+  "inicio": 94.697,
+  "fim": 94.897
+ },
+ {
+  "palavra": "fortaleza.",
+  "inicio": 94.897,
+  "fim": 95.767
+ },
+ {
+  "palavra": "Foram",
+  "inicio": 96.365,
+  "fim": 96.565
+ },
+ {
+  "palavra": "mais",
+  "inicio": 96.565,
+  "fim": 96.815
+ },
+ {
+  "palavra": "de",
+  "inicio": 96.815,
+  "fim": 96.935
+ },
+ {
+  "palavra": "100",
+  "inicio": 96.935,
+  "fim": 97.515
+ },
+ {
+  "palavra": "anos",
+  "inicio": 97.515,
+  "fim": 97.765
+ },
+ {
+  "palavra": "de",
+  "inicio": 97.765,
+  "fim": 97.885
+ },
+ {
+  "palavra": "domínio",
+  "inicio": 97.885,
+  "fim": 98.315
+ },
+ {
+  "palavra": "português,",
+  "inicio": 98.315,
+  "fim": 99.095
+ },
+ {
+  "palavra": "até",
+  "inicio": 99.095,
+  "fim": 99.435
+ },
+ {
+  "palavra": "1622,",
+  "inicio": 99.435,
+  "fim": 101.475
+ },
+ {
+  "palavra": "quando",
+  "inicio": 101.475,
+  "fim": 101.805
+ },
+ {
+  "palavra": "o",
+  "inicio": 101.805,
+  "fim": 101.885
+ },
+ {
+  "palavra": "xá",
+  "inicio": 101.885,
+  "fim": 102.255
+ },
+ {
+  "palavra": "Abbas,",
+  "inicio": 102.255,
+  "fim": 102.625
+ },
+ {
+  "palavra": "da",
+  "inicio": 102.625,
+  "fim": 102.745
+ },
+ {
+  "palavra": "Pérsia,",
+  "inicio": 102.745,
+  "fim": 103.525
+ },
+ {
+  "palavra": "com",
+  "inicio": 103.525,
+  "fim": 103.615
+ },
+ {
+  "palavra": "a",
+  "inicio": 103.615,
+  "fim": 103.685
+ },
+ {
+  "palavra": "ajuda",
+  "inicio": 103.685,
+  "fim": 104.075
+ },
+ {
+  "palavra": "de",
+  "inicio": 104.075,
+  "fim": 104.205
+ },
+ {
+  "palavra": "navios",
+  "inicio": 104.205,
+  "fim": 104.605
+ },
+ {
+  "palavra": "ingleses,",
+  "inicio": 104.605,
+  "fim": 105.455
+ },
+ {
+  "palavra": "expulsou",
+  "inicio": 105.455,
+  "fim": 105.865
+ },
+ {
+  "palavra": "os",
+  "inicio": 105.865,
+  "fim": 106.005
+ },
+ {
+  "palavra": "portugueses.",
+  "inicio": 106.005,
+  "fim": 107.055
+ },
+ {
+  "palavra": "O",
+  "inicio": 107.576,
+  "fim": 107.596
+ },
+ {
+  "palavra": "porto",
+  "inicio": 107.596,
+  "fim": 107.896
+ },
+ {
+  "palavra": "do",
+  "inicio": 107.896,
+  "fim": 108.026
+ },
+ {
+  "palavra": "continente",
+  "inicio": 108.026,
+  "fim": 108.676
+ },
+ {
+  "palavra": "ganhou",
+  "inicio": 108.676,
+  "fim": 109.066
+ },
+ {
+  "palavra": "o",
+  "inicio": 109.066,
+  "fim": 109.126
+ },
+ {
+  "palavra": "nome",
+  "inicio": 109.126,
+  "fim": 109.386
+ },
+ {
+  "palavra": "do",
+  "inicio": 109.386,
+  "fim": 109.516
+ },
+ {
+  "palavra": "vencedor:",
+  "inicio": 109.516,
+  "fim": 110.266
+ },
+ {
+  "palavra": "Bandar",
+  "inicio": 110.266,
+  "fim": 110.751
+ },
+ {
+  "palavra": "Abbas,",
+  "inicio": 110.751,
+  "fim": 111.236
+ },
+ {
+  "palavra": "o",
+  "inicio": 111.236,
+  "fim": 111.246
+ },
+ {
+  "palavra": "porto",
+  "inicio": 111.246,
+  "fim": 111.716
+ },
+ {
+  "palavra": "de",
+  "inicio": 111.716,
+  "fim": 111.906
+ },
+ {
+  "palavra": "Abbas.",
+  "inicio": 111.906,
+  "fim": 112.516
+ },
+ {
+  "palavra": "Até",
+  "inicio": 112.516,
+  "fim": 112.706
+ },
+ {
+  "palavra": "hoje,",
+  "inicio": 112.706,
+  "fim": 112.986
+ },
+ {
+  "palavra": "é",
+  "inicio": 112.986,
+  "fim": 113.016
+ },
+ {
+  "palavra": "uma",
+  "inicio": 113.016,
+  "fim": 113.206
+ },
+ {
+  "palavra": "das",
+  "inicio": 113.206,
+  "fim": 113.396
+ },
+ {
+  "palavra": "portas",
+  "inicio": 113.396,
+  "fim": 113.766
+ },
+ {
+  "palavra": "de",
+  "inicio": 113.766,
+  "fim": 113.896
+ },
+ {
+  "palavra": "entrada",
+  "inicio": 113.896,
+  "fim": 114.346
+ },
+ {
+  "palavra": "do",
+  "inicio": 114.346,
+  "fim": 114.486
+ },
+ {
+  "palavra": "Irã",
+  "inicio": 114.486,
+  "fim": 114.676
+ },
+ {
+  "palavra": "para",
+  "inicio": 114.676,
+  "fim": 114.916
+ },
+ {
+  "palavra": "o",
+  "inicio": 114.916,
+  "fim": 114.976
+ },
+ {
+  "palavra": "mar.",
+  "inicio": 114.976,
+  "fim": 115.436
+ },
+ {
+  "palavra": "No",
+  "inicio": 116.486,
+  "fim": 116.576
+ },
+ {
+  "palavra": "século",
+  "inicio": 116.576,
+  "fim": 116.996
+ },
+ {
+  "palavra": "vinte,",
+  "inicio": 116.996,
+  "fim": 117.276
+ },
+ {
+  "palavra": "o",
+  "inicio": 117.276,
+  "fim": 117.346
+ },
+ {
+  "palavra": "valor",
+  "inicio": 117.346,
+  "fim": 117.696
+ },
+ {
+  "palavra": "do",
+  "inicio": 117.696,
+  "fim": 117.836
+ },
+ {
+  "palavra": "estreito",
+  "inicio": 117.836,
+  "fim": 118.396
+ },
+ {
+  "palavra": "mudou",
+  "inicio": 118.396,
+  "fim": 118.746
+ },
+ {
+  "palavra": "por",
+  "inicio": 118.746,
+  "fim": 118.936
+ },
+ {
+  "palavra": "causa",
+  "inicio": 118.936,
+  "fim": 119.236
+ },
+ {
+  "palavra": "do",
+  "inicio": 119.236,
+  "fim": 119.416
+ },
+ {
+  "palavra": "que",
+  "inicio": 119.416,
+  "fim": 119.606
+ },
+ {
+  "palavra": "estava",
+  "inicio": 119.606,
+  "fim": 119.976
+ },
+ {
+  "palavra": "debaixo",
+  "inicio": 119.976,
+  "fim": 120.436
+ },
+ {
+  "palavra": "da",
+  "inicio": 120.436,
+  "fim": 120.566
+ },
+ {
+  "palavra": "areia.",
+  "inicio": 120.566,
+  "fim": 120.996
+ },
+ {
+  "palavra": "Petróleo",
+  "inicio": 120.996,
+  "fim": 121.846
+ },
+ {
+  "palavra": "no",
+  "inicio": 121.846,
+  "fim": 122.056
+ },
+ {
+  "palavra": "Irã,",
+  "inicio": 122.056,
+  "fim": 122.366
+ },
+ {
+  "palavra": "em",
+  "inicio": 122.366,
+  "fim": 122.576
+ },
+ {
+  "palavra": "1908,",
+  "inicio": 122.576,
+  "fim": 124.096
+ },
+ {
+  "palavra": "Na",
+  "inicio": 124.096,
+  "fim": 124.286
+ },
+ {
+  "palavra": "Arábia",
+  "inicio": 124.286,
+  "fim": 124.816
+ },
+ {
+  "palavra": "Saudita,",
+  "inicio": 124.816,
+  "fim": 125.616
+ },
+ {
+  "palavra": "em",
+  "inicio": 125.616,
+  "fim": 125.626
+ },
+ {
+  "palavra": "1938.",
+  "inicio": 125.626,
+  "fim": 127.056
+ },
+ {
+  "palavra": "O",
+  "inicio": 127.626,
+  "fim": 127.626
+ },
+ {
+  "palavra": "Golfo",
+  "inicio": 127.626,
+  "fim": 127.956
+ },
+ {
+  "palavra": "virou",
+  "inicio": 127.956,
+  "fim": 128.286
+ },
+ {
+  "palavra": "a",
+  "inicio": 128.286,
+  "fim": 128.346
+ },
+ {
+  "palavra": "região",
+  "inicio": 128.346,
+  "fim": 128.746
+ },
+ {
+  "palavra": "com",
+  "inicio": 128.746,
+  "fim": 128.946
+ },
+ {
+  "palavra": "as",
+  "inicio": 128.946,
+  "fim": 129.076
+ },
+ {
+  "palavra": "maiores",
+  "inicio": 129.076,
+  "fim": 129.546
+ },
+ {
+  "palavra": "reservas",
+  "inicio": 129.546,
+  "fim": 130.076
+ },
+ {
+  "palavra": "de",
+  "inicio": 130.076,
+  "fim": 130.206
+ },
+ {
+  "palavra": "petróleo",
+  "inicio": 130.206,
+  "fim": 130.736
+ },
+ {
+  "palavra": "do",
+  "inicio": 130.736,
+  "fim": 130.866
+ },
+ {
+  "palavra": "mundo.",
+  "inicio": 130.866,
+  "fim": 131.406
+ },
+ {
+  "palavra": "E",
+  "inicio": 131.406,
+  "fim": 131.466
+ },
+ {
+  "palavra": "quase",
+  "inicio": 131.466,
+  "fim": 131.856
+ },
+ {
+  "palavra": "tudo",
+  "inicio": 131.856,
+  "fim": 132.226
+ },
+ {
+  "palavra": "o",
+  "inicio": 132.226,
+  "fim": 132.266
+ },
+ {
+  "palavra": "que",
+  "inicio": 132.266,
+  "fim": 132.406
+ },
+ {
+  "palavra": "sai",
+  "inicio": 132.406,
+  "fim": 132.566
+ },
+ {
+  "palavra": "de",
+  "inicio": 132.566,
+  "fim": 132.726
+ },
+ {
+  "palavra": "lá",
+  "inicio": 132.726,
+  "fim": 132.886
+ },
+ {
+  "palavra": "por",
+  "inicio": 132.886,
+  "fim": 133.186
+ },
+ {
+  "palavra": "mar",
+  "inicio": 133.186,
+  "fim": 133.486
+ },
+ {
+  "palavra": "tem",
+  "inicio": 133.486,
+  "fim": 133.646
+ },
+ {
+  "palavra": "que",
+  "inicio": 133.646,
+  "fim": 133.816
+ },
+ {
+  "palavra": "passar",
+  "inicio": 133.816,
+  "fim": 134.206
+ },
+ {
+  "palavra": "pelo",
+  "inicio": 134.206,
+  "fim": 134.376
+ },
+ {
+  "palavra": "mesmo",
+  "inicio": 134.376,
+  "fim": 134.656
+ },
+ {
+  "palavra": "caminho.",
+  "inicio": 134.656,
+  "fim": 135.246
+ },
+ {
+  "palavra": "Nos",
+  "inicio": 135.758,
+  "fim": 135.918
+ },
+ {
+  "palavra": "anos",
+  "inicio": 135.918,
+  "fim": 136.178
+ },
+ {
+  "palavra": "80,",
+  "inicio": 136.178,
+  "fim": 136.708
+ },
+ {
+  "palavra": "durante",
+  "inicio": 136.708,
+  "fim": 137.168
+ },
+ {
+  "palavra": "a",
+  "inicio": 137.168,
+  "fim": 137.228
+ },
+ {
+  "palavra": "guerra",
+  "inicio": 137.228,
+  "fim": 137.628
+ },
+ {
+  "palavra": "entre",
+  "inicio": 137.628,
+  "fim": 137.958
+ },
+ {
+  "palavra": "o",
+  "inicio": 137.958,
+  "fim": 138.018
+ },
+ {
+  "palavra": "Irã",
+  "inicio": 138.018,
+  "fim": 138.208
+ },
+ {
+  "palavra": "e",
+  "inicio": 138.208,
+  "fim": 138.268
+ },
+ {
+  "palavra": "o",
+  "inicio": 138.268,
+  "fim": 138.328
+ },
+ {
+  "palavra": "Iraque,",
+  "inicio": 138.328,
+  "fim": 138.908
+ },
+ {
+  "palavra": "os",
+  "inicio": 138.908,
+  "fim": 139.018
+ },
+ {
+  "palavra": "dois",
+  "inicio": 139.018,
+  "fim": 139.248
+ },
+ {
+  "palavra": "lados",
+  "inicio": 139.248,
+  "fim": 139.528
+ },
+ {
+  "palavra": "atacaram",
+  "inicio": 139.528,
+  "fim": 139.988
+ },
+ {
+  "palavra": "navios",
+  "inicio": 139.988,
+  "fim": 140.358
+ },
+ {
+  "palavra": "no",
+  "inicio": 140.358,
+  "fim": 140.488
+ },
+ {
+  "palavra": "Golfo.",
+  "inicio": 140.488,
+  "fim": 140.938
+ },
+ {
+  "palavra": "Foi",
+  "inicio": 140.938,
+  "fim": 141.128
+ },
+ {
+  "palavra": "a",
+  "inicio": 141.128,
+  "fim": 141.198
+ },
+ {
+  "palavra": "chamada",
+  "inicio": 141.198,
+  "fim": 141.658
+ },
+ {
+  "palavra": "guerra",
+  "inicio": 141.658,
+  "fim": 142.058
+ },
+ {
+  "palavra": "dos",
+  "inicio": 142.058,
+  "fim": 142.258
+ },
+ {
+  "palavra": "petroleiros.",
+  "inicio": 142.258,
+  "fim": 143.238
+ },
+ {
+  "palavra": "Em",
+  "inicio": 143.8,
+  "fim": 144.01
+ },
+ {
+  "palavra": "1988,",
+  "inicio": 144.01,
+  "fim": 146.02
+ },
+ {
+  "palavra": "a",
+  "inicio": 146.02,
+  "fim": 146.03
+ },
+ {
+  "palavra": "Marinha",
+  "inicio": 146.03,
+  "fim": 146.45
+ },
+ {
+  "palavra": "americana",
+  "inicio": 146.45,
+  "fim": 147.01
+ },
+ {
+  "palavra": "afundou",
+  "inicio": 147.01,
+  "fim": 147.43
+ },
+ {
+  "palavra": "navios",
+  "inicio": 147.43,
+  "fim": 147.79
+ },
+ {
+  "palavra": "iranianos",
+  "inicio": 147.79,
+  "fim": 148.45
+ },
+ {
+  "palavra": "na",
+  "inicio": 148.45,
+  "fim": 148.6
+ },
+ {
+  "palavra": "operação",
+  "inicio": 148.6,
+  "fim": 149.31
+ },
+ {
+  "palavra": "Louva-a-Deus.",
+  "inicio": 149.31,
+  "fim": 150.3
+ },
+ {
+  "palavra": "Três",
+  "inicio": 150.3,
+  "fim": 150.56
+ },
+ {
+  "palavra": "meses",
+  "inicio": 150.56,
+  "fim": 150.9
+ },
+ {
+  "palavra": "depois,",
+  "inicio": 150.9,
+  "fim": 151.43
+ },
+ {
+  "palavra": "um",
+  "inicio": 151.43,
+  "fim": 151.6
+ },
+ {
+  "palavra": "cruzador",
+  "inicio": 151.6,
+  "fim": 152.09
+ },
+ {
+  "palavra": "americano",
+  "inicio": 152.09,
+  "fim": 152.7
+ },
+ {
+  "palavra": "derrubou",
+  "inicio": 152.7,
+  "fim": 153.22
+ },
+ {
+  "palavra": "um",
+  "inicio": 153.22,
+  "fim": 153.35
+ },
+ {
+  "palavra": "avião",
+  "inicio": 153.35,
+  "fim": 153.68
+ },
+ {
+  "palavra": "de",
+  "inicio": 153.68,
+  "fim": 153.81
+ },
+ {
+  "palavra": "passageiros",
+  "inicio": 153.81,
+  "fim": 154.55
+ },
+ {
+  "palavra": "da",
+  "inicio": 154.55,
+  "fim": 154.68
+ },
+ {
+  "palavra": "Iran",
+  "inicio": 154.68,
+  "fim": 154.94
+ },
+ {
+  "palavra": "Air,",
+  "inicio": 154.94,
+  "fim": 155.34
+ },
+ {
+  "palavra": "que",
+  "inicio": 155.34,
+  "fim": 155.42
+ },
+ {
+  "palavra": "a",
+  "inicio": 155.42,
+  "fim": 155.48
+ },
+ {
+  "palavra": "tripulação",
+  "inicio": 155.48,
+  "fim": 156.21
+ },
+ {
+  "palavra": "disse",
+  "inicio": 156.21,
+  "fim": 156.58
+ },
+ {
+  "palavra": "ter",
+  "inicio": 156.58,
+  "fim": 156.8
+ },
+ {
+  "palavra": "confundido",
+  "inicio": 156.8,
+  "fim": 157.53
+ },
+ {
+  "palavra": "com",
+  "inicio": 157.53,
+  "fim": 157.77
+ },
+ {
+  "palavra": "um",
+  "inicio": 157.77,
+  "fim": 157.89
+ },
+ {
+  "palavra": "caça.",
+  "inicio": 157.89,
+  "fim": 158.46
+ },
+ {
+  "palavra": "Duzentas",
+  "inicio": 158.46,
+  "fim": 158.94
+ },
+ {
+  "palavra": "e",
+  "inicio": 158.94,
+  "fim": 159.0
+ },
+ {
+  "palavra": "noventa",
+  "inicio": 159.0,
+  "fim": 159.42
+ },
+ {
+  "palavra": "pessoas",
+  "inicio": 159.42,
+  "fim": 159.85
+ },
+ {
+  "palavra": "morreram.",
+  "inicio": 159.85,
+  "fim": 160.58
+ },
+ {
+  "palavra": "Antes",
+  "inicio": 161.673,
+  "fim": 162.023
+ },
+ {
+  "palavra": "da",
+  "inicio": 162.023,
+  "fim": 162.193
+ },
+ {
+  "palavra": "guerra",
+  "inicio": 162.193,
+  "fim": 162.713
+ },
+ {
+  "palavra": "de",
+  "inicio": 162.713,
+  "fim": 162.883
+ },
+ {
+  "palavra": "2026,",
+  "inicio": 162.883,
+  "fim": 164.243
+ },
+ {
+  "palavra": "quem",
+  "inicio": 164.243,
+  "fim": 164.373
+ },
+ {
+  "palavra": "mais",
+  "inicio": 164.373,
+  "fim": 164.613
+ },
+ {
+  "palavra": "exportava",
+  "inicio": 164.613,
+  "fim": 165.173
+ },
+ {
+  "palavra": "por",
+  "inicio": 165.173,
+  "fim": 165.383
+ },
+ {
+  "palavra": "ali",
+  "inicio": 165.383,
+  "fim": 165.593
+ },
+ {
+  "palavra": "era",
+  "inicio": 165.593,
+  "fim": 165.793
+ },
+ {
+  "palavra": "a",
+  "inicio": 165.793,
+  "fim": 165.853
+ },
+ {
+  "palavra": "Arábia",
+  "inicio": 165.853,
+  "fim": 166.263
+ },
+ {
+  "palavra": "Saudita:",
+  "inicio": 166.263,
+  "fim": 167.033
+ },
+ {
+  "palavra": "38%",
+  "inicio": 167.033,
+  "fim": 168.233
+ },
+ {
+  "palavra": "do",
+  "inicio": 168.233,
+  "fim": 168.373
+ },
+ {
+  "palavra": "petróleo",
+  "inicio": 168.373,
+  "fim": 168.793
+ },
+ {
+  "palavra": "bruto",
+  "inicio": 168.793,
+  "fim": 169.133
+ },
+ {
+  "palavra": "que",
+  "inicio": 169.133,
+  "fim": 169.343
+ },
+ {
+  "palavra": "cruzava",
+  "inicio": 169.343,
+  "fim": 169.813
+ },
+ {
+  "palavra": "o",
+  "inicio": 169.813,
+  "fim": 169.913
+ },
+ {
+  "palavra": "estreito.",
+  "inicio": 169.913,
+  "fim": 170.473
+ },
+ {
+  "palavra": "O",
+  "inicio": 171.043,
+  "fim": 171.063
+ },
+ {
+  "palavra": "Catar",
+  "inicio": 171.063,
+  "fim": 171.393
+ },
+ {
+  "palavra": "manda",
+  "inicio": 171.393,
+  "fim": 171.743
+ },
+ {
+  "palavra": "por",
+  "inicio": 171.743,
+  "fim": 171.973
+ },
+ {
+  "palavra": "esse",
+  "inicio": 171.973,
+  "fim": 172.233
+ },
+ {
+  "palavra": "caminho",
+  "inicio": 172.233,
+  "fim": 172.883
+ },
+ {
+  "palavra": "todo",
+  "inicio": 172.883,
+  "fim": 173.093
+ },
+ {
+  "palavra": "o",
+  "inicio": 173.093,
+  "fim": 173.183
+ },
+ {
+  "palavra": "seu",
+  "inicio": 173.183,
+  "fim": 173.453
+ },
+ {
+  "palavra": "gás",
+  "inicio": 173.453,
+  "fim": 173.713
+ },
+ {
+  "palavra": "natural",
+  "inicio": 173.713,
+  "fim": 174.353
+ },
+ {
+  "palavra": "liquefeito.",
+  "inicio": 174.353,
+  "fim": 175.463
+ },
+ {
+  "palavra": "Em",
+  "inicio": 175.463,
+  "fim": 175.683
+ },
+ {
+  "palavra": "2024,",
+  "inicio": 175.683,
+  "fim": 177.113
+ },
+ {
+  "palavra": "cerca",
+  "inicio": 177.113,
+  "fim": 177.373
+ },
+ {
+  "palavra": "de",
+  "inicio": 177.373,
+  "fim": 177.453
+ },
+ {
+  "palavra": "um",
+  "inicio": 177.453,
+  "fim": 177.573
+ },
+ {
+  "palavra": "quinto",
+  "inicio": 177.573,
+  "fim": 177.943
+ },
+ {
+  "palavra": "do",
+  "inicio": 177.943,
+  "fim": 178.063
+ },
+ {
+  "palavra": "gás",
+  "inicio": 178.063,
+  "fim": 178.243
+ },
+ {
+  "palavra": "liquefeito",
+  "inicio": 178.243,
+  "fim": 178.853
+ },
+ {
+  "palavra": "comercializado",
+  "inicio": 178.853,
+  "fim": 179.723
+ },
+ {
+  "palavra": "no",
+  "inicio": 179.723,
+  "fim": 179.843
+ },
+ {
+  "palavra": "mundo",
+  "inicio": 179.843,
+  "fim": 180.273
+ },
+ {
+  "palavra": "passou",
+  "inicio": 180.273,
+  "fim": 180.643
+ },
+ {
+  "palavra": "por",
+  "inicio": 180.643,
+  "fim": 180.833
+ },
+ {
+  "palavra": "Ormuz.",
+  "inicio": 180.833,
+  "fim": 181.493
+ },
+ {
+  "palavra": "E",
+  "inicio": 182.115,
+  "fim": 182.125
+ },
+ {
+  "palavra": "quem",
+  "inicio": 182.125,
+  "fim": 182.545
+ },
+ {
+  "palavra": "compra",
+  "inicio": 182.545,
+  "fim": 183.175
+ },
+ {
+  "palavra": "é",
+  "inicio": 183.175,
+  "fim": 183.275
+ },
+ {
+  "palavra": "a",
+  "inicio": 183.275,
+  "fim": 183.375
+ },
+ {
+  "palavra": "Ásia:",
+  "inicio": 183.375,
+  "fim": 184.015
+ },
+ {
+  "palavra": "84%",
+  "inicio": 184.015,
+  "fim": 184.695
+ },
+ {
+  "palavra": "do",
+  "inicio": 184.695,
+  "fim": 184.915
+ },
+ {
+  "palavra": "petróleo",
+  "inicio": 184.915,
+  "fim": 185.675
+ },
+ {
+  "palavra": "bruto",
+  "inicio": 185.675,
+  "fim": 186.165
+ },
+ {
+  "palavra": "ia",
+  "inicio": 186.165,
+  "fim": 186.365
+ },
+ {
+  "palavra": "para",
+  "inicio": 186.365,
+  "fim": 186.765
+ },
+ {
+  "palavra": "lá.",
+  "inicio": 186.765,
+  "fim": 187.225
+ },
+ {
+  "palavra": "China,",
+  "inicio": 187.225,
+  "fim": 187.725
+ },
+ {
+  "palavra": "Índia,",
+  "inicio": 187.725,
+  "fim": 188.285
+ },
+ {
+  "palavra": "Japão",
+  "inicio": 188.285,
+  "fim": 188.645
+ },
+ {
+  "palavra": "e",
+  "inicio": 188.645,
+  "fim": 188.715
+ },
+ {
+  "palavra": "Coreia",
+  "inicio": 188.715,
+  "fim": 189.175
+ },
+ {
+  "palavra": "do",
+  "inicio": 189.175,
+  "fim": 189.285
+ },
+ {
+  "palavra": "Sul",
+  "inicio": 189.285,
+  "fim": 189.505
+ },
+ {
+  "palavra": "ficavam",
+  "inicio": 189.505,
+  "fim": 190.015
+ },
+ {
+  "palavra": "com",
+  "inicio": 190.015,
+  "fim": 190.235
+ },
+ {
+  "palavra": "quase",
+  "inicio": 190.235,
+  "fim": 190.595
+ },
+ {
+  "palavra": "70%.",
+  "inicio": 190.595,
+  "fim": 191.425
+ },
+ {
+  "palavra": "Existem",
+  "inicio": 191.967,
+  "fim": 192.537
+ },
+ {
+  "palavra": "desvios.",
+  "inicio": 192.537,
+  "fim": 193.267
+ },
+ {
+  "palavra": "A",
+  "inicio": 193.267,
+  "fim": 193.297
+ },
+ {
+  "palavra": "Arábia",
+  "inicio": 193.297,
+  "fim": 193.717
+ },
+ {
+  "palavra": "Saudita",
+  "inicio": 193.717,
+  "fim": 194.207
+ },
+ {
+  "palavra": "tem",
+  "inicio": 194.207,
+  "fim": 194.417
+ },
+ {
+  "palavra": "um",
+  "inicio": 194.417,
+  "fim": 194.557
+ },
+ {
+  "palavra": "oleoduto",
+  "inicio": 194.557,
+  "fim": 195.127
+ },
+ {
+  "palavra": "que",
+  "inicio": 195.127,
+  "fim": 195.307
+ },
+ {
+  "palavra": "atravessa",
+  "inicio": 195.307,
+  "fim": 195.787
+ },
+ {
+  "palavra": "o",
+  "inicio": 195.787,
+  "fim": 195.837
+ },
+ {
+  "palavra": "país",
+  "inicio": 195.837,
+  "fim": 196.087
+ },
+ {
+  "palavra": "até",
+  "inicio": 196.087,
+  "fim": 196.367
+ },
+ {
+  "palavra": "o",
+  "inicio": 196.367,
+  "fim": 196.427
+ },
+ {
+  "palavra": "mar",
+  "inicio": 196.427,
+  "fim": 196.607
+ },
+ {
+  "palavra": "Vermelho.",
+  "inicio": 196.607,
+  "fim": 197.467
+ },
+ {
+  "palavra": "Os",
+  "inicio": 197.467,
+  "fim": 197.597
+ },
+ {
+  "palavra": "Emirados",
+  "inicio": 197.597,
+  "fim": 198.117
+ },
+ {
+  "palavra": "têm",
+  "inicio": 198.117,
+  "fim": 198.307
+ },
+ {
+  "palavra": "outro",
+  "inicio": 198.307,
+  "fim": 198.807
+ },
+ {
+  "palavra": "até",
+  "inicio": 198.807,
+  "fim": 198.817
+ },
+ {
+  "palavra": "Fujairah,",
+  "inicio": 198.817,
+  "fim": 199.387
+ },
+ {
+  "palavra": "já",
+  "inicio": 199.387,
+  "fim": 199.517
+ },
+ {
+  "palavra": "do",
+  "inicio": 199.517,
+  "fim": 199.647
+ },
+ {
+  "palavra": "lado",
+  "inicio": 199.647,
+  "fim": 199.907
+ },
+ {
+  "palavra": "de",
+  "inicio": 199.907,
+  "fim": 200.037
+ },
+ {
+  "palavra": "fora",
+  "inicio": 200.037,
+  "fim": 200.297
+ },
+ {
+  "palavra": "do",
+  "inicio": 200.297,
+  "fim": 200.427
+ },
+ {
+  "palavra": "estreito.",
+  "inicio": 200.427,
+  "fim": 201.207
+ },
+ {
+  "palavra": "Mas,",
+  "inicio": 201.755,
+  "fim": 202.025
+ },
+ {
+  "palavra": "antes",
+  "inicio": 202.025,
+  "fim": 202.525
+ },
+ {
+  "palavra": "da",
+  "inicio": 202.525,
+  "fim": 202.725
+ },
+ {
+  "palavra": "guerra,",
+  "inicio": 202.725,
+  "fim": 203.525
+ },
+ {
+  "palavra": "a",
+  "inicio": 203.525,
+  "fim": 203.535
+ },
+ {
+  "palavra": "capacidade",
+  "inicio": 203.535,
+  "fim": 204.195
+ },
+ {
+  "palavra": "livre",
+  "inicio": 204.195,
+  "fim": 204.525
+ },
+ {
+  "palavra": "desses",
+  "inicio": 204.525,
+  "fim": 204.915
+ },
+ {
+  "palavra": "oleodutos",
+  "inicio": 204.915,
+  "fim": 205.725
+ },
+ {
+  "palavra": "era",
+  "inicio": 205.725,
+  "fim": 205.915
+ },
+ {
+  "palavra": "de",
+  "inicio": 205.915,
+  "fim": 206.045
+ },
+ {
+  "palavra": "cerca",
+  "inicio": 206.045,
+  "fim": 206.375
+ },
+ {
+  "palavra": "de",
+  "inicio": 206.375,
+  "fim": 206.525
+ },
+ {
+  "palavra": "dois",
+  "inicio": 206.525,
+  "fim": 206.775
+ },
+ {
+  "palavra": "milhões",
+  "inicio": 206.775,
+  "fim": 207.225
+ },
+ {
+  "palavra": "e",
+  "inicio": 207.225,
+  "fim": 207.285
+ },
+ {
+  "palavra": "seiscentos",
+  "inicio": 207.285,
+  "fim": 207.935
+ },
+ {
+  "palavra": "mil",
+  "inicio": 207.935,
+  "fim": 208.135
+ },
+ {
+  "palavra": "barris",
+  "inicio": 208.135,
+  "fim": 208.525
+ },
+ {
+  "palavra": "por",
+  "inicio": 208.525,
+  "fim": 208.875
+ },
+ {
+  "palavra": "dia.",
+  "inicio": 208.875,
+  "fim": 209.055
+ },
+ {
+  "palavra": "Pouco",
+  "inicio": 209.055,
+  "fim": 209.385
+ },
+ {
+  "palavra": "perto",
+  "inicio": 209.385,
+  "fim": 209.715
+ },
+ {
+  "palavra": "dos",
+  "inicio": 209.715,
+  "fim": 209.915
+ },
+ {
+  "palavra": "vinte",
+  "inicio": 209.915,
+  "fim": 210.235
+ },
+ {
+  "palavra": "milhões",
+  "inicio": 210.235,
+  "fim": 210.695
+ },
+ {
+  "palavra": "que",
+  "inicio": 210.695,
+  "fim": 210.895
+ },
+ {
+  "palavra": "passavam",
+  "inicio": 210.895,
+  "fim": 211.415
+ },
+ {
+  "palavra": "pelo",
+  "inicio": 211.415,
+  "fim": 211.675
+ },
+ {
+  "palavra": "estreito.",
+  "inicio": 211.675,
+  "fim": 212.325
+ },
+ {
+  "palavra": "Por",
+  "inicio": 213.366,
+  "fim": 213.526
+ },
+ {
+  "palavra": "décadas,",
+  "inicio": 213.526,
+  "fim": 214.106
+ },
+ {
+  "palavra": "o",
+  "inicio": 214.106,
+  "fim": 214.166
+ },
+ {
+  "palavra": "Irã",
+  "inicio": 214.166,
+  "fim": 214.356
+ },
+ {
+  "palavra": "ameaçou",
+  "inicio": 214.356,
+  "fim": 214.806
+ },
+ {
+  "palavra": "fechar",
+  "inicio": 214.806,
+  "fim": 215.196
+ },
+ {
+  "palavra": "o",
+  "inicio": 215.196,
+  "fim": 215.256
+ },
+ {
+  "palavra": "estreito",
+  "inicio": 215.256,
+  "fim": 215.836
+ },
+ {
+  "palavra": "sempre",
+  "inicio": 215.836,
+  "fim": 216.226
+ },
+ {
+  "palavra": "que",
+  "inicio": 216.226,
+  "fim": 216.416
+ },
+ {
+  "palavra": "era",
+  "inicio": 216.416,
+  "fim": 216.606
+ },
+ {
+  "palavra": "pressionado.",
+  "inicio": 216.606,
+  "fim": 217.516
+ },
+ {
+  "palavra": "Em",
+  "inicio": 217.516,
+  "fim": 217.676
+ },
+ {
+  "palavra": "2019,",
+  "inicio": 217.676,
+  "fim": 218.806
+ },
+ {
+  "palavra": "navios",
+  "inicio": 218.806,
+  "fim": 219.296
+ },
+ {
+  "palavra": "foram",
+  "inicio": 219.296,
+  "fim": 219.686
+ },
+ {
+  "palavra": "atacados",
+  "inicio": 219.686,
+  "fim": 220.326
+ },
+ {
+  "palavra": "no",
+  "inicio": 220.326,
+  "fim": 220.486
+ },
+ {
+  "palavra": "Golfo",
+  "inicio": 220.486,
+  "fim": 220.886
+ },
+ {
+  "palavra": "de",
+  "inicio": 220.886,
+  "fim": 221.046
+ },
+ {
+  "palavra": "Omã,",
+  "inicio": 221.046,
+  "fim": 221.496
+ },
+ {
+  "palavra": "e",
+  "inicio": 221.496,
+  "fim": 221.626
+ },
+ {
+  "palavra": "um",
+  "inicio": 221.626,
+  "fim": 221.746
+ },
+ {
+  "palavra": "petroleiro",
+  "inicio": 221.746,
+  "fim": 222.296
+ },
+ {
+  "palavra": "britânico",
+  "inicio": 222.296,
+  "fim": 222.896
+ },
+ {
+  "palavra": "foi",
+  "inicio": 222.896,
+  "fim": 223.096
+ },
+ {
+  "palavra": "apreendido.",
+  "inicio": 223.096,
+  "fim": 223.836
+ },
+ {
+  "palavra": "Em",
+  "inicio": 224.379,
+  "fim": 224.499
+ },
+ {
+  "palavra": "junho",
+  "inicio": 224.499,
+  "fim": 224.979
+ },
+ {
+  "palavra": "de",
+  "inicio": 224.979,
+  "fim": 225.169
+ },
+ {
+  "palavra": "2025,",
+  "inicio": 225.169,
+  "fim": 226.539
+ },
+ {
+  "palavra": "depois",
+  "inicio": 226.539,
+  "fim": 226.899
+ },
+ {
+  "palavra": "de",
+  "inicio": 226.899,
+  "fim": 227.009
+ },
+ {
+  "palavra": "ataques",
+  "inicio": 227.009,
+  "fim": 227.409
+ },
+ {
+  "palavra": "americanos",
+  "inicio": 227.409,
+  "fim": 228.029
+ },
+ {
+  "palavra": "a",
+  "inicio": 228.029,
+  "fim": 228.099
+ },
+ {
+  "palavra": "instalações",
+  "inicio": 228.099,
+  "fim": 228.939
+ },
+ {
+  "palavra": "nucleares,",
+  "inicio": 228.939,
+  "fim": 229.629
+ },
+ {
+  "palavra": "o",
+  "inicio": 229.629,
+  "fim": 229.699
+ },
+ {
+  "palavra": "parlamento",
+  "inicio": 229.699,
+  "fim": 230.369
+ },
+ {
+  "palavra": "iraniano",
+  "inicio": 230.369,
+  "fim": 230.899
+ },
+ {
+  "palavra": "chegou",
+  "inicio": 230.899,
+  "fim": 231.309
+ },
+ {
+  "palavra": "a",
+  "inicio": 231.309,
+  "fim": 231.369
+ },
+ {
+  "palavra": "aprovar",
+  "inicio": 231.369,
+  "fim": 231.839
+ },
+ {
+  "palavra": "o",
+  "inicio": 231.839,
+  "fim": 231.899
+ },
+ {
+  "palavra": "fechamento.",
+  "inicio": 231.899,
+  "fim": 232.709
+ },
+ {
+  "palavra": "Mas",
+  "inicio": 232.709,
+  "fim": 232.929
+ },
+ {
+  "palavra": "a",
+  "inicio": 232.929,
+  "fim": 232.989
+ },
+ {
+  "palavra": "palavra",
+  "inicio": 232.989,
+  "fim": 233.529
+ },
+ {
+  "palavra": "final",
+  "inicio": 233.529,
+  "fim": 233.869
+ },
+ {
+  "palavra": "era",
+  "inicio": 233.869,
+  "fim": 234.119
+ },
+ {
+  "palavra": "do",
+  "inicio": 234.119,
+  "fim": 234.229
+ },
+ {
+  "palavra": "Conselho",
+  "inicio": 234.229,
+  "fim": 234.849
+ },
+ {
+  "palavra": "Supremo",
+  "inicio": 234.849,
+  "fim": 235.299
+ },
+ {
+  "palavra": "de",
+  "inicio": 235.299,
+  "fim": 235.449
+ },
+ {
+  "palavra": "Segurança",
+  "inicio": 235.449,
+  "fim": 236.099
+ },
+ {
+  "palavra": "Nacional,",
+  "inicio": 236.099,
+  "fim": 236.749
+ },
+ {
+  "palavra": "e",
+  "inicio": 236.749,
+  "fim": 236.819
+ },
+ {
+  "palavra": "o",
+  "inicio": 236.819,
+  "fim": 236.889
+ },
+ {
+  "palavra": "estreito",
+  "inicio": 236.889,
+  "fim": 237.449
+ },
+ {
+  "palavra": "continuou",
+  "inicio": 237.449,
+  "fim": 238.079
+ },
+ {
+  "palavra": "aberto.",
+  "inicio": 238.079,
+  "fim": 238.729
+ },
+ {
+  "palavra": "Até",
+  "inicio": 239.709,
+  "fim": 239.889
+ },
+ {
+  "palavra": "que,",
+  "inicio": 239.889,
+  "fim": 240.319
+ },
+ {
+  "palavra": "no",
+  "inicio": 240.319,
+  "fim": 240.489
+ },
+ {
+  "palavra": "dia",
+  "inicio": 240.489,
+  "fim": 240.749
+ },
+ {
+  "palavra": "28",
+  "inicio": 240.749,
+  "fim": 241.269
+ },
+ {
+  "palavra": "de",
+  "inicio": 241.269,
+  "fim": 241.499
+ },
+ {
+  "palavra": "fevereiro",
+  "inicio": 241.499,
+  "fim": 242.219
+ },
+ {
+  "palavra": "de",
+  "inicio": 242.219,
+  "fim": 242.389
+ },
+ {
+  "palavra": "2026,",
+  "inicio": 242.389,
+  "fim": 243.729
+ },
+ {
+  "palavra": "os",
+  "inicio": 243.729,
+  "fim": 243.809
+ },
+ {
+  "palavra": "Estados",
+  "inicio": 243.809,
+  "fim": 244.299
+ },
+ {
+  "palavra": "Unidos",
+  "inicio": 244.299,
+  "fim": 244.719
+ },
+ {
+  "palavra": "e",
+  "inicio": 244.719,
+  "fim": 244.789
+ },
+ {
+  "palavra": "Israel",
+  "inicio": 244.789,
+  "fim": 245.209
+ },
+ {
+  "palavra": "atacaram",
+  "inicio": 245.209,
+  "fim": 245.769
+ },
+ {
+  "palavra": "o",
+  "inicio": 245.769,
+  "fim": 245.869
+ },
+ {
+  "palavra": "Irã.",
+  "inicio": 245.869,
+  "fim": 246.629
+ },
+ {
+  "palavra": "Em",
+  "inicio": 246.629,
+  "fim": 246.759
+ },
+ {
+  "palavra": "poucos",
+  "inicio": 246.759,
+  "fim": 247.159
+ },
+ {
+  "palavra": "dias,",
+  "inicio": 247.159,
+  "fim": 247.549
+ },
+ {
+  "palavra": "Teerã",
+  "inicio": 247.549,
+  "fim": 247.939
+ },
+ {
+  "palavra": "declarou",
+  "inicio": 247.939,
+  "fim": 248.499
+ },
+ {
+  "palavra": "o",
+  "inicio": 248.499,
+  "fim": 248.529
+ },
+ {
+  "palavra": "estreito",
+  "inicio": 248.529,
+  "fim": 249.059
+ },
+ {
+  "palavra": "fechado.",
+  "inicio": 249.059,
+  "fim": 249.789
+ },
+ {
+  "palavra": "Navios",
+  "inicio": 250.335,
+  "fim": 250.695
+ },
+ {
+  "palavra": "foram",
+  "inicio": 250.695,
+  "fim": 251.005
+ },
+ {
+  "palavra": "atingidos,",
+  "inicio": 251.005,
+  "fim": 251.715
+ },
+ {
+  "palavra": "as",
+  "inicio": 251.715,
+  "fim": 251.925
+ },
+ {
+  "palavra": "seguradoras",
+  "inicio": 251.925,
+  "fim": 252.655
+ },
+ {
+  "palavra": "retiraram",
+  "inicio": 252.655,
+  "fim": 253.315
+ },
+ {
+  "palavra": "as",
+  "inicio": 253.315,
+  "fim": 253.455
+ },
+ {
+  "palavra": "coberturas,",
+  "inicio": 253.455,
+  "fim": 254.305
+ },
+ {
+  "palavra": "e",
+  "inicio": 254.305,
+  "fim": 254.315
+ },
+ {
+  "palavra": "o",
+  "inicio": 254.315,
+  "fim": 254.375
+ },
+ {
+  "palavra": "tráfego",
+  "inicio": 254.375,
+  "fim": 254.875
+ },
+ {
+  "palavra": "desabou.",
+  "inicio": 254.875,
+  "fim": 255.655
+ },
+ {
+  "palavra": "Em",
+  "inicio": 256.212,
+  "fim": 256.282
+ },
+ {
+  "palavra": "8",
+  "inicio": 256.282,
+  "fim": 256.542
+ },
+ {
+  "palavra": "de",
+  "inicio": 256.542,
+  "fim": 256.632
+ },
+ {
+  "palavra": "março,",
+  "inicio": 256.632,
+  "fim": 257.102
+ },
+ {
+  "palavra": "o",
+  "inicio": 257.102,
+  "fim": 257.172
+ },
+ {
+  "palavra": "barril",
+  "inicio": 257.172,
+  "fim": 257.572
+ },
+ {
+  "palavra": "do",
+  "inicio": 257.572,
+  "fim": 257.722
+ },
+ {
+  "palavra": "tipo",
+  "inicio": 257.722,
+  "fim": 257.992
+ },
+ {
+  "palavra": "Brent",
+  "inicio": 257.992,
+  "fim": 258.422
+ },
+ {
+  "palavra": "passou",
+  "inicio": 258.422,
+  "fim": 258.682
+ },
+ {
+  "palavra": "de",
+  "inicio": 258.682,
+  "fim": 258.782
+ },
+ {
+  "palavra": "100",
+  "inicio": 258.782,
+  "fim": 259.222
+ },
+ {
+  "palavra": "dólares",
+  "inicio": 259.222,
+  "fim": 259.582
+ },
+ {
+  "palavra": "pela",
+  "inicio": 259.582,
+  "fim": 259.842
+ },
+ {
+  "palavra": "primeira",
+  "inicio": 259.842,
+  "fim": 260.372
+ },
+ {
+  "palavra": "vez",
+  "inicio": 260.372,
+  "fim": 260.582
+ },
+ {
+  "palavra": "em",
+  "inicio": 260.582,
+  "fim": 260.882
+ },
+ {
+  "palavra": "4",
+  "inicio": 260.882,
+  "fim": 261.232
+ },
+ {
+  "palavra": "anos.",
+  "inicio": 261.232,
+  "fim": 261.782
+ },
+ {
+  "palavra": "E",
+  "inicio": 261.782,
+  "fim": 261.842
+ },
+ {
+  "palavra": "a",
+  "inicio": 261.842,
+  "fim": 261.902
+ },
+ {
+  "palavra": "Agência",
+  "inicio": 261.902,
+  "fim": 262.352
+ },
+ {
+  "palavra": "Internacional",
+  "inicio": 262.352,
+  "fim": 263.182
+ },
+ {
+  "palavra": "de",
+  "inicio": 263.182,
+  "fim": 263.302
+ },
+ {
+  "palavra": "Energia",
+  "inicio": 263.302,
+  "fim": 263.762
+ },
+ {
+  "palavra": "coordenou",
+  "inicio": 263.762,
+  "fim": 264.382
+ },
+ {
+  "palavra": "a",
+  "inicio": 264.382,
+  "fim": 264.452
+ },
+ {
+  "palavra": "maior",
+  "inicio": 264.452,
+  "fim": 264.812
+ },
+ {
+  "palavra": "liberação",
+  "inicio": 264.812,
+  "fim": 265.462
+ },
+ {
+  "palavra": "de",
+  "inicio": 265.462,
+  "fim": 265.612
+ },
+ {
+  "palavra": "estoques",
+  "inicio": 265.612,
+  "fim": 266.102
+ },
+ {
+  "palavra": "de",
+  "inicio": 266.102,
+  "fim": 266.222
+ },
+ {
+  "palavra": "emergência",
+  "inicio": 266.222,
+  "fim": 266.862
+ },
+ {
+  "palavra": "da",
+  "inicio": 266.862,
+  "fim": 267.002
+ },
+ {
+  "palavra": "sua",
+  "inicio": 267.002,
+  "fim": 267.262
+ },
+ {
+  "palavra": "história:",
+  "inicio": 267.262,
+  "fim": 267.912
+ },
+ {
+  "palavra": "400",
+  "inicio": 267.912,
+  "fim": 268.542
+ },
+ {
+  "palavra": "milhões",
+  "inicio": 268.542,
+  "fim": 269.032
+ },
+ {
+  "palavra": "de",
+  "inicio": 269.032,
+  "fim": 269.172
+ },
+ {
+  "palavra": "barris.",
+  "inicio": 269.172,
+  "fim": 269.822
+ },
+ {
+  "palavra": "A",
+  "inicio": 270.342,
+  "fim": 270.362
+ },
+ {
+  "palavra": "Arábia",
+  "inicio": 270.362,
+  "fim": 270.742
+ },
+ {
+  "palavra": "Saudita",
+  "inicio": 270.742,
+  "fim": 271.182
+ },
+ {
+  "palavra": "passou",
+  "inicio": 271.182,
+  "fim": 271.562
+ },
+ {
+  "palavra": "a",
+  "inicio": 271.562,
+  "fim": 271.622
+ },
+ {
+  "palavra": "mandar",
+  "inicio": 271.622,
+  "fim": 272.002
+ },
+ {
+  "palavra": "7",
+  "inicio": 272.002,
+  "fim": 272.192
+ },
+ {
+  "palavra": "milhões",
+  "inicio": 272.192,
+  "fim": 272.632
+ },
+ {
+  "palavra": "de",
+  "inicio": 272.632,
+  "fim": 272.752
+ },
+ {
+  "palavra": "barris",
+  "inicio": 272.752,
+  "fim": 273.252
+ },
+ {
+  "palavra": "por",
+  "inicio": 273.252,
+  "fim": 273.462
+ },
+ {
+  "palavra": "dia",
+  "inicio": 273.462,
+  "fim": 273.742
+ },
+ {
+  "palavra": "pelo",
+  "inicio": 273.742,
+  "fim": 274.042
+ },
+ {
+  "palavra": "oleoduto",
+  "inicio": 274.042,
+  "fim": 274.642
+ },
+ {
+  "palavra": "até",
+  "inicio": 274.642,
+  "fim": 274.882
+ },
+ {
+  "palavra": "o",
+  "inicio": 274.882,
+  "fim": 274.942
+ },
+ {
+  "palavra": "mar",
+  "inicio": 274.942,
+  "fim": 275.192
+ },
+ {
+  "palavra": "Vermelho.",
+  "inicio": 275.192,
+  "fim": 276.062
+ },
+ {
+  "palavra": "Mesmo",
+  "inicio": 276.062,
+  "fim": 276.382
+ },
+ {
+  "palavra": "assim,",
+  "inicio": 276.382,
+  "fim": 276.702
+ },
+ {
+  "palavra": "não",
+  "inicio": 276.702,
+  "fim": 276.912
+ },
+ {
+  "palavra": "dava",
+  "inicio": 276.912,
+  "fim": 277.142
+ },
+ {
+  "palavra": "para",
+  "inicio": 277.142,
+  "fim": 277.382
+ },
+ {
+  "palavra": "compensar.",
+  "inicio": 277.382,
+  "fim": 278.182
+ },
+ {
+  "palavra": "Em",
+  "inicio": 278.76,
+  "fim": 278.81
+ },
+ {
+  "palavra": "abril,",
+  "inicio": 278.81,
+  "fim": 279.23
+ },
+ {
+  "palavra": "os",
+  "inicio": 279.23,
+  "fim": 279.35
+ },
+ {
+  "palavra": "Estados",
+  "inicio": 279.35,
+  "fim": 279.78
+ },
+ {
+  "palavra": "Unidos",
+  "inicio": 279.78,
+  "fim": 280.14
+ },
+ {
+  "palavra": "impuseram",
+  "inicio": 280.14,
+  "fim": 280.68
+ },
+ {
+  "palavra": "um",
+  "inicio": 280.68,
+  "fim": 280.8
+ },
+ {
+  "palavra": "bloqueio",
+  "inicio": 280.8,
+  "fim": 281.28
+ },
+ {
+  "palavra": "naval",
+  "inicio": 281.28,
+  "fim": 281.65
+ },
+ {
+  "palavra": "aos",
+  "inicio": 281.65,
+  "fim": 281.95
+ },
+ {
+  "palavra": "portos",
+  "inicio": 281.95,
+  "fim": 282.47
+ },
+ {
+  "palavra": "do",
+  "inicio": 282.47,
+  "fim": 282.65
+ },
+ {
+  "palavra": "Irã.",
+  "inicio": 282.65,
+  "fim": 282.95
+ },
+ {
+  "palavra": "Vieram",
+  "inicio": 282.95,
+  "fim": 283.45
+ },
+ {
+  "palavra": "tréguas,",
+  "inicio": 283.45,
+  "fim": 284.21
+ },
+ {
+  "palavra": "acordos",
+  "inicio": 284.21,
+  "fim": 284.81
+ },
+ {
+  "palavra": "e",
+  "inicio": 284.81,
+  "fim": 284.89
+ },
+ {
+  "palavra": "rupturas,",
+  "inicio": 284.89,
+  "fim": 285.63
+ },
+ {
+  "palavra": "e",
+  "inicio": 285.63,
+  "fim": 285.7
+ },
+ {
+  "palavra": "o",
+  "inicio": 285.7,
+  "fim": 285.75
+ },
+ {
+  "palavra": "estreito",
+  "inicio": 285.75,
+  "fim": 286.28
+ },
+ {
+  "palavra": "voltou",
+  "inicio": 286.28,
+  "fim": 286.68
+ },
+ {
+  "palavra": "a",
+  "inicio": 286.68,
+  "fim": 286.74
+ },
+ {
+  "palavra": "ser",
+  "inicio": 286.74,
+  "fim": 286.94
+ },
+ {
+  "palavra": "fechado",
+  "inicio": 286.94,
+  "fim": 287.4
+ },
+ {
+  "palavra": "mais",
+  "inicio": 287.4,
+  "fim": 287.67
+ },
+ {
+  "palavra": "de",
+  "inicio": 287.67,
+  "fim": 287.8
+ },
+ {
+  "palavra": "uma",
+  "inicio": 287.8,
+  "fim": 288.0
+ },
+ {
+  "palavra": "vez.",
+  "inicio": 288.0,
+  "fim": 288.47
+ },
+ {
+  "palavra": "Em",
+  "inicio": 288.956,
+  "fim": 289.036
+ },
+ {
+  "palavra": "setembro,",
+  "inicio": 289.036,
+  "fim": 289.696
+ },
+ {
+  "palavra": "segundo",
+  "inicio": 289.696,
+  "fim": 290.156
+ },
+ {
+  "palavra": "a",
+  "inicio": 290.156,
+  "fim": 290.216
+ },
+ {
+  "palavra": "Agência",
+  "inicio": 290.216,
+  "fim": 290.696
+ },
+ {
+  "palavra": "Internacional",
+  "inicio": 290.696,
+  "fim": 291.536
+ },
+ {
+  "palavra": "de",
+  "inicio": 291.536,
+  "fim": 291.666
+ },
+ {
+  "palavra": "Energia,",
+  "inicio": 291.666,
+  "fim": 292.356
+ },
+ {
+  "palavra": "passaram",
+  "inicio": 292.356,
+  "fim": 292.786
+ },
+ {
+  "palavra": "por",
+  "inicio": 292.786,
+  "fim": 292.936
+ },
+ {
+  "palavra": "ali",
+  "inicio": 292.936,
+  "fim": 293.126
+ },
+ {
+  "palavra": "cerca",
+  "inicio": 293.126,
+  "fim": 293.446
+ },
+ {
+  "palavra": "de",
+  "inicio": 293.446,
+  "fim": 293.576
+ },
+ {
+  "palavra": "10",
+  "inicio": 293.576,
+  "fim": 294.006
+ },
+ {
+  "palavra": "milhões",
+  "inicio": 294.006,
+  "fim": 294.346
+ },
+ {
+  "palavra": "e",
+  "inicio": 294.346,
+  "fim": 294.416
+ },
+ {
+  "palavra": "900",
+  "inicio": 294.416,
+  "fim": 295.086
+ },
+ {
+  "palavra": "mil",
+  "inicio": 295.086,
+  "fim": 295.306
+ },
+ {
+  "palavra": "barris",
+  "inicio": 295.306,
+  "fim": 295.746
+ },
+ {
+  "palavra": "por",
+  "inicio": 295.746,
+  "fim": 295.966
+ },
+ {
+  "palavra": "dia,",
+  "inicio": 295.966,
+  "fim": 296.336
+ },
+ {
+  "palavra": "pouco",
+  "inicio": 296.336,
+  "fim": 296.706
+ },
+ {
+  "palavra": "mais",
+  "inicio": 296.706,
+  "fim": 297.006
+ },
+ {
+  "palavra": "da",
+  "inicio": 297.006,
+  "fim": 297.156
+ },
+ {
+  "palavra": "metade",
+  "inicio": 297.156,
+  "fim": 297.746
+ },
+ {
+  "palavra": "do",
+  "inicio": 297.746,
+  "fim": 297.796
+ },
+ {
+  "palavra": "que",
+  "inicio": 297.796,
+  "fim": 297.976
+ },
+ {
+  "palavra": "antes",
+  "inicio": 297.976,
+  "fim": 298.336
+ },
+ {
+  "palavra": "da",
+  "inicio": 298.336,
+  "fim": 298.486
+ },
+ {
+  "palavra": "guerra.",
+  "inicio": 298.486,
+  "fim": 299.166
+ },
+ {
+  "palavra": "E,",
+  "inicio": 299.166,
+  "fim": 299.236
+ },
+ {
+  "palavra": "em",
+  "inicio": 299.236,
+  "fim": 299.386
+ },
+ {
+  "palavra": "outubro,",
+  "inicio": 299.386,
+  "fim": 299.946
+ },
+ {
+  "palavra": "os",
+  "inicio": 299.946,
+  "fim": 300.106
+ },
+ {
+  "palavra": "ataques",
+  "inicio": 300.106,
+  "fim": 300.586
+ },
+ {
+  "palavra": "a",
+  "inicio": 300.586,
+  "fim": 300.646
+ },
+ {
+  "palavra": "navios",
+  "inicio": 300.646,
+  "fim": 301.036
+ },
+ {
+  "palavra": "voltaram",
+  "inicio": 301.036,
+  "fim": 301.486
+ },
+ {
+  "palavra": "a",
+  "inicio": 301.486,
+  "fim": 301.546
+ },
+ {
+  "palavra": "crescer.",
+  "inicio": 301.546,
+  "fim": 302.186
+ },
+ {
+  "palavra": "Até",
+  "inicio": 302.754,
+  "fim": 302.904
+ },
+ {
+  "palavra": "a",
+  "inicio": 302.904,
+  "fim": 302.954
+ },
+ {
+  "palavra": "data",
+  "inicio": 302.954,
+  "fim": 303.234
+ },
+ {
+  "palavra": "desta",
+  "inicio": 303.234,
+  "fim": 303.624
+ },
+ {
+  "palavra": "pesquisa,",
+  "inicio": 303.624,
+  "fim": 304.114
+ },
+ {
+  "palavra": "em",
+  "inicio": 304.114,
+  "fim": 304.254
+ },
+ {
+  "palavra": "meados",
+  "inicio": 304.254,
+  "fim": 304.674
+ },
+ {
+  "palavra": "de",
+  "inicio": 304.674,
+  "fim": 304.804
+ },
+ {
+  "palavra": "outubro",
+  "inicio": 304.804,
+  "fim": 305.274
+ },
+ {
+  "palavra": "de",
+  "inicio": 305.274,
+  "fim": 305.474
+ },
+ {
+  "palavra": "2026,",
+  "inicio": 305.474,
+  "fim": 307.044
+ },
+ {
+  "palavra": "a",
+  "inicio": 307.044,
+  "fim": 307.104
+ },
+ {
+  "palavra": "crise",
+  "inicio": 307.104,
+  "fim": 307.404
+ },
+ {
+  "palavra": "continua.",
+  "inicio": 307.404,
+  "fim": 308.074
+ },
+ {
+  "palavra": "Ormuz",
+  "inicio": 309.346,
+  "fim": 309.736
+ },
+ {
+  "palavra": "mostra",
+  "inicio": 309.736,
+  "fim": 310.206
+ },
+ {
+  "palavra": "uma",
+  "inicio": 310.206,
+  "fim": 310.436
+ },
+ {
+  "palavra": "regra",
+  "inicio": 310.436,
+  "fim": 310.816
+ },
+ {
+  "palavra": "antiga",
+  "inicio": 310.816,
+  "fim": 311.276
+ },
+ {
+  "palavra": "da",
+  "inicio": 311.276,
+  "fim": 311.426
+ },
+ {
+  "palavra": "geopolítica:",
+  "inicio": 311.426,
+  "fim": 312.426
+ },
+ {
+  "palavra": "quem",
+  "inicio": 312.426,
+  "fim": 312.676
+ },
+ {
+  "palavra": "controla",
+  "inicio": 312.676,
+  "fim": 313.176
+ },
+ {
+  "palavra": "uma",
+  "inicio": 313.176,
+  "fim": 313.366
+ },
+ {
+  "palavra": "passagem",
+  "inicio": 313.366,
+  "fim": 313.866
+ },
+ {
+  "palavra": "estreita",
+  "inicio": 313.866,
+  "fim": 314.406
+ },
+ {
+  "palavra": "tem",
+  "inicio": 314.406,
+  "fim": 314.596
+ },
+ {
+  "palavra": "poder",
+  "inicio": 314.596,
+  "fim": 314.926
+ },
+ {
+  "palavra": "sobre",
+  "inicio": 314.926,
+  "fim": 315.246
+ },
+ {
+  "palavra": "quem",
+  "inicio": 315.246,
+  "fim": 315.666
+ },
+ {
+  "palavra": "depende",
+  "inicio": 315.666,
+  "fim": 315.976
+ },
+ {
+  "palavra": "dela.",
+  "inicio": 315.976,
+  "fim": 316.466
+ },
+ {
+  "palavra": "Mas",
+  "inicio": 316.972,
+  "fim": 317.212
+ },
+ {
+  "palavra": "é",
+  "inicio": 317.212,
+  "fim": 317.302
+ },
+ {
+  "palavra": "um",
+  "inicio": 317.302,
+  "fim": 317.482
+ },
+ {
+  "palavra": "poder",
+  "inicio": 317.482,
+  "fim": 317.932
+ },
+ {
+  "palavra": "caro.",
+  "inicio": 317.932,
+  "fim": 318.402
+ },
+ {
+  "palavra": "O",
+  "inicio": 318.402,
+  "fim": 318.402
+ },
+ {
+  "palavra": "próprio",
+  "inicio": 318.402,
+  "fim": 318.872
+ },
+ {
+  "palavra": "Irã",
+  "inicio": 318.872,
+  "fim": 319.062
+ },
+ {
+  "palavra": "embarcava",
+  "inicio": 319.062,
+  "fim": 319.702
+ },
+ {
+  "palavra": "quase",
+  "inicio": 319.702,
+  "fim": 320.082
+ },
+ {
+  "palavra": "todo",
+  "inicio": 320.082,
+  "fim": 320.382
+ },
+ {
+  "palavra": "o",
+  "inicio": 320.382,
+  "fim": 320.452
+ },
+ {
+  "palavra": "seu",
+  "inicio": 320.452,
+  "fim": 320.702
+ },
+ {
+  "palavra": "petróleo",
+  "inicio": 320.702,
+  "fim": 321.222
+ },
+ {
+  "palavra": "na",
+  "inicio": 321.222,
+  "fim": 321.342
+ },
+ {
+  "palavra": "ilha",
+  "inicio": 321.342,
+  "fim": 321.582
+ },
+ {
+  "palavra": "de",
+  "inicio": 321.582,
+  "fim": 321.812
+ },
+ {
+  "palavra": "Kharg,",
+  "inicio": 321.812,
+  "fim": 322.452
+ },
+ {
+  "palavra": "dentro",
+  "inicio": 322.452,
+  "fim": 322.822
+ },
+ {
+  "palavra": "do",
+  "inicio": 322.822,
+  "fim": 322.942
+ },
+ {
+  "palavra": "Golfo.",
+  "inicio": 322.942,
+  "fim": 323.582
+ },
+ {
+  "palavra": "E",
+  "inicio": 323.582,
+  "fim": 323.602
+ },
+ {
+  "palavra": "precisa",
+  "inicio": 323.602,
+  "fim": 324.162
+ },
+ {
+  "palavra": "do",
+  "inicio": 324.162,
+  "fim": 324.222
+ },
+ {
+  "palavra": "estreito",
+  "inicio": 324.222,
+  "fim": 324.762
+ },
+ {
+  "palavra": "tanto",
+  "inicio": 324.762,
+  "fim": 325.142
+ },
+ {
+  "palavra": "quanto",
+  "inicio": 325.142,
+  "fim": 325.342
+ },
+ {
+  "palavra": "os",
+  "inicio": 325.342,
+  "fim": 325.462
+ },
+ {
+  "palavra": "vizinhos.",
+  "inicio": 325.462,
+  "fim": 326.182
+ },
+ {
+  "palavra": "Por",
+  "inicio": 326.788,
+  "fim": 326.888
+ },
+ {
+  "palavra": "isso,",
+  "inicio": 326.888,
+  "fim": 327.158
+ },
+ {
+  "palavra": "estes",
+  "inicio": 327.158,
+  "fim": 327.578
+ },
+ {
+  "palavra": "33",
+  "inicio": 327.578,
+  "fim": 327.898
+ },
+ {
+  "palavra": "quilômetros",
+  "inicio": 327.898,
+  "fim": 328.688
+ },
+ {
+  "palavra": "de",
+  "inicio": 328.688,
+  "fim": 328.848
+ },
+ {
+  "palavra": "água",
+  "inicio": 328.848,
+  "fim": 329.228
+ },
+ {
+  "palavra": "continuam",
+  "inicio": 329.228,
+  "fim": 329.648
+ },
+ {
+  "palavra": "pesando",
+  "inicio": 329.648,
+  "fim": 330.188
+ },
+ {
+  "palavra": "no",
+  "inicio": 330.188,
+  "fim": 330.248
+ },
+ {
+  "palavra": "preço",
+  "inicio": 330.248,
+  "fim": 330.608
+ },
+ {
+  "palavra": "do",
+  "inicio": 330.608,
+  "fim": 330.688
+ },
+ {
+  "palavra": "combustível",
+  "inicio": 330.688,
+  "fim": 331.308
+ },
+ {
+  "palavra": "em",
+  "inicio": 331.308,
+  "fim": 331.638
+ },
+ {
+  "palavra": "Tóquio,",
+  "inicio": 331.638,
+  "fim": 332.218
+ },
+ {
+  "palavra": "em",
+  "inicio": 332.218,
+  "fim": 332.328
+ },
+ {
+  "palavra": "Mumbai",
+  "inicio": 332.328,
+  "fim": 332.908
+ },
+ {
+  "palavra": "e",
+  "inicio": 332.908,
+  "fim": 332.988
+ },
+ {
+  "palavra": "também",
+  "inicio": 332.988,
+  "fim": 333.368
+ },
+ {
+  "palavra": "aqui",
+  "inicio": 333.368,
+  "fim": 333.618
+ },
+ {
+  "palavra": "no",
+  "inicio": 333.618,
+  "fim": 333.738
+ },
+ {
+  "palavra": "Brasil.",
+  "inicio": 333.738,
+  "fim": 334.168
+ },
+ {
+  "palavra": "Se",
+  "inicio": 335.323,
+  "fim": 335.393
+ },
+ {
+  "palavra": "você",
+  "inicio": 335.393,
+  "fim": 335.663
+ },
+ {
+  "palavra": "gosta",
+  "inicio": 335.663,
+  "fim": 336.003
+ },
+ {
+  "palavra": "de",
+  "inicio": 336.003,
+  "fim": 336.133
+ },
+ {
+  "palavra": "entender",
+  "inicio": 336.133,
+  "fim": 336.683
+ },
+ {
+  "palavra": "o",
+  "inicio": 336.683,
+  "fim": 336.753
+ },
+ {
+  "palavra": "mundo",
+  "inicio": 336.753,
+  "fim": 337.093
+ },
+ {
+  "palavra": "pelo",
+  "inicio": 337.093,
+  "fim": 337.363
+ },
+ {
+  "palavra": "mapa,",
+  "inicio": 337.363,
+  "fim": 337.853
+ },
+ {
+  "palavra": "siga",
+  "inicio": 337.853,
+  "fim": 338.143
+ },
+ {
+  "palavra": "o",
+  "inicio": 338.143,
+  "fim": 338.213
+ },
+ {
+  "palavra": "canal",
+  "inicio": 338.213,
+  "fim": 338.603
+ },
+ {
+  "palavra": "e",
+  "inicio": 338.603,
+  "fim": 338.663
+ },
+ {
+  "palavra": "ative",
+  "inicio": 338.663,
+  "fim": 339.043
+ },
+ {
+  "palavra": "o",
+  "inicio": 339.043,
+  "fim": 339.103
+ },
+ {
+  "palavra": "sino.",
+  "inicio": 339.103,
+  "fim": 339.503
+ },
+ {
+  "palavra": "Deixe",
+  "inicio": 339.503,
+  "fim": 339.883
+ },
+ {
+  "palavra": "o",
+  "inicio": 339.883,
+  "fim": 339.953
+ },
+ {
+  "palavra": "seu",
+  "inicio": 339.953,
+  "fim": 340.213
+ },
+ {
+  "palavra": "like",
+  "inicio": 340.213,
+  "fim": 340.513
+ },
+ {
+  "palavra": "e",
+  "inicio": 340.513,
+  "fim": 340.563
+ },
+ {
+  "palavra": "compartilhe",
+  "inicio": 340.563,
+  "fim": 341.413
+ },
+ {
+  "palavra": "este",
+  "inicio": 341.413,
+  "fim": 341.723
+ },
+ {
+  "palavra": "vídeo.",
+  "inicio": 341.723,
+  "fim": 342.183
+ },
+ {
+  "palavra": "E",
+  "inicio": 342.183,
+  "fim": 342.243
+ },
+ {
+  "palavra": "me",
+  "inicio": 342.243,
+  "fim": 342.363
+ },
+ {
+  "palavra": "conta",
+  "inicio": 342.363,
+  "fim": 342.673
+ },
+ {
+  "palavra": "aqui",
+  "inicio": 342.673,
+  "fim": 342.923
+ },
+ {
+  "palavra": "nos",
+  "inicio": 342.923,
+  "fim": 343.113
+ },
+ {
+  "palavra": "comentários:",
+  "inicio": 343.113,
+  "fim": 344.023
+ },
+ {
+  "palavra": "você",
+  "inicio": 344.023,
+  "fim": 344.253
+ },
+ {
+  "palavra": "acha",
+  "inicio": 344.253,
+  "fim": 344.483
+ },
+ {
+  "palavra": "que",
+  "inicio": 344.483,
+  "fim": 344.653
+ },
+ {
+  "palavra": "o",
+  "inicio": 344.653,
+  "fim": 344.733
+ },
+ {
+  "palavra": "Estreito",
+  "inicio": 344.733,
+  "fim": 345.173
+ },
+ {
+  "palavra": "de",
+  "inicio": 345.173,
+  "fim": 345.283
+ },
+ {
+  "palavra": "Ormuz",
+  "inicio": 345.283,
+  "fim": 345.553
+ },
+ {
+  "palavra": "um",
+  "inicio": 345.553,
+  "fim": 345.663
+ },
+ {
+  "palavra": "dia",
+  "inicio": 345.663,
+  "fim": 345.833
+ },
+ {
+  "palavra": "vai",
+  "inicio": 345.833,
+  "fim": 346.003
+ },
+ {
+  "palavra": "voltar",
+  "inicio": 346.003,
+  "fim": 346.353
+ },
+ {
+  "palavra": "a",
+  "inicio": 346.353,
+  "fim": 346.413
+ },
+ {
+  "palavra": "ser",
+  "inicio": 346.413,
+  "fim": 346.583
+ },
+ {
+  "palavra": "o",
+  "inicio": 346.583,
+  "fim": 346.643
+ },
+ {
+  "palavra": "que",
+  "inicio": 346.643,
+  "fim": 346.813
+ },
+ {
+  "palavra": "era?",
+  "inicio": 346.813,
+  "fim": 347.303
+ }
+]

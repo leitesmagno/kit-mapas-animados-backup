@@ -1,0 +1,18 @@
+# Segredos
+.env
+.env.local
+
+# Refeitos na instalação (npm install / npm run tiles / npm run sons)
+node_modules/
+public/satelite/
+scripts/**/venv*/
+**/__pycache__/
+.venv*/
+
+# Vídeos renderizados
+out/
+
+# Sistema
+.DS_Store
+*.log
+.remotion/

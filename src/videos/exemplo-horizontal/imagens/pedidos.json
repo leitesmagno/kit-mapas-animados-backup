@@ -1,0 +1,214 @@
+{
+ "ficha": {
+  "tema": "O Estreito de Ormuz e a rota do petróleo do Golfo Pérsico",
+  "contexto": "Passagem marítima estreita entre o Golfo Pérsico e o Golfo de Omã, entre a costa do Irã ao norte e a península de Musandam (Omã) ao sul; costas áridas e montanhosas, tráfego intenso de petroleiros.",
+  "estilo": "cinematic editorial documentary, professional, restrained, realistic",
+  "paleta": [
+   "deep teal sea",
+   "warm desert ochre",
+   "hazy dawn gold",
+   "oil black"
+  ],
+  "iluminacao": "low golden dawn light through light haze, soft long shadows",
+  "regiao": "Strait of Hormuz, between the Persian Gulf and the Gulf of Oman",
+  "epoca": "present day",
+  "evitar": [
+   "explosions or combat",
+   "warships"
+  ],
+  "referencias": []
+ },
+ "imagens": [
+  {
+   "id": "petroleiros-no-estreito",
+   "cena": "cena-04",
+   "tipo": "paisagem",
+   "descricao": "Two large crude oil tankers sailing in line through a narrow sea passage at dawn, arid rocky mountains of the coast in the hazy background, calm water with long reflections, seen from a high distance like a long-lens shot.",
+   "narracao": "Por ali passam petroleiros de vários países do Golfo, e a Arábia Saudita é quem mais exporta por esse caminho.",
+   "objetivo": "Abrir o documentário situando o espectador: a escala dos navios contra a passagem estreita.",
+   "proporcao": "16:9",
+   "tamanho": "2K",
+   "espaco_para_texto": "esquerda",
+   "restricoes": [
+    "visible company names or flags on the ships"
+   ]
+  },
+  {
+   "id": "oleoduto-no-deserto",
+   "cena": "cena-07",
+   "tipo": "apoio",
+   "descricao": "A long above-ground crude oil pipeline running straight across a flat arid desert toward hazy mountains on the horizon, late golden light, seen from a low drone angle slightly above the pipe, simple steel supports, sand ripples, empty landscape.",
+   "narracao": "Existem oleodutos que contornam o estreito, mas eles levariam só uma pequena parte dessa carga.",
+   "objetivo": "Mostrar a alternativa por terra (o oleoduto) como algo longo e limitado, sem identificar um oleoduto real.",
+   "proporcao": "16:9",
+   "tamanho": "2K",
+   "espaco_para_texto": "esquerda",
+   "continuidade": "Same documentary as the tanker image: same dawn-gold haze, ochre desert tones and restrained realism.",
+   "restricoes": [
+    "company names, logos or markings on the pipe",
+    "people",
+    "fire or explosions"
+   ]
+  },
+  {
+   "id": "ormuz-medieval",
+   "cena": "historia",
+   "tipo": "historica",
+   "descricao": "Reconstruction of the medieval port city on the small arid island of Hormuz around the 14th century: low whitewashed and mud-brick houses with wind towers, a busy harbor full of wooden dhows with lateen sails, merchants unloading bales and spice sacks, red-ochre hills of the island behind, warm afternoon light.",
+   "narracao": "A disputa por este lugar é antiga. Na Idade Média, a ilha de Ormuz era o centro de um reino que vivia do comércio entre a Índia, a Pérsia e a Arábia.",
+   "objetivo": "Mostrar a riqueza antiga do lugar: Ormuz como entreposto de comércio, antes do petróleo.",
+   "proporcao": "16:9",
+   "tamanho": "2K",
+   "continuidade": "Same documentary look as the other images: warm hazy light, ochre and deep teal tones, restrained realism.",
+   "restricoes": [
+    "flags, crosses or symbols on sails or ships",
+    "company names or logos",
+    "readable text"
+   ]
+  },
+  {
+   "id": "fortaleza-portuguesa",
+   "cena": "historia",
+   "tipo": "historica",
+   "descricao": "Reconstruction of a 16th-century European stone fortress with angular bastions on the rocky shore of an arid island in the Persian Gulf, two carracks (naus) with plain cream sails anchored offshore, small boats near the shore, golden haze.",
+   "narracao": "No começo do século dezesseis, chegaram os portugueses. Afonso de Albuquerque atacou Ormuz em mil quinhentos e sete e, em mil quinhentos e quinze, Portugal tomou a ilha e ergueu ali uma fortaleza.",
+   "objetivo": "Ilustrar a chegada portuguesa e a fortaleza, sem símbolos nas velas nem bandeiras.",
+   "proporcao": "16:9",
+   "tamanho": "2K",
+   "continuidade": "Same documentary look as the other images: warm hazy light, ochre and deep teal tones, restrained realism.",
+   "restricoes": [
+    "flags, crosses or symbols on sails or ships",
+    "company names or logos",
+    "readable text"
+   ]
+  },
+  {
+   "id": "poco-de-petroleo-1908",
+   "cena": "petroleo",
+   "tipo": "historica",
+   "descricao": "Reconstruction of an early 20th-century wooden oil derrick in a rocky arid valley in Persia, a small steam engine and tents nearby, a few workers seen from far away, dust in the air, sepia-tinted warm light.",
+   "narracao": "No século vinte, o valor do estreito mudou por causa do que estava debaixo da areia. Petróleo no Irã, em mil novecentos e oito. Na Arábia Saudita, em mil novecentos e trinta e oito.",
+   "objetivo": "A virada: o petróleo debaixo da areia muda o valor da região.",
+   "proporcao": "16:9",
+   "tamanho": "2K",
+   "continuidade": "Same documentary look as the other images: warm hazy light, ochre and deep teal tones, restrained realism.",
+   "restricoes": [
+    "flags, crosses or symbols on sails or ships",
+    "company names or logos",
+    "readable text"
+   ]
+  },
+  {
+   "id": "guerra-dos-petroleiros",
+   "cena": "petroleo",
+   "tipo": "historica",
+   "descricao": "Reconstruction of a large 1980s oil tanker damaged at sea, a column of black smoke rising from its deck into a hazy sky, calm Gulf water, seen from a distance, painted documentary illustration style.",
+   "narracao": "Nos anos oitenta, durante a guerra entre o Irã e o Iraque, os dois lados atacaram navios no Golfo. Foi a chamada guerra dos petroleiros.",
+   "objetivo": "A guerra dos petroleiros, como ilustração (não como foto do fato).",
+   "proporcao": "16:9",
+   "tamanho": "2K",
+   "continuidade": "Same documentary look as the other images: warm hazy light, ochre and deep teal tones, restrained realism.",
+   "restricoes": [
+    "flags, crosses or symbols on sails or ships",
+    "company names or logos",
+    "readable text"
+   ]
+  },
+  {
+   "id": "navio-de-gas",
+   "cena": "dependencia",
+   "tipo": "apoio",
+   "descricao": "An LNG carrier with four large white spherical tanks sailing on calm sea at dawn, seen from a low drone angle off its bow quarter, soft pink and gold light, slight haze.",
+   "narracao": "O Catar manda por esse caminho todo o seu gás natural liquefeito. Em dois mil e vinte e quatro, cerca de um quinto do gás liquefeito comercializado no mundo passou por Ormuz.",
+   "objetivo": "O gás do Catar: o navio de GNL como imagem do que passa pelo estreito.",
+   "proporcao": "16:9",
+   "tamanho": "2K",
+   "continuidade": "Same documentary look as the other images: warm hazy light, ochre and deep teal tones, restrained realism.",
+   "restricoes": [
+    "flags, crosses or symbols on sails or ships",
+    "company names or logos",
+    "readable text"
+   ]
+  },
+  {
+   "id": "porto-asiatico",
+   "cena": "dependencia",
+   "tipo": "apoio",
+   "descricao": "A large oil refinery and tanker terminal on an Asian coastline at blue hour, a crude oil tanker moored at the jetty, refinery towers lit with warm lights reflecting on the water, slight haze.",
+   "narracao": "E quem compra é a Ásia: oitenta e quatro por cento do petróleo bruto ia para lá. China, Índia, Japão e Coreia do Sul ficavam com quase setenta por cento.",
+   "objetivo": "O destino do petróleo: a Ásia que compra.",
+   "proporcao": "16:9",
+   "tamanho": "2K",
+   "continuidade": "Same documentary look as the other images: warm hazy light, ochre and deep teal tones, restrained realism.",
+   "restricoes": [
+    "flags, crosses or symbols on sails or ships",
+    "company names or logos",
+    "readable text"
+   ]
+  },
+  {
+   "id": "navios-parados",
+   "cena": "crise",
+   "tipo": "apoio",
+   "descricao": "Dozens of oil tankers and cargo ships anchored and waiting on a hazy sea at dusk, seen from a high distance, long calm water, tense still atmosphere.",
+   "narracao": "Navios foram atingidos, as seguradoras retiraram as coberturas, e o tráfego desabou.",
+   "objetivo": "A crise de 2026: o tráfego parado, navios esperando.",
+   "proporcao": "16:9",
+   "tamanho": "2K",
+   "continuidade": "Same documentary look as the other images: warm hazy light, ochre and deep teal tones, restrained realism.",
+   "restricoes": [
+    "flags, crosses or symbols on sails or ships",
+    "company names or logos",
+    "readable text"
+   ]
+  },
+  {
+   "id": "estoques-de-emergencia",
+   "cena": "crise",
+   "tipo": "apoio",
+   "descricao": "Rows of large white cylindrical oil storage tanks seen from above at golden hour, long shadows across the ground, orderly industrial pattern.",
+   "narracao": "Em oito de março, o barril do tipo Brent passou de cem dólares pela primeira vez em quatro anos. E a Agência Internacional de Energia coordenou a maior liberação de estoques de emergência da sua história: quatrocentos milhões de barris.",
+   "objetivo": "Os estoques de emergência liberados pela Agência Internacional de Energia.",
+   "proporcao": "16:9",
+   "tamanho": "2K",
+   "continuidade": "Same documentary look as the other images: warm hazy light, ochre and deep teal tones, restrained realism.",
+   "restricoes": [
+    "flags, crosses or symbols on sails or ships",
+    "company names or logos",
+    "readable text"
+   ]
+  },
+  {
+   "id": "terminal-na-ilha",
+   "cena": "conclusao",
+   "tipo": "apoio",
+   "descricao": "A long offshore oil loading jetty extending from a low arid island into a hazy sea, two crude tankers moored along it, aerial view from far away, warm light.",
+   "narracao": "Mas é um poder caro. O próprio Irã embarcava quase todo o seu petróleo na ilha de Kharg, dentro do Golfo. E precisa do estreito tanto quanto os vizinhos.",
+   "objetivo": "O Irã também depende do estreito: o terminal na ilha, dentro do Golfo (genérico, não um terminal identificável).",
+   "proporcao": "16:9",
+   "tamanho": "2K",
+   "continuidade": "Same documentary look as the other images: warm hazy light, ochre and deep teal tones, restrained realism.",
+   "restricoes": [
+    "flags, crosses or symbols on sails or ships",
+    "company names or logos",
+    "readable text"
+   ]
+  },
+  {
+   "id": "bomba-de-combustivel",
+   "cena": "conclusao",
+   "tipo": "apoio",
+   "descricao": "A fuel nozzle inserted into a car at a gas station at night, close-up, warm station lights and soft bokeh in the background, no readable displays.",
+   "narracao": "Por isso, estes trinta e três quilômetros de água continuam pesando no preço do combustível em Tóquio, em Mumbai e também aqui no Brasil.",
+   "objetivo": "O fecho: o estreito pesa no preço do combustível de quem assiste.",
+   "proporcao": "16:9",
+   "tamanho": "2K",
+   "continuidade": "Same documentary look as the other images: warm hazy light, ochre and deep teal tones, restrained realism.",
+   "restricoes": [
+    "flags, crosses or symbols on sails or ships",
+    "company names or logos",
+    "readable text"
+   ]
+  }
+ ]
+}

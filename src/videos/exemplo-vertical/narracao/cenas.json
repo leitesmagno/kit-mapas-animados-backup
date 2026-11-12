@@ -1,0 +1,2067 @@
+[
+ {
+  "scene": "am-01",
+  "arquivo": "audios/narracao/exemplo-vertical/am-01.mp3",
+  "start": 0.05,
+  "end": 4.439,
+  "texto": "O maior rio do mundo atravessa o Amazonas inteiro e não existe uma única ponte sobre ele.",
+  "segments": [
+   {
+    "start": 0.05,
+    "end": 4.27,
+    "text": "O maior rio do mundo atravessa o Amazonas inteiro e não existe uma única ponte sobre ele."
+   }
+  ],
+  "words": [
+   {
+    "word": "O",
+    "start": 0.05,
+    "end": 0.17
+   },
+   {
+    "word": "maior",
+    "start": 0.17,
+    "end": 0.35
+   },
+   {
+    "word": "rio",
+    "start": 0.35,
+    "end": 0.65
+   },
+   {
+    "word": "do",
+    "start": 0.65,
+    "end": 0.75
+   },
+   {
+    "word": "mundo",
+    "start": 0.75,
+    "end": 0.93
+   },
+   {
+    "word": "atravessa",
+    "start": 0.93,
+    "end": 1.43
+   },
+   {
+    "word": "o",
+    "start": 1.43,
+    "end": 1.51
+   },
+   {
+    "word": "Amazonas",
+    "start": 1.51,
+    "end": 1.99
+   },
+   {
+    "word": "inteiro",
+    "start": 1.99,
+    "end": 2.31
+   },
+   {
+    "word": "e",
+    "start": 2.31,
+    "end": 2.65
+   },
+   {
+    "word": "não",
+    "start": 2.65,
+    "end": 2.75
+   },
+   {
+    "word": "existe",
+    "start": 2.75,
+    "end": 3.07
+   },
+   {
+    "word": "uma",
+    "start": 3.07,
+    "end": 3.27
+   },
+   {
+    "word": "única",
+    "start": 3.27,
+    "end": 3.47
+   },
+   {
+    "word": "ponte",
+    "start": 3.47,
+    "end": 3.79
+   },
+   {
+    "word": "sobre",
+    "start": 3.79,
+    "end": 4.01
+   },
+   {
+    "word": "ele",
+    "start": 4.01,
+    "end": 4.27
+   }
+  ]
+ },
+ {
+  "scene": "am-02",
+  "arquivo": "audios/narracao/exemplo-vertical/am-02.mp3",
+  "start": 4.599,
+  "end": 11.443,
+  "texto": "e o maior estado do Brasil ainda guarda um teatro de ópera no meio da selva, praias de rio e cachoeiras escondidas na mata.",
+  "segments": [
+   {
+    "start": 4.599,
+    "end": 11.239,
+    "text": "e o maior estado do Brasil ainda guarda um teatro de ópera no meio da selva, praias de rio e cachoeiras escondidas na mata."
+   }
+  ],
+  "words": [
+   {
+    "word": "e",
+    "start": 4.599,
+    "end": 4.779
+   },
+   {
+    "word": "o",
+    "start": 4.779,
+    "end": 4.879
+   },
+   {
+    "word": "maior",
+    "start": 4.879,
+    "end": 5.039
+   },
+   {
+    "word": "estado",
+    "start": 5.039,
+    "end": 5.379
+   },
+   {
+    "word": "do",
+    "start": 5.379,
+    "end": 5.579
+   },
+   {
+    "word": "Brasil",
+    "start": 5.579,
+    "end": 5.879
+   },
+   {
+    "word": "ainda",
+    "start": 5.879,
+    "end": 6.099
+   },
+   {
+    "word": "guarda",
+    "start": 6.099,
+    "end": 6.579
+   },
+   {
+    "word": "um",
+    "start": 6.579,
+    "end": 6.619
+   },
+   {
+    "word": "teatro",
+    "start": 6.619,
+    "end": 6.999
+   },
+   {
+    "word": "de",
+    "start": 6.999,
+    "end": 7.139
+   },
+   {
+    "word": "ópera",
+    "start": 7.139,
+    "end": 7.499
+   },
+   {
+    "word": "no",
+    "start": 7.499,
+    "end": 7.599
+   },
+   {
+    "word": "meio",
+    "start": 7.599,
+    "end": 7.779
+   },
+   {
+    "word": "da",
+    "start": 7.779,
+    "end": 7.919
+   },
+   {
+    "word": "selva",
+    "start": 7.919,
+    "end": 8.359
+   },
+   {
+    "word": "praias",
+    "start": 8.519,
+    "end": 8.879
+   },
+   {
+    "word": "de",
+    "start": 8.879,
+    "end": 8.999
+   },
+   {
+    "word": "rio",
+    "start": 8.999,
+    "end": 9.359
+   },
+   {
+    "word": "e",
+    "start": 9.359,
+    "end": 9.679
+   },
+   {
+    "word": "cachoeiras",
+    "start": 9.679,
+    "end": 10.259
+   },
+   {
+    "word": "escondidas",
+    "start": 10.259,
+    "end": 10.779
+   },
+   {
+    "word": "na",
+    "start": 10.779,
+    "end": 10.939
+   },
+   {
+    "word": "mata",
+    "start": 10.939,
+    "end": 11.239
+   }
+  ]
+ },
+ {
+  "scene": "am-03",
+  "arquivo": "audios/narracao/exemplo-vertical/am-03.mp3",
+  "start": 11.843,
+  "end": 18.635,
+  "texto": "Fica no norte, faz divisa com Roraima, Pará, Mato Grosso, Rondônia e Acre e fronteira com a Venezuela, a Colômbia e o Peru.",
+  "segments": [
+   {
+    "start": 11.843,
+    "end": 18.403,
+    "text": "Fica no norte, faz divisa com Roraima, Pará, Mato Grosso, Rondônia e Acre e fronteira com a Venezuela, a Colômbia e o Peru."
+   }
+  ],
+  "words": [
+   {
+    "word": "Fica",
+    "start": 11.843,
+    "end": 12.103
+   },
+   {
+    "word": "no",
+    "start": 12.103,
+    "end": 12.223
+   },
+   {
+    "word": "norte",
+    "start": 12.223,
+    "end": 12.563
+   },
+   {
+    "word": "faz",
+    "start": 12.703,
+    "end": 12.863
+   },
+   {
+    "word": "divisa",
+    "start": 12.863,
+    "end": 13.243
+   },
+   {
+    "word": "com",
+    "start": 13.243,
+    "end": 13.363
+   },
+   {
+    "word": "Roraima",
+    "start": 13.363,
+    "end": 13.803
+   },
+   {
+    "word": "Pará",
+    "start": 13.803,
+    "end": 14.243
+   },
+   {
+    "word": "Mato",
+    "start": 14.243,
+    "end": 14.443
+   },
+   {
+    "word": "Grosso",
+    "start": 14.443,
+    "end": 14.843
+   },
+   {
+    "word": "Rondônia",
+    "start": 14.883,
+    "end": 15.323
+   },
+   {
+    "word": "e",
+    "start": 15.323,
+    "end": 15.503
+   },
+   {
+    "word": "Acre",
+    "start": 15.503,
+    "end": 15.863
+   },
+   {
+    "word": "e",
+    "start": 15.863,
+    "end": 16.123
+   },
+   {
+    "word": "fronteira",
+    "start": 16.123,
+    "end": 16.543
+   },
+   {
+    "word": "com",
+    "start": 16.543,
+    "end": 16.683
+   },
+   {
+    "word": "a",
+    "start": 16.683,
+    "end": 16.783
+   },
+   {
+    "word": "Venezuela",
+    "start": 16.783,
+    "end": 17.183
+   },
+   {
+    "word": "a",
+    "start": 17.583,
+    "end": 17.603
+   },
+   {
+    "word": "Colômbia",
+    "start": 17.603,
+    "end": 18.083
+   },
+   {
+    "word": "e",
+    "start": 18.083,
+    "end": 18.183
+   },
+   {
+    "word": "o",
+    "start": 18.183,
+    "end": 18.243
+   },
+   {
+    "word": "Peru",
+    "start": 18.243,
+    "end": 18.403
+   }
+  ]
+ },
+ {
+  "scene": "am-04",
+  "arquivo": "audios/narracao/exemplo-vertical/am-04.mp3",
+  "start": 18.794,
+  "end": 25.037,
+  "texto": "São 62 municípios e mais de 4 milhões de pessoas, metade vive em Manaus, a maior cidade do Norte.",
+  "segments": [
+   {
+    "start": 18.794,
+    "end": 24.854,
+    "text": "São 62 municípios e mais de 4 milhões de pessoas, metade vive em Manaus, a maior cidade do Norte."
+   }
+  ],
+  "words": [
+   {
+    "word": "São",
+    "start": 18.794,
+    "end": 18.994
+   },
+   {
+    "word": "62",
+    "start": 18.994,
+    "end": 19.434
+   },
+   {
+    "word": "municípios",
+    "start": 19.434,
+    "end": 20.254
+   },
+   {
+    "word": "e",
+    "start": 20.254,
+    "end": 20.334
+   },
+   {
+    "word": "mais",
+    "start": 20.334,
+    "end": 20.514
+   },
+   {
+    "word": "de",
+    "start": 20.514,
+    "end": 20.654
+   },
+   {
+    "word": "4",
+    "start": 20.654,
+    "end": 20.954
+   },
+   {
+    "word": "milhões",
+    "start": 20.954,
+    "end": 21.254
+   },
+   {
+    "word": "de",
+    "start": 21.254,
+    "end": 21.454
+   },
+   {
+    "word": "pessoas",
+    "start": 21.454,
+    "end": 21.854
+   },
+   {
+    "word": "metade",
+    "start": 22.174,
+    "end": 22.574
+   },
+   {
+    "word": "vive",
+    "start": 22.574,
+    "end": 22.774
+   },
+   {
+    "word": "em",
+    "start": 22.774,
+    "end": 22.974
+   },
+   {
+    "word": "Manaus",
+    "start": 22.974,
+    "end": 23.534
+   },
+   {
+    "word": "a",
+    "start": 23.714,
+    "end": 23.754
+   },
+   {
+    "word": "maior",
+    "start": 23.754,
+    "end": 23.974
+   },
+   {
+    "word": "cidade",
+    "start": 23.974,
+    "end": 24.294
+   },
+   {
+    "word": "do",
+    "start": 24.294,
+    "end": 24.514
+   },
+   {
+    "word": "Norte",
+    "start": 24.514,
+    "end": 24.854
+   }
+  ]
+ },
+ {
+  "scene": "am-05",
+  "arquivo": "audios/narracao/exemplo-vertical/am-05.mp3",
+  "start": 25.198,
+  "end": 34.315,
+  "texto": "E chegar lá é uma aventura, quase todo mundo vai de avião ou de barco. Por terra, a BR319 tem centenas de quilômetros de terra no meio da floresta.",
+  "segments": [
+   {
+    "start": 25.198,
+    "end": 29.118,
+    "text": "E chegar lá é uma aventura, quase todo mundo vai de avião ou de barco."
+   },
+   {
+    "start": 29.318,
+    "end": 34.138,
+    "text": "Por terra, a BR319 tem centenas de quilômetros de terra no meio da floresta."
+   }
+  ],
+  "words": [
+   {
+    "word": "E",
+    "start": 25.198,
+    "end": 25.378
+   },
+   {
+    "word": "chegar",
+    "start": 25.378,
+    "end": 25.578
+   },
+   {
+    "word": "lá",
+    "start": 25.578,
+    "end": 25.858
+   },
+   {
+    "word": "é",
+    "start": 25.858,
+    "end": 25.978
+   },
+   {
+    "word": "uma",
+    "start": 25.978,
+    "end": 26.098
+   },
+   {
+    "word": "aventura",
+    "start": 26.098,
+    "end": 26.678
+   },
+   {
+    "word": "quase",
+    "start": 26.878,
+    "end": 27.118
+   },
+   {
+    "word": "todo",
+    "start": 27.118,
+    "end": 27.438
+   },
+   {
+    "word": "mundo",
+    "start": 27.438,
+    "end": 27.718
+   },
+   {
+    "word": "vai",
+    "start": 27.718,
+    "end": 27.918
+   },
+   {
+    "word": "de",
+    "start": 27.918,
+    "end": 28.038
+   },
+   {
+    "word": "avião",
+    "start": 28.038,
+    "end": 28.398
+   },
+   {
+    "word": "ou",
+    "start": 28.398,
+    "end": 28.578
+   },
+   {
+    "word": "de",
+    "start": 28.578,
+    "end": 28.738
+   },
+   {
+    "word": "barco",
+    "start": 28.738,
+    "end": 29.118
+   },
+   {
+    "word": "Por",
+    "start": 29.318,
+    "end": 29.458
+   },
+   {
+    "word": "terra",
+    "start": 29.458,
+    "end": 29.738
+   },
+   {
+    "word": "a",
+    "start": 29.938,
+    "end": 29.998
+   },
+   {
+    "word": "BR319",
+    "start": 29.998,
+    "end": 31.338
+   },
+   {
+    "word": "tem",
+    "start": 31.338,
+    "end": 31.578
+   },
+   {
+    "word": "centenas",
+    "start": 31.578,
+    "end": 32.178
+   },
+   {
+    "word": "de",
+    "start": 32.178,
+    "end": 32.318
+   },
+   {
+    "word": "quilômetros",
+    "start": 32.318,
+    "end": 32.818
+   },
+   {
+    "word": "de",
+    "start": 32.818,
+    "end": 32.958
+   },
+   {
+    "word": "terra",
+    "start": 32.958,
+    "end": 33.218
+   },
+   {
+    "word": "no",
+    "start": 33.218,
+    "end": 33.358
+   },
+   {
+    "word": "meio",
+    "start": 33.358,
+    "end": 33.578
+   },
+   {
+    "word": "da",
+    "start": 33.578,
+    "end": 33.698
+   },
+   {
+    "word": "floresta",
+    "start": 33.698,
+    "end": 34.138
+   }
+  ]
+ },
+ {
+  "scene": "am-06",
+  "arquivo": "audios/narracao/exemplo-vertical/am-06.mp3",
+  "start": 34.474,
+  "end": 40.743,
+  "texto": "No auge da borracha, Manaus era chamada de Paris dos Trópicos e ergueu o teatro Amazonas com peças trazidas da Europa.",
+  "segments": [
+   {
+    "start": 34.474,
+    "end": 40.354,
+    "text": "No auge da borracha, Manaus era chamada de Paris dos Trópicos e ergueu o teatro Amazonas com peças trazidas da Europa."
+   }
+  ],
+  "words": [
+   {
+    "word": "No",
+    "start": 34.474,
+    "end": 34.634
+   },
+   {
+    "word": "auge",
+    "start": 34.634,
+    "end": 34.894
+   },
+   {
+    "word": "da",
+    "start": 34.894,
+    "end": 34.994
+   },
+   {
+    "word": "borracha",
+    "start": 34.994,
+    "end": 35.474
+   },
+   {
+    "word": "Manaus",
+    "start": 35.534,
+    "end": 35.874
+   },
+   {
+    "word": "era",
+    "start": 35.874,
+    "end": 35.994
+   },
+   {
+    "word": "chamada",
+    "start": 35.994,
+    "end": 36.354
+   },
+   {
+    "word": "de",
+    "start": 36.354,
+    "end": 36.494
+   },
+   {
+    "word": "Paris",
+    "start": 36.494,
+    "end": 36.774
+   },
+   {
+    "word": "dos",
+    "start": 36.774,
+    "end": 36.954
+   },
+   {
+    "word": "Trópicos",
+    "start": 36.954,
+    "end": 37.534
+   },
+   {
+    "word": "e",
+    "start": 37.534,
+    "end": 37.874
+   },
+   {
+    "word": "ergueu",
+    "start": 37.874,
+    "end": 38.174
+   },
+   {
+    "word": "o",
+    "start": 38.174,
+    "end": 38.214
+   },
+   {
+    "word": "teatro",
+    "start": 38.214,
+    "end": 38.534
+   },
+   {
+    "word": "Amazonas",
+    "start": 38.534,
+    "end": 39.114
+   },
+   {
+    "word": "com",
+    "start": 39.114,
+    "end": 39.254
+   },
+   {
+    "word": "peças",
+    "start": 39.254,
+    "end": 39.554
+   },
+   {
+    "word": "trazidas",
+    "start": 39.554,
+    "end": 40.014
+   },
+   {
+    "word": "da",
+    "start": 40.014,
+    "end": 40.154
+   },
+   {
+    "word": "Europa",
+    "start": 40.154,
+    "end": 40.354
+   }
+  ]
+ },
+ {
+  "scene": "am-07",
+  "arquivo": "audios/narracao/exemplo-vertical/am-07.mp3",
+  "start": 40.904,
+  "end": 46.86,
+  "texto": "até que um inglês levou 70 mil sementes de seringueira que viraram plantações na Ásia e a riqueza acabou.",
+  "segments": [
+   {
+    "start": 40.904,
+    "end": 46.544,
+    "text": "até que um inglês levou 70 mil sementes de seringueira que viraram plantações na Ásia e a riqueza acabou."
+   }
+  ],
+  "words": [
+   {
+    "word": "até",
+    "start": 40.904,
+    "end": 41.124
+   },
+   {
+    "word": "que",
+    "start": 41.124,
+    "end": 41.264
+   },
+   {
+    "word": "um",
+    "start": 41.264,
+    "end": 41.344
+   },
+   {
+    "word": "inglês",
+    "start": 41.344,
+    "end": 41.664
+   },
+   {
+    "word": "levou",
+    "start": 41.664,
+    "end": 41.964
+   },
+   {
+    "word": "70",
+    "start": 41.964,
+    "end": 42.264
+   },
+   {
+    "word": "mil",
+    "start": 42.264,
+    "end": 42.564
+   },
+   {
+    "word": "sementes",
+    "start": 42.564,
+    "end": 43.084
+   },
+   {
+    "word": "de",
+    "start": 43.084,
+    "end": 43.184
+   },
+   {
+    "word": "seringueira",
+    "start": 43.184,
+    "end": 43.764
+   },
+   {
+    "word": "que",
+    "start": 43.764,
+    "end": 43.984
+   },
+   {
+    "word": "viraram",
+    "start": 43.984,
+    "end": 44.324
+   },
+   {
+    "word": "plantações",
+    "start": 44.324,
+    "end": 44.864
+   },
+   {
+    "word": "na",
+    "start": 44.864,
+    "end": 45.084
+   },
+   {
+    "word": "Ásia",
+    "start": 45.084,
+    "end": 45.524
+   },
+   {
+    "word": "e",
+    "start": 45.524,
+    "end": 45.804
+   },
+   {
+    "word": "a",
+    "start": 45.804,
+    "end": 45.904
+   },
+   {
+    "word": "riqueza",
+    "start": 45.904,
+    "end": 46.244
+   },
+   {
+    "word": "acabou",
+    "start": 46.244,
+    "end": 46.544
+   }
+  ]
+ },
+ {
+  "scene": "am-08",
+  "arquivo": "audios/narracao/exemplo-vertical/am-08.mp3",
+  "start": 47.02,
+  "end": 51.8,
+  "texto": "Décadas depois veio a zona franca, hoje quase toda a moto fabricada no Brasil sai de Manaus.",
+  "segments": [
+   {
+    "start": 47.02,
+    "end": 51.66,
+    "text": "Décadas depois veio a zona franca, hoje quase toda a moto fabricada no Brasil sai de Manaus."
+   }
+  ],
+  "words": [
+   {
+    "word": "Décadas",
+    "start": 47.02,
+    "end": 47.44
+   },
+   {
+    "word": "depois",
+    "start": 47.44,
+    "end": 47.68
+   },
+   {
+    "word": "veio",
+    "start": 47.68,
+    "end": 47.92
+   },
+   {
+    "word": "a",
+    "start": 47.92,
+    "end": 48.04
+   },
+   {
+    "word": "zona",
+    "start": 48.04,
+    "end": 48.2
+   },
+   {
+    "word": "franca",
+    "start": 48.2,
+    "end": 48.68
+   },
+   {
+    "word": "hoje",
+    "start": 48.92,
+    "end": 49.12
+   },
+   {
+    "word": "quase",
+    "start": 49.12,
+    "end": 49.38
+   },
+   {
+    "word": "toda",
+    "start": 49.38,
+    "end": 49.74
+   },
+   {
+    "word": "a",
+    "start": 49.74,
+    "end": 49.9
+   },
+   {
+    "word": "moto",
+    "start": 49.9,
+    "end": 50.06
+   },
+   {
+    "word": "fabricada",
+    "start": 50.06,
+    "end": 50.52
+   },
+   {
+    "word": "no",
+    "start": 50.52,
+    "end": 50.62
+   },
+   {
+    "word": "Brasil",
+    "start": 50.62,
+    "end": 50.92
+   },
+   {
+    "word": "sai",
+    "start": 50.92,
+    "end": 51.12
+   },
+   {
+    "word": "de",
+    "start": 51.12,
+    "end": 51.24
+   },
+   {
+    "word": "Manaus",
+    "start": 51.24,
+    "end": 51.66
+   }
+  ]
+ },
+ {
+  "scene": "am-09",
+  "arquivo": "audios/narracao/exemplo-vertical/am-09.mp3",
+  "start": 51.96,
+  "end": 55.696,
+  "texto": "Na cidade ainda tem o Mercado Adolpho Lisboa e a Praia da Ponta Negra.",
+  "segments": [
+   {
+    "start": 51.96,
+    "end": 55.56,
+    "text": "Na cidade ainda tem o Mercado Adolpho Lisboa e a Praia da Ponta Negra."
+   }
+  ],
+  "words": [
+   {
+    "word": "Na",
+    "start": 51.96,
+    "end": 52.08
+   },
+   {
+    "word": "cidade",
+    "start": 52.08,
+    "end": 52.42
+   },
+   {
+    "word": "ainda",
+    "start": 52.42,
+    "end": 52.64
+   },
+   {
+    "word": "tem",
+    "start": 52.64,
+    "end": 52.9
+   },
+   {
+    "word": "o",
+    "start": 52.9,
+    "end": 52.98
+   },
+   {
+    "word": "Mercado",
+    "start": 52.98,
+    "end": 53.42
+   },
+   {
+    "word": "Adolpho",
+    "start": 53.42,
+    "end": 53.8
+   },
+   {
+    "word": "Lisboa",
+    "start": 53.8,
+    "end": 54.28
+   },
+   {
+    "word": "e",
+    "start": 54.28,
+    "end": 54.54
+   },
+   {
+    "word": "a",
+    "start": 54.54,
+    "end": 54.62
+   },
+   {
+    "word": "Praia",
+    "start": 54.62,
+    "end": 54.86
+   },
+   {
+    "word": "da",
+    "start": 54.86,
+    "end": 54.92
+   },
+   {
+    "word": "Ponta",
+    "start": 54.92,
+    "end": 55.26
+   },
+   {
+    "word": "Negra",
+    "start": 55.26,
+    "end": 55.56
+   }
+  ]
+ },
+ {
+  "scene": "am-10",
+  "arquivo": "audios/narracao/exemplo-vertical/am-10.mp3",
+  "start": 55.856,
+  "end": 63.327,
+  "texto": "Em frente, o negro escuro encontra o Solimões, barrento e eles correm quilômetros sem se misturar. Juntos viram o Rio Amazonas.",
+  "segments": [
+   {
+    "start": 55.856,
+    "end": 61.296,
+    "text": "Em frente, o negro escuro encontra o Solimões, barrento e eles correm quilômetros sem se misturar."
+   },
+   {
+    "start": 61.576,
+    "end": 63.196,
+    "text": "Juntos viram o Rio Amazonas."
+   }
+  ],
+  "words": [
+   {
+    "word": "Em",
+    "start": 55.856,
+    "end": 56.036
+   },
+   {
+    "word": "frente",
+    "start": 56.036,
+    "end": 56.256
+   },
+   {
+    "word": "o",
+    "start": 56.476,
+    "end": 56.496
+   },
+   {
+    "word": "negro",
+    "start": 56.496,
+    "end": 56.716
+   },
+   {
+    "word": "escuro",
+    "start": 56.716,
+    "end": 57.236
+   },
+   {
+    "word": "encontra",
+    "start": 57.236,
+    "end": 57.536
+   },
+   {
+    "word": "o Solimões",
+    "start": 57.536,
+    "end": 58.436
+   },
+   {
+    "word": "barrento",
+    "start": 58.676,
+    "end": 59.296
+   },
+   {
+    "word": "e",
+    "start": 59.296,
+    "end": 59.536
+   },
+   {
+    "word": "eles",
+    "start": 59.536,
+    "end": 59.636
+   },
+   {
+    "word": "correm",
+    "start": 59.636,
+    "end": 59.976
+   },
+   {
+    "word": "quilômetros",
+    "start": 59.976,
+    "end": 60.576
+   },
+   {
+    "word": "sem",
+    "start": 60.576,
+    "end": 60.776
+   },
+   {
+    "word": "se",
+    "start": 60.776,
+    "end": 60.876
+   },
+   {
+    "word": "misturar",
+    "start": 60.876,
+    "end": 61.296
+   },
+   {
+    "word": "Juntos",
+    "start": 61.576,
+    "end": 62.036
+   },
+   {
+    "word": "viram",
+    "start": 62.036,
+    "end": 62.296
+   },
+   {
+    "word": "o",
+    "start": 62.296,
+    "end": 62.376
+   },
+   {
+    "word": "Rio",
+    "start": 62.376,
+    "end": 62.496
+   },
+   {
+    "word": "Amazonas",
+    "start": 62.496,
+    "end": 63.196
+   }
+  ]
+ },
+ {
+  "scene": "am-11",
+  "arquivo": "audios/narracao/exemplo-vertical/am-11.mp3",
+  "start": 63.727,
+  "end": 66.287,
+  "texto": "Mas é saindo de Manaus que o Amazonas impressiona.",
+  "segments": [
+   {
+    "start": 63.727,
+    "end": 66.147,
+    "text": "Mas é saindo de Manaus que o Amazonas impressiona."
+   }
+  ],
+  "words": [
+   {
+    "word": "Mas",
+    "start": 63.727,
+    "end": 63.927
+   },
+   {
+    "word": "é",
+    "start": 63.927,
+    "end": 64.107
+   },
+   {
+    "word": "saindo",
+    "start": 64.107,
+    "end": 64.367
+   },
+   {
+    "word": "de",
+    "start": 64.367,
+    "end": 64.507
+   },
+   {
+    "word": "Manaus",
+    "start": 64.507,
+    "end": 64.887
+   },
+   {
+    "word": "que",
+    "start": 64.887,
+    "end": 64.987
+   },
+   {
+    "word": "o",
+    "start": 64.987,
+    "end": 65.067
+   },
+   {
+    "word": "Amazonas",
+    "start": 65.067,
+    "end": 65.547
+   },
+   {
+    "word": "impressiona",
+    "start": 65.547,
+    "end": 66.147
+   }
+  ]
+ },
+ {
+  "scene": "am-12",
+  "arquivo": "audios/narracao/exemplo-vertical/am-12.mp3",
+  "start": 66.447,
+  "end": 69.399,
+  "texto": "No Lago Janauari, as vitórias-régias passam de dois metros.",
+  "segments": [
+   {
+    "start": 66.447,
+    "end": 69.047,
+    "text": "No Lago Janauari, as vitórias-régias passam de dois metros."
+   }
+  ],
+  "words": [
+   {
+    "word": "No",
+    "start": 66.447,
+    "end": 66.587
+   },
+   {
+    "word": "Lago",
+    "start": 66.587,
+    "end": 66.787
+   },
+   {
+    "word": "Janauari",
+    "start": 66.787,
+    "end": 67.327
+   },
+   {
+    "word": "as",
+    "start": 67.387,
+    "end": 67.447
+   },
+   {
+    "word": "vitórias-régias",
+    "start": 67.447,
+    "end": 68.107
+   },
+   {
+    "word": "passam",
+    "start": 68.107,
+    "end": 68.487
+   },
+   {
+    "word": "de",
+    "start": 68.487,
+    "end": 68.547
+   },
+   {
+    "word": "dois",
+    "start": 68.547,
+    "end": 68.787
+   },
+   {
+    "word": "metros",
+    "start": 68.787,
+    "end": 69.047
+   }
+  ]
+ },
+ {
+  "scene": "am-13",
+  "arquivo": "audios/narracao/exemplo-vertical/am-13.mp3",
+  "start": 69.559,
+  "end": 74.418,
+  "texto": "Em Novo Airão, as anavilhanas formam um labirinto de 400 ilhas com botos-cor-de-rosa.",
+  "segments": [
+   {
+    "start": 69.559,
+    "end": 74.259,
+    "text": "Em Novo Airão, as anavilhanas formam um labirinto de 400 ilhas com botos-cor-de-rosa."
+   }
+  ],
+  "words": [
+   {
+    "word": "Em",
+    "start": 69.559,
+    "end": 69.739
+   },
+   {
+    "word": "Novo",
+    "start": 69.739,
+    "end": 69.979
+   },
+   {
+    "word": "Airão",
+    "start": 69.979,
+    "end": 70.259
+   },
+   {
+    "word": "as",
+    "start": 70.319,
+    "end": 70.419
+   },
+   {
+    "word": "anavilhanas",
+    "start": 70.419,
+    "end": 71.039
+   },
+   {
+    "word": "formam",
+    "start": 71.039,
+    "end": 71.399
+   },
+   {
+    "word": "um",
+    "start": 71.399,
+    "end": 71.499
+   },
+   {
+    "word": "labirinto",
+    "start": 71.499,
+    "end": 71.859
+   },
+   {
+    "word": "de",
+    "start": 71.859,
+    "end": 71.999
+   },
+   {
+    "word": "400",
+    "start": 71.999,
+    "end": 72.379
+   },
+   {
+    "word": "ilhas",
+    "start": 72.379,
+    "end": 73.039
+   },
+   {
+    "word": "com",
+    "start": 73.039,
+    "end": 73.219
+   },
+   {
+    "word": "botos-cor-de-rosa",
+    "start": 73.219,
+    "end": 74.259
+   }
+  ]
+ },
+ {
+  "scene": "am-14",
+  "arquivo": "audios/narracao/exemplo-vertical/am-14.mp3",
+  "start": 74.577,
+  "end": 78.156,
+  "texto": "Presidente Figueiredo tem mais de 100 cachoeiras e grutas no meio da mata.",
+  "segments": [
+   {
+    "start": 74.577,
+    "end": 77.917,
+    "text": "Presidente Figueiredo tem mais de 100 cachoeiras e grutas no meio da mata."
+   }
+  ],
+  "words": [
+   {
+    "word": "Presidente",
+    "start": 74.577,
+    "end": 75.097
+   },
+   {
+    "word": "Figueiredo",
+    "start": 75.097,
+    "end": 75.557
+   },
+   {
+    "word": "tem",
+    "start": 75.557,
+    "end": 75.677
+   },
+   {
+    "word": "mais",
+    "start": 75.677,
+    "end": 75.877
+   },
+   {
+    "word": "de",
+    "start": 75.877,
+    "end": 76.037
+   },
+   {
+    "word": "100",
+    "start": 76.037,
+    "end": 76.277
+   },
+   {
+    "word": "cachoeiras",
+    "start": 76.277,
+    "end": 76.837
+   },
+   {
+    "word": "e",
+    "start": 76.837,
+    "end": 76.957
+   },
+   {
+    "word": "grutas",
+    "start": 76.957,
+    "end": 77.317
+   },
+   {
+    "word": "no",
+    "start": 77.317,
+    "end": 77.417
+   },
+   {
+    "word": "meio",
+    "start": 77.417,
+    "end": 77.537
+   },
+   {
+    "word": "da",
+    "start": 77.537,
+    "end": 77.697
+   },
+   {
+    "word": "mata",
+    "start": 77.697,
+    "end": 77.917
+   }
+  ]
+ },
+ {
+  "scene": "am-15",
+  "arquivo": "audios/narracao/exemplo-vertical/am-15.mp3",
+  "start": 78.316,
+  "end": 83.723,
+  "texto": "Em Parintins, uma ilha no meio do rio, o Festival dos Bois divide a cidade entre garantido e caprichoso.",
+  "segments": [
+   {
+    "start": 78.316,
+    "end": 83.556,
+    "text": "Em Parintins, uma ilha no meio do rio, o Festival dos Bois divide a cidade entre garantido e caprichoso."
+   }
+  ],
+  "words": [
+   {
+    "word": "Em",
+    "start": 78.316,
+    "end": 78.496
+   },
+   {
+    "word": "Parintins",
+    "start": 78.496,
+    "end": 79.056
+   },
+   {
+    "word": "uma",
+    "start": 79.136,
+    "end": 79.276
+   },
+   {
+    "word": "ilha",
+    "start": 79.276,
+    "end": 79.496
+   },
+   {
+    "word": "no",
+    "start": 79.496,
+    "end": 79.596
+   },
+   {
+    "word": "meio",
+    "start": 79.596,
+    "end": 79.736
+   },
+   {
+    "word": "do",
+    "start": 79.736,
+    "end": 79.856
+   },
+   {
+    "word": "rio",
+    "start": 79.856,
+    "end": 80.196
+   },
+   {
+    "word": "o",
+    "start": 80.336,
+    "end": 80.356
+   },
+   {
+    "word": "Festival",
+    "start": 80.356,
+    "end": 80.696
+   },
+   {
+    "word": "dos",
+    "start": 80.696,
+    "end": 80.916
+   },
+   {
+    "word": "Bois",
+    "start": 80.916,
+    "end": 81.296
+   },
+   {
+    "word": "divide",
+    "start": 81.296,
+    "end": 81.496
+   },
+   {
+    "word": "a",
+    "start": 81.496,
+    "end": 81.716
+   },
+   {
+    "word": "cidade",
+    "start": 81.716,
+    "end": 82.036
+   },
+   {
+    "word": "entre",
+    "start": 82.036,
+    "end": 82.236
+   },
+   {
+    "word": "garantido",
+    "start": 82.236,
+    "end": 82.876
+   },
+   {
+    "word": "e",
+    "start": 82.876,
+    "end": 82.956
+   },
+   {
+    "word": "caprichoso",
+    "start": 82.956,
+    "end": 83.556
+   }
+  ]
+ },
+ {
+  "scene": "am-16",
+  "arquivo": "audios/narracao/exemplo-vertical/am-16.mp3",
+  "start": 83.883,
+  "end": 89.395,
+  "texto": "Em Maués nasceu o guaraná para os Sateré-Mawé, ele brotou dos olhos de um menino e, por isso, parece um olho.",
+  "segments": [
+   {
+    "start": 83.883,
+    "end": 89.223,
+    "text": "Em Maués nasceu o guaraná para os Sateré-Mawé, ele brotou dos olhos de um menino e, por isso, parece um olho."
+   }
+  ],
+  "words": [
+   {
+    "word": "Em",
+    "start": 83.883,
+    "end": 84.043
+   },
+   {
+    "word": "Maués",
+    "start": 84.043,
+    "end": 84.423
+   },
+   {
+    "word": "nasceu",
+    "start": 84.423,
+    "end": 84.763
+   },
+   {
+    "word": "o",
+    "start": 84.763,
+    "end": 84.863
+   },
+   {
+    "word": "guaraná",
+    "start": 84.863,
+    "end": 85.303
+   },
+   {
+    "word": "para",
+    "start": 85.303,
+    "end": 85.643
+   },
+   {
+    "word": "os Sateré-Mawé",
+    "start": 85.643,
+    "end": 86.483
+   },
+   {
+    "word": "ele",
+    "start": 86.583,
+    "end": 86.643
+   },
+   {
+    "word": "brotou",
+    "start": 86.643,
+    "end": 86.963
+   },
+   {
+    "word": "dos",
+    "start": 86.963,
+    "end": 87.083
+   },
+   {
+    "word": "olhos",
+    "start": 87.083,
+    "end": 87.303
+   },
+   {
+    "word": "de",
+    "start": 87.303,
+    "end": 87.463
+   },
+   {
+    "word": "um",
+    "start": 87.463,
+    "end": 87.523
+   },
+   {
+    "word": "menino",
+    "start": 87.523,
+    "end": 87.963
+   },
+   {
+    "word": "e",
+    "start": 87.963,
+    "end": 88.203
+   },
+   {
+    "word": "por",
+    "start": 88.263,
+    "end": 88.363
+   },
+   {
+    "word": "isso",
+    "start": 88.363,
+    "end": 88.523
+   },
+   {
+    "word": "parece",
+    "start": 88.623,
+    "end": 88.783
+   },
+   {
+    "word": "um",
+    "start": 88.783,
+    "end": 89.043
+   },
+   {
+    "word": "olho",
+    "start": 89.043,
+    "end": 89.223
+   }
+  ]
+ },
+ {
+  "scene": "am-17",
+  "arquivo": "audios/narracao/exemplo-vertical/am-17.mp3",
+  "start": 89.555,
+  "end": 96.948,
+  "texto": "O Amazonas tem mais indígenas que qualquer estado, mais de 490 mil, e no Vale do Javari vivem povos isolados até hoje.",
+  "segments": [
+   {
+    "start": 89.555,
+    "end": 96.755,
+    "text": "O Amazonas tem mais indígenas que qualquer estado, mais de 490 mil, e no Vale do Javari vivem povos isolados até hoje."
+   }
+  ],
+  "words": [
+   {
+    "word": "O",
+    "start": 89.555,
+    "end": 89.655
+   },
+   {
+    "word": "Amazonas",
+    "start": 89.655,
+    "end": 90.235
+   },
+   {
+    "word": "tem",
+    "start": 90.235,
+    "end": 90.335
+   },
+   {
+    "word": "mais",
+    "start": 90.335,
+    "end": 90.535
+   },
+   {
+    "word": "indígenas",
+    "start": 90.535,
+    "end": 91.095
+   },
+   {
+    "word": "que",
+    "start": 91.095,
+    "end": 91.195
+   },
+   {
+    "word": "qualquer",
+    "start": 91.195,
+    "end": 91.555
+   },
+   {
+    "word": "estado",
+    "start": 91.555,
+    "end": 91.935
+   },
+   {
+    "word": "mais",
+    "start": 92.235,
+    "end": 92.395
+   },
+   {
+    "word": "de",
+    "start": 92.395,
+    "end": 92.535
+   },
+   {
+    "word": "490",
+    "start": 92.535,
+    "end": 93.175
+   },
+   {
+    "word": "mil",
+    "start": 93.175,
+    "end": 93.875
+   },
+   {
+    "word": "e",
+    "start": 94.175,
+    "end": 94.275
+   },
+   {
+    "word": "no",
+    "start": 94.275,
+    "end": 94.355
+   },
+   {
+    "word": "Vale",
+    "start": 94.355,
+    "end": 94.595
+   },
+   {
+    "word": "do",
+    "start": 94.595,
+    "end": 94.735
+   },
+   {
+    "word": "Javari",
+    "start": 94.735,
+    "end": 95.135
+   },
+   {
+    "word": "vivem",
+    "start": 95.135,
+    "end": 95.435
+   },
+   {
+    "word": "povos",
+    "start": 95.435,
+    "end": 95.715
+   },
+   {
+    "word": "isolados",
+    "start": 95.715,
+    "end": 96.235
+   },
+   {
+    "word": "até",
+    "start": 96.235,
+    "end": 96.455
+   },
+   {
+    "word": "hoje",
+    "start": 96.455,
+    "end": 96.755
+   }
+  ]
+ },
+ {
+  "scene": "am-18",
+  "arquivo": "audios/narracao/exemplo-vertical/am-18.mp3",
+  "start": 97.108,
+  "end": 101.34,
+  "texto": "No extremo norte, o pico da Neblina é o teto do Brasil, com quase 3 mil metros.",
+  "segments": [
+   {
+    "start": 97.108,
+    "end": 101.108,
+    "text": "No extremo norte, o pico da Neblina é o teto do Brasil, com quase 3 mil metros."
+   }
+  ],
+  "words": [
+   {
+    "word": "No",
+    "start": 97.108,
+    "end": 97.228
+   },
+   {
+    "word": "extremo",
+    "start": 97.228,
+    "end": 97.648
+   },
+   {
+    "word": "norte",
+    "start": 97.648,
+    "end": 97.908
+   },
+   {
+    "word": "o",
+    "start": 97.988,
+    "end": 98.048
+   },
+   {
+    "word": "pico",
+    "start": 98.048,
+    "end": 98.288
+   },
+   {
+    "word": "da",
+    "start": 98.288,
+    "end": 98.368
+   },
+   {
+    "word": "Neblina",
+    "start": 98.368,
+    "end": 98.768
+   },
+   {
+    "word": "é",
+    "start": 98.768,
+    "end": 98.868
+   },
+   {
+    "word": "o",
+    "start": 98.868,
+    "end": 98.968
+   },
+   {
+    "word": "teto",
+    "start": 98.968,
+    "end": 99.228
+   },
+   {
+    "word": "do",
+    "start": 99.228,
+    "end": 99.328
+   },
+   {
+    "word": "Brasil",
+    "start": 99.328,
+    "end": 99.688
+   },
+   {
+    "word": "com",
+    "start": 99.908,
+    "end": 100.068
+   },
+   {
+    "word": "quase",
+    "start": 100.068,
+    "end": 100.308
+   },
+   {
+    "word": "3",
+    "start": 100.308,
+    "end": 100.608
+   },
+   {
+    "word": "mil",
+    "start": 100.608,
+    "end": 100.768
+   },
+   {
+    "word": "metros",
+    "start": 100.768,
+    "end": 101.108
+   }
+  ]
+ },
+ {
+  "scene": "am-19",
+  "arquivo": "audios/narracao/exemplo-vertical/am-19.mp3",
+  "start": 101.5,
+  "end": 105.706,
+  "texto": "Do Encontro das Águas ao Pico da Neblina, o Amazonas é cheio de lugares para descobrir?",
+  "segments": [
+   {
+    "start": 101.5,
+    "end": 105.3,
+    "text": "Do Encontro das Águas ao Pico da Neblina, o Amazonas é cheio de lugares para descobrir?"
+   }
+  ],
+  "words": [
+   {
+    "word": "Do",
+    "start": 101.5,
+    "end": 101.6
+   },
+   {
+    "word": "Encontro",
+    "start": 101.6,
+    "end": 102.06
+   },
+   {
+    "word": "das",
+    "start": 102.06,
+    "end": 102.18
+   },
+   {
+    "word": "Águas",
+    "start": 102.18,
+    "end": 102.58
+   },
+   {
+    "word": "ao",
+    "start": 102.58,
+    "end": 102.72
+   },
+   {
+    "word": "Pico",
+    "start": 102.72,
+    "end": 102.94
+   },
+   {
+    "word": "da",
+    "start": 102.94,
+    "end": 103.04
+   },
+   {
+    "word": "Neblina",
+    "start": 103.04,
+    "end": 103.5
+   },
+   {
+    "word": "o",
+    "start": 103.58,
+    "end": 103.64
+   },
+   {
+    "word": "Amazonas",
+    "start": 103.64,
+    "end": 104.12
+   },
+   {
+    "word": "é",
+    "start": 104.12,
+    "end": 104.2
+   },
+   {
+    "word": "cheio",
+    "start": 104.2,
+    "end": 104.46
+   },
+   {
+    "word": "de",
+    "start": 104.46,
+    "end": 104.54
+   },
+   {
+    "word": "lugares",
+    "start": 104.54,
+    "end": 104.82
+   },
+   {
+    "word": "para",
+    "start": 104.82,
+    "end": 105.02
+   },
+   {
+    "word": "descobrir",
+    "start": 105.02,
+    "end": 105.3
+   }
+  ]
+ },
+ {
+  "scene": "am-20",
+  "arquivo": "audios/narracao/exemplo-vertical/am-20.mp3",
+  "start": 105.866,
+  "end": 107.668,
+  "texto": "Qual desses lugares você já conhecia?",
+  "segments": [
+   {
+    "start": 105.866,
+    "end": 107.446,
+    "text": "Qual desses lugares você já conhecia?"
+   }
+  ],
+  "words": [
+   {
+    "word": "Qual",
+    "start": 105.866,
+    "end": 105.986
+   },
+   {
+    "word": "desses",
+    "start": 105.986,
+    "end": 106.226
+   },
+   {
+    "word": "lugares",
+    "start": 106.226,
+    "end": 106.566
+   },
+   {
+    "word": "você",
+    "start": 106.566,
+    "end": 106.846
+   },
+   {
+    "word": "já",
+    "start": 106.846,
+    "end": 107.006
+   },
+   {
+    "word": "conhecia",
+    "start": 107.006,
+    "end": 107.446
+   }
+  ]
+ }
+]

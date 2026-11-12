@@ -1,0 +1,175 @@
+[
+ {
+  "id": "orm-01",
+  "capitulo": "gancho",
+  "texto": "Em fevereiro de dois mil e vinte e seis, um [corredor] de água com pouco mais de trinta quilômetros de largura entrou no centro da maior interrupção no fornecimento de [petróleo] da história, segundo a [Agência] Internacional de Energia."
+ },
+ {
+  "id": "orm-02",
+  "capitulo": "gancho",
+  "texto": "Antes da [guerra], passavam por ali cerca de vinte milhões de [barris] por dia. Um em cada cinco barris consumidos no [planeta]."
+ },
+ {
+  "id": "orm-03",
+  "capitulo": "gancho",
+  "texto": "Este é o [Estreito] de Ormuz. E, para entender por que ele importa tanto, é preciso olhar para o [mapa].",
+  "pausaDepois": 0.9
+ },
+ {
+  "id": "orm-04",
+  "capitulo": "geografia",
+  "texto": "O Golfo Pérsico é um mar quase [fechado]. De um lado, o [Irã]. Do outro, a [Arábia] Saudita, o [Kuwait], o [Iraque], o [Catar], o [Bahrein] e os [Emirados] Árabes Unidos."
+ },
+ {
+  "id": "orm-05",
+  "capitulo": "geografia",
+  "texto": "Todos dividem a mesma [saída] para o oceano: uma passagem entre o Irã, ao norte, e a península de [Musandam], um pedaço de [Omã] separado do resto do país."
+ },
+ {
+  "id": "orm-06",
+  "capitulo": "geografia",
+  "texto": "No ponto mais [estreito], são cerca de trinta e três quilômetros. E as [faixas] de navegação são ainda menores: uns três quilômetros para [entrar] e três para [sair]."
+ },
+ {
+  "id": "orm-07",
+  "capitulo": "geografia",
+  "texto": "No caminho há [ilhas]. [Ormuz], [Queixome] e [Larak] são iranianas. Mais a oeste, [Abu] Musa e as duas ilhas [Tunb] estão sob controle do Irã desde mil novecentos e setenta e um, e são reivindicadas pelos [Emirados].",
+  "pausaDepois": 0.9
+ },
+ {
+  "id": "orm-08",
+  "capitulo": "historia",
+  "texto": "A disputa por este lugar é [antiga]. Na Idade Média, a ilha de Ormuz era o centro de um [reino] que vivia do comércio entre a [Índia], a [Pérsia] e a [Arábia]."
+ },
+ {
+  "id": "orm-09",
+  "capitulo": "historia",
+  "texto": "No começo do século dezesseis, chegaram os [portugueses]. [Afonso] de Albuquerque atacou Ormuz em mil quinhentos e sete e, em mil quinhentos e quinze, Portugal tomou a ilha e ergueu ali uma [fortaleza]."
+ },
+ {
+  "id": "orm-10",
+  "capitulo": "historia",
+  "texto": "Foram mais de cem anos de domínio [português], até mil seiscentos e vinte e dois, quando o xá [Abbas], da Pérsia, com a ajuda de navios [ingleses], expulsou os portugueses."
+ },
+ {
+  "id": "orm-11",
+  "capitulo": "historia",
+  "texto": "O porto do continente ganhou o nome do vencedor: [Bandar] Abbas, o porto de Abbas. Até hoje, é uma das portas de [entrada] do Irã para o mar.",
+  "pausaDepois": 0.9
+ },
+ {
+  "id": "orm-12",
+  "capitulo": "petroleo",
+  "texto": "No século vinte, o valor do estreito mudou por causa do que estava [debaixo] da areia. Petróleo no [Irã], em mil novecentos e oito. Na Arábia [Saudita], em mil novecentos e trinta e oito."
+ },
+ {
+  "id": "orm-13",
+  "capitulo": "petroleo",
+  "texto": "O Golfo virou a região com as maiores [reservas] de petróleo do mundo. E quase tudo o que sai de lá por mar tem que passar pelo mesmo [caminho]."
+ },
+ {
+  "id": "orm-14",
+  "capitulo": "petroleo",
+  "texto": "Nos anos oitenta, durante a guerra entre o [Irã] e o [Iraque], os dois lados atacaram navios no Golfo. Foi a chamada guerra dos [petroleiros]."
+ },
+ {
+  "id": "orm-15",
+  "capitulo": "petroleo",
+  "texto": "Em mil novecentos e oitenta e oito, a Marinha americana afundou navios iranianos na operação [Louva-a-Deus]. Três meses depois, um cruzador americano derrubou um avião de passageiros da [Iran] Air, que a tripulação disse ter confundido com um caça. Duzentas e noventa pessoas [morreram].",
+  "pausaDepois": 0.9
+ },
+ {
+  "id": "orm-16",
+  "capitulo": "dependencia",
+  "texto": "Antes da guerra de dois mil e vinte e seis, quem mais [exportava] por ali era a Arábia Saudita: trinta e oito por cento do petróleo bruto que cruzava o estreito."
+ },
+ {
+  "id": "orm-17",
+  "capitulo": "dependencia",
+  "texto": "O [Catar] manda por esse caminho todo o seu gás natural liquefeito. Em dois mil e vinte e quatro, cerca de um quinto do [gás] liquefeito comercializado no mundo passou por Ormuz."
+ },
+ {
+  "id": "orm-18",
+  "capitulo": "dependencia",
+  "texto": "E quem compra é a [Ásia]: oitenta e quatro por cento do petróleo bruto ia para lá. [China], [Índia], [Japão] e [Coreia] do Sul ficavam com quase setenta por cento."
+ },
+ {
+  "id": "orm-19",
+  "capitulo": "dependencia",
+  "texto": "Existem desvios. A Arábia Saudita tem um [oleoduto] que atravessa o país até o mar [Vermelho]. Os Emirados têm outro até [Fujairah], já do lado de fora do estreito."
+ },
+ {
+  "id": "orm-20",
+  "capitulo": "dependencia",
+  "texto": "Mas, antes da guerra, a capacidade livre desses oleodutos era de cerca de dois milhões e seiscentos mil barris por dia. Pouco perto dos [vinte] milhões que passavam pelo estreito.",
+  "pausaDepois": 0.9
+ },
+ {
+  "id": "orm-21",
+  "capitulo": "ameaca",
+  "texto": "Por décadas, o Irã [ameaçou] fechar o estreito sempre que era pressionado. Em dois mil e dezenove, navios foram atacados no Golfo de [Omã], e um petroleiro britânico foi [apreendido]."
+ },
+ {
+  "id": "orm-22",
+  "capitulo": "ameaca",
+  "texto": "Em junho de dois mil e vinte e cinco, depois de ataques americanos a instalações nucleares, o parlamento iraniano chegou a [aprovar] o fechamento. Mas a palavra final era do Conselho Supremo de Segurança Nacional, e o estreito continuou [aberto].",
+  "pausaDepois": 0.9
+ },
+ {
+  "id": "orm-23",
+  "capitulo": "crise",
+  "texto": "Até que, no dia vinte e oito de [fevereiro] de dois mil e vinte e seis, os Estados Unidos e Israel atacaram o Irã. Em poucos dias, Teerã declarou o estreito [fechado]."
+ },
+ {
+  "id": "orm-24",
+  "capitulo": "crise",
+  "texto": "Navios foram [atingidos], as seguradoras [retiraram] as coberturas, e o tráfego [desabou]."
+ },
+ {
+  "id": "orm-25",
+  "capitulo": "crise",
+  "texto": "Em oito de março, o barril do tipo [Brent] passou de cem dólares pela primeira vez em quatro anos. E a Agência Internacional de Energia coordenou a maior liberação de [estoques] de emergência da sua história: quatrocentos milhões de [barris]."
+ },
+ {
+  "id": "orm-26",
+  "capitulo": "crise",
+  "texto": "A Arábia Saudita passou a mandar sete milhões de barris por dia pelo [oleoduto] até o mar Vermelho. Mesmo assim, não dava para [compensar]."
+ },
+ {
+  "id": "orm-27",
+  "capitulo": "crise",
+  "texto": "Em abril, os Estados Unidos impuseram um [bloqueio] naval aos portos do Irã. Vieram [tréguas], acordos e rupturas, e o estreito voltou a ser fechado mais de uma [vez]."
+ },
+ {
+  "id": "orm-28",
+  "capitulo": "crise",
+  "texto": "Em setembro, segundo a Agência Internacional de Energia, passaram por ali cerca de dez milhões e novecentos mil barris por dia, pouco mais da [metade] do que antes da guerra. E, em [outubro], os ataques a navios voltaram a crescer."
+ },
+ {
+  "id": "orm-29",
+  "capitulo": "crise",
+  "texto": "Até a data desta pesquisa, em meados de outubro de dois mil e vinte e seis, a [crise] continua.",
+  "pausaDepois": 1.1
+ },
+ {
+  "id": "orm-30",
+  "capitulo": "conclusao",
+  "texto": "Ormuz mostra uma regra antiga da geopolítica: quem controla uma [passagem] estreita tem poder sobre quem depende dela."
+ },
+ {
+  "id": "orm-31",
+  "capitulo": "conclusao",
+  "texto": "Mas é um poder caro. O próprio Irã embarcava quase todo o seu petróleo na ilha de [Kharg], dentro do Golfo. E precisa do estreito tanto quanto os [vizinhos]."
+ },
+ {
+  "id": "orm-32",
+  "capitulo": "conclusao",
+  "texto": "Por isso, estes trinta e três quilômetros de água continuam pesando no preço do combustível em [Tóquio], em [Mumbai] e também aqui no [Brasil].",
+  "pausaDepois": 1.0
+ },
+ {
+  "id": "orm-33",
+  "capitulo": "conclusao",
+  "texto": "Se você gosta de entender o mundo pelo mapa, [siga] o canal e ative o [sino]. Deixe o seu [like] e [compartilhe] este vídeo. E me conta aqui nos [comentários]: você acha que o Estreito de Ormuz um dia vai [voltar] a ser o que era?"
+ }
+]

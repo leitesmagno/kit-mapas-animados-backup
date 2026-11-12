@@ -1,0 +1,10 @@
+{ "fundo": { "src": "imagens-ia/exemplo-horizontal-capa/fundo-estreito/ff4e015821701f80.jpg", "foco": [0.5, 0.5], "zoom": 1.05, "brilho": 0.8, "desfoque": 0.005, "saturacao": 1.1 },
+  "acabamento": { "vinheta": 0.55 },
+  "camadas": [
+    { "tipo": "brilho", "x": 0.7, "y": 0.6, "raio": 0.55, "cor": "#FFC86B", "intensidade": 0.75 },
+    { "tipo": "recorte", "src": "imagens-ia/exemplo-horizontal-capa/recortes/fortaleza.png", "x": 0.68, "y": 1.03, "ancora": "base", "altura": 0.68, "brilho": "#FFB347" },
+    { "tipo": "recorte", "bandeira": "portugal", "x": 0.82, "y": 0.22, "altura": 0.22, "rot": 8 },
+    { "tipo": "texto", "x": 0.04, "y": 0.38, "ancora": "esquerda", "tamanho": 0.24, "largura": 0.46, "rot": -4,
+      "linhas": [ { "texto": "PORTUGAL", "cor": "#FFD400" }, { "texto": "MANDAVA AQUI", "escala": 0.42, "caixa": "#D9181E", "corNaCaixa": "#FFFFFF" } ] },
+    { "tipo": "selo", "texto": "1515", "x": 0.16, "y": 0.8, "forma": "estrela", "cor": "#FFD400", "corTexto": "#111", "tamanho": 0.07 }
+  ] }

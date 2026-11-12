@@ -1,0 +1,9 @@
+{ "fundo": { "src": "imagens-ia/exemplo-horizontal-capa/fundo-noite/59db9292d38d827d.jpg", "foco": [0.6, 0.45], "zoom": 1.05, "contraste": 1.15, "saturacao": 1.3 },
+  "acabamento": { "vinheta": 0.6, "tom": "#ff2a00", "intensidadeDoTom": 0.25 },
+  "camadas": [
+    { "tipo": "brilho", "x": 0.72, "y": 0.5, "raio": 0.45, "cor": "#FF3B1F", "intensidade": 0.7 },
+    { "tipo": "recorte", "src": "imagens-ia/exemplo-horizontal-capa/recortes/petroleiro.png", "x": 0.72, "y": 0.98, "ancora": "base", "altura": 0.6, "contorno": { "cor": "#FFFFFF", "largura": 0.005 }, "brilho": "#FF3B1F", "brilhoDaImagem": 0.9 },
+    { "tipo": "texto", "x": 0.04, "y": 0.4, "ancora": "esquerda", "tamanho": 0.22, "largura": 0.5, "rot": -3,
+      "linhas": [ { "texto": "A MAIOR CRISE", "cor": "#FFFFFF", "escala": 0.8 }, { "texto": "DA HISTÓRIA", "gradiente": ["#FFD27A", "#FF3B1F"] } ] },
+    { "tipo": "selo", "texto": "BLOQUEIO", "x": 0.75, "y": 0.18, "forma": "retangulo", "cor": "#FF2D2D", "corTexto": "#FFFFFF", "tamanho": 0.085, "rot": 7 }
+  ] }

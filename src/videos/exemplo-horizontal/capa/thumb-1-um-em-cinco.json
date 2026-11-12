@@ -1,0 +1,14 @@
+{ "fundo": { "src": "imagens-ia/exemplo-horizontal-capa/fundo-estreito/ff4e015821701f80.jpg", "foco": [0.5, 0.5], "brilho": 0.6, "desfoque": 0.005 },
+  "acabamento": { "vinheta": 0.6 },
+  "camadas": [
+    { "tipo": "texto", "x": 0.04, "y": 0.3, "ancora": "esquerda", "tamanho": 0.27, "largura": 0.6, "rot": -3,
+      "linhas": [ { "texto": "1 EM CADA 5", "cor": "#FFFFFF" }, { "texto": "BARRIS DO MUNDO", "escala": 0.4, "caixa": "#FFD400", "corNaCaixa": "#111" } ] },
+    { "tipo": "recorte", "icone": "barril_de_petroleo", "x": 0.1, "y": 0.8, "altura": 0.26, "contorno": false, "brilhoDaImagem": 0.45, "saturacao": 0.3 },
+    { "tipo": "recorte", "icone": "barril_de_petroleo", "x": 0.24, "y": 0.8, "altura": 0.26, "contorno": false, "brilhoDaImagem": 0.45, "saturacao": 0.3 },
+    { "tipo": "recorte", "icone": "barril_de_petroleo", "x": 0.38, "y": 0.8, "altura": 0.26, "contorno": false, "brilhoDaImagem": 0.45, "saturacao": 0.3 },
+    { "tipo": "recorte", "icone": "barril_de_petroleo", "x": 0.52, "y": 0.8, "altura": 0.26, "contorno": false, "brilhoDaImagem": 0.45, "saturacao": 0.3 },
+    { "tipo": "brilho", "x": 0.75, "y": 0.6, "raio": 0.5, "cor": "#FF8A00", "intensidade": 0.9 },
+    { "tipo": "raios", "x": 0.75, "y": 0.6, "cor": "#FFD27A", "opacidade": 0.2 },
+    { "tipo": "recorte", "icone": "barril_de_petroleo", "x": 0.75, "y": 0.6, "altura": 0.62, "rot": 8, "brilho": "#FF8A00" },
+    { "tipo": "seta", "de": [0.62, 0.12], "para": [0.7, 0.3], "curva": -0.4, "cor": "#FF2D2D" }
+  ] }

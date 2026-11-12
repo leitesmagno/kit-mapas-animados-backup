@@ -1,0 +1,501 @@
+{
+ "documentario": "exemplo-horizontal",
+ "imagens": {
+  "aviao_de_passageiros": {
+   "aprovada": null,
+   "atual": "5181aa0399a97864",
+   "cena": "icone",
+   "estado": "gerada",
+   "ilustrativa": true,
+   "obrigatoria": true,
+   "revisao": "pendente",
+   "tipo": "icone",
+   "versoes": {
+    "5181aa0399a97864": {
+     "altura": 1024,
+     "arquivo": "imagens-ia/exemplo-horizontal-icones/aviao_de_passageiros/5181aa0399a97864.jpg",
+     "chave": "5181aa0399a97864",
+     "config": {
+      "proporcao": "1:1",
+      "referencias": [],
+      "tamanho": "1K"
+     },
+     "custo_usd": 0.03642,
+     "gerada_em": "2026-10-16T22:11:47+00:00",
+     "id": "aviao_de_passageiros",
+     "interacao": "v1_ChdHS0hTYW91Z0ZMdU95dE1QaHYtT29RdxIXR0tIU2FvdWdGTHVPeXRNUGh2LU9vUXc",
+     "largura": 1024,
+     "mime": "image/jpeg",
+     "modelo": "gemini-nano-banana-2.1",
+     "prompt": "A single 3D ICON in the style of glossy 3D emoji (soft clay-like render, smooth rounded shapes, gentle studio lighting from the top left, subtle gradients, crisp edges), the whole object visible and centered with generous margin, isolated on a perfectly flat, uniform pure green background (#00FF00, chroma key), no shadow or reflection on the background, no ground plane, no green tones on the object itself.\n\nDocumentary subject: Conjunto de ícones 3D para um documentário de geopolítica do petróleo (Estreito de Ormuz).\nHistorical and geographic context: Ícones que entram sobre mapas de satélite e painéis escuros: precisam ser legíveis pequenos e ter o mesmo acabamento entre si.\n\nWhat the image shows: A wide-body passenger airliner seen from below at three-quarter angle, white fuselage, plain with no logos, no text and no livery.\n\nVisual identity of the whole documentary: consistent glossy 3D emoji icon set, same render style, same lighting and same level of detail for every icon.\nColor palette: saturated but clean colors, dark navy, warm orange, steel grey.\nLighting: soft studio key light from the top left, gentle rim light.\nComposition: square icon, the object fills about 75% of the frame, readable at 100 px.\n\nStrictly avoid: no text, letters, numbers, captions, signs or watermarks anywhere in the image; no maps, borders, country outlines or cartographic elements; no flags, coats of arms, logos or national/military insignia; no recognizable real people, politicians or public figures; text; numbers; flags; logos; any green color on the object.\n",
+     "versao": "5181aa0399a97864"
+    }
+   }
+  },
+  "balao_de_comentario": {
+   "aprovada": null,
+   "atual": "9900cf0bf523e701",
+   "cena": "icone",
+   "estado": "gerada",
+   "ilustrativa": true,
+   "obrigatoria": true,
+   "revisao": "pendente",
+   "tipo": "icone",
+   "versoes": {
+    "9900cf0bf523e701": {
+     "altura": 1024,
+     "arquivo": "imagens-ia/exemplo-horizontal-icones/balao_de_comentario/9900cf0bf523e701.jpg",
+     "chave": "9900cf0bf523e701",
+     "config": {
+      "proporcao": "1:1",
+      "referencias": [],
+      "tamanho": "1K"
+     },
+     "custo_usd": 0.0368,
+     "gerada_em": "2026-10-16T22:41:07+00:00",
+     "id": "balao_de_comentario",
+     "interacao": "v1_Chc5NmZTYXBYUkdmUGl5dE1QbkxtYjhRNBIXOTZmU2FwWFJHZlBpeXRNUG5MbWI4UTQ",
+     "largura": 1024,
+     "mime": "image/jpeg",
+     "modelo": "gemini-nano-banana-2.1",
+     "prompt": "A single 3D ICON in the style of glossy 3D emoji (soft clay-like render, smooth rounded shapes, gentle studio lighting from the top left, subtle gradients, crisp edges), the whole object visible and centered with generous margin, isolated on a perfectly flat, uniform pure green background (#00FF00, chroma key), no shadow or reflection on the background, no ground plane, no green tones on the object itself.\n\nDocumentary subject: Conjunto de ícones 3D para um documentário de geopolítica do petróleo (Estreito de Ormuz).\nHistorical and geographic context: Ícones que entram sobre mapas de satélite e painéis escuros: precisam ser legíveis pequenos e ter o mesmo acabamento entre si.\n\nWhat the image shows: A rounded speech bubble (chat balloon) in glossy white with three small dark dots inside, slight three-quarter view.\n\nVisual identity of the whole documentary: consistent glossy 3D emoji icon set, same render style, same lighting and same level of detail for every icon.\nColor palette: saturated but clean colors, dark navy, warm orange, steel grey.\nLighting: soft studio key light from the top left, gentle rim light.\nComposition: square icon, the object fills about 75% of the frame, readable at 100 px.\n\nStrictly avoid: no text, letters, numbers, captions, signs or watermarks anywhere in the image; no maps, borders, country outlines or cartographic elements; no flags, coats of arms, logos or national/military insignia; no recognizable real people, politicians or public figures; text; numbers; flags; logos; any green color on the object.\n",
+     "versao": "9900cf0bf523e701"
+    }
+   }
+  },
+  "barril_de_petroleo": {
+   "aprovada": null,
+   "atual": "4ad03e66f1d3498c",
+   "cena": "icone",
+   "estado": "gerada",
+   "ilustrativa": true,
+   "obrigatoria": true,
+   "revisao": "pendente",
+   "tipo": "icone",
+   "versoes": {
+    "4ad03e66f1d3498c": {
+     "altura": 1024,
+     "arquivo": "imagens-ia/exemplo-horizontal-icones/barril_de_petroleo/4ad03e66f1d3498c.jpg",
+     "chave": "4ad03e66f1d3498c",
+     "config": {
+      "proporcao": "1:1",
+      "referencias": [],
+      "tamanho": "1K"
+     },
+     "custo_usd": 0.03654,
+     "gerada_em": "2026-10-16T22:09:02+00:00",
+     "id": "barril_de_petroleo",
+     "interacao": "v1_ChdkcURTYXNibURNWGd5dE1QeGN2NnFBTRIXZHFEU2FzYm1ETVhneXRNUHhjdjZxQU0",
+     "largura": 1024,
+     "mime": "image/jpeg",
+     "modelo": "gemini-nano-banana-2.1",
+     "prompt": "A single 3D ICON in the style of glossy 3D emoji (soft clay-like render, smooth rounded shapes, gentle studio lighting from the top left, subtle gradients, crisp edges), the whole object visible and centered with generous margin, isolated on a perfectly flat, uniform pure green background (#00FF00, chroma key), no shadow or reflection on the background, no ground plane, no green tones on the object itself.\n\nDocumentary subject: Conjunto de ícones 3D para um documentário de geopolítica do petróleo (Estreito de Ormuz).\nHistorical and geographic context: Ícones que entram sobre mapas de satélite e painéis escuros: precisam ser legíveis pequenos e ter o mesmo acabamento entre si.\n\nWhat the image shows: A classic 55-gallon steel oil drum standing upright, glossy dark navy blue body with two raised rings, a small orange cap on the top lid, slight three-quarter view from above.\n\nVisual identity of the whole documentary: consistent glossy 3D emoji icon set, same render style, same lighting and same level of detail for every icon.\nColor palette: saturated but clean colors, dark navy, warm orange, steel grey.\nLighting: soft studio key light from the top left, gentle rim light.\nComposition: square icon, the object fills about 75% of the frame, readable at 100 px.\n\nStrictly avoid: no text, letters, numbers, captions, signs or watermarks anywhere in the image; no maps, borders, country outlines or cartographic elements; no flags, coats of arms, logos or national/military insignia; no recognizable real people, politicians or public figures; text; numbers; flags; logos; any green color on the object.\n",
+     "versao": "4ad03e66f1d3498c"
+    }
+   }
+  },
+  "cadeado_fechado": {
+   "aprovada": null,
+   "atual": "c88035f4223fb6cc",
+   "cena": "icone",
+   "estado": "gerada",
+   "ilustrativa": true,
+   "obrigatoria": true,
+   "revisao": "pendente",
+   "tipo": "icone",
+   "versoes": {
+    "c88035f4223fb6cc": {
+     "altura": 1024,
+     "arquivo": "imagens-ia/exemplo-horizontal-icones/cadeado_fechado/c88035f4223fb6cc.jpg",
+     "chave": "c88035f4223fb6cc",
+     "config": {
+      "proporcao": "1:1",
+      "referencias": [],
+      "tamanho": "1K"
+     },
+     "custo_usd": 0.03648,
+     "gerada_em": "2026-10-16T22:11:35+00:00",
+     "id": "cadeado_fechado",
+     "interacao": "v1_ChdDcUhTYXBlUUJNQ1B5dE1QZzhLLWlROBIXQ3FIU2FwZVFCTUNQeXRNUGc4Sy1pUTg",
+     "largura": 1024,
+     "mime": "image/jpeg",
+     "modelo": "gemini-nano-banana-2.1",
+     "prompt": "A single 3D ICON in the style of glossy 3D emoji (soft clay-like render, smooth rounded shapes, gentle studio lighting from the top left, subtle gradients, crisp edges), the whole object visible and centered with generous margin, isolated on a perfectly flat, uniform pure green background (#00FF00, chroma key), no shadow or reflection on the background, no ground plane, no green tones on the object itself.\n\nDocumentary subject: Conjunto de ícones 3D para um documentário de geopolítica do petróleo (Estreito de Ormuz).\nHistorical and geographic context: Ícones que entram sobre mapas de satélite e painéis escuros: precisam ser legíveis pequenos e ter o mesmo acabamento entre si.\n\nWhat the image shows: A closed padlock with a thick shackle, glossy red body and steel shackle, slight three-quarter view.\n\nVisual identity of the whole documentary: consistent glossy 3D emoji icon set, same render style, same lighting and same level of detail for every icon.\nColor palette: saturated but clean colors, dark navy, warm orange, steel grey.\nLighting: soft studio key light from the top left, gentle rim light.\nComposition: square icon, the object fills about 75% of the frame, readable at 100 px.\n\nStrictly avoid: no text, letters, numbers, captions, signs or watermarks anywhere in the image; no maps, borders, country outlines or cartographic elements; no flags, coats of arms, logos or national/military insignia; no recognizable real people, politicians or public figures; text; numbers; flags; logos; any green color on the object.\n",
+     "versao": "c88035f4223fb6cc"
+    }
+   }
+  },
+  "cavalo_de_petroleo": {
+   "aprovada": null,
+   "atual": "a04eedca05813d3f",
+   "cena": "icone",
+   "estado": "gerada",
+   "ilustrativa": true,
+   "obrigatoria": true,
+   "revisao": "pendente",
+   "tipo": "icone",
+   "versoes": {
+    "a04eedca05813d3f": {
+     "altura": 1024,
+     "arquivo": "imagens-ia/exemplo-horizontal-icones/cavalo_de_petroleo/a04eedca05813d3f.jpg",
+     "chave": "a04eedca05813d3f",
+     "config": {
+      "proporcao": "1:1",
+      "referencias": [],
+      "tamanho": "1K"
+     },
+     "custo_usd": 0.03677,
+     "gerada_em": "2026-10-16T22:09:42+00:00",
+     "id": "cavalo_de_petroleo",
+     "interacao": "v1_ChdtS0RTYW82bE05MnN1TVlQM3RUNDZBNBIXbUtEU2FvNmxNOTJzdU1ZUDN0VDQ2QTQ",
+     "largura": 1024,
+     "mime": "image/jpeg",
+     "modelo": "gemini-nano-banana-2.1",
+     "prompt": "A single 3D ICON in the style of glossy 3D emoji (soft clay-like render, smooth rounded shapes, gentle studio lighting from the top left, subtle gradients, crisp edges), the whole object visible and centered with generous margin, isolated on a perfectly flat, uniform pure green background (#00FF00, chroma key), no shadow or reflection on the background, no ground plane, no green tones on the object itself.\n\nDocumentary subject: Conjunto de ícones 3D para um documentário de geopolítica do petróleo (Estreito de Ormuz).\nHistorical and geographic context: Ícones que entram sobre mapas de satélite e painéis escuros: precisam ser legíveis pequenos e ter o mesmo acabamento entre si.\n\nWhat the image shows: An oil pumpjack (nodding donkey) in orange and dark grey steel, three-quarter view, on a small sand-colored base.\n\nVisual identity of the whole documentary: consistent glossy 3D emoji icon set, same render style, same lighting and same level of detail for every icon.\nColor palette: saturated but clean colors, dark navy, warm orange, steel grey.\nLighting: soft studio key light from the top left, gentle rim light.\nComposition: square icon, the object fills about 75% of the frame, readable at 100 px.\n\nStrictly avoid: no text, letters, numbers, captions, signs or watermarks anywhere in the image; no maps, borders, country outlines or cartographic elements; no flags, coats of arms, logos or national/military insignia; no recognizable real people, politicians or public figures; text; numbers; flags; logos; any green color on the object.\n",
+     "versao": "a04eedca05813d3f"
+    }
+   }
+  },
+  "compartilhar": {
+   "aprovada": null,
+   "atual": "2f57cabbab9f3827",
+   "cena": "icone",
+   "estado": "gerada",
+   "ilustrativa": true,
+   "obrigatoria": true,
+   "revisao": "pendente",
+   "tipo": "icone",
+   "versoes": {
+    "2f57cabbab9f3827": {
+     "altura": 1024,
+     "arquivo": "imagens-ia/exemplo-horizontal-icones/compartilhar/2f57cabbab9f3827.jpg",
+     "chave": "2f57cabbab9f3827",
+     "config": {
+      "proporcao": "1:1",
+      "referencias": [],
+      "tamanho": "1K"
+     },
+     "custo_usd": 0.0364,
+     "gerada_em": "2026-10-16T22:41:20+00:00",
+     "id": "compartilhar",
+     "interacao": "v1_ChdBNmpTYXZiREpZR191TVlQMlo2c2dBdxIXQTZqU2F2YkRKWUdfdU1ZUDJaNnNnQXc",
+     "largura": 1024,
+     "mime": "image/jpeg",
+     "modelo": "gemini-nano-banana-2.1",
+     "prompt": "A single 3D ICON in the style of glossy 3D emoji (soft clay-like render, smooth rounded shapes, gentle studio lighting from the top left, subtle gradients, crisp edges), the whole object visible and centered with generous margin, isolated on a perfectly flat, uniform pure green background (#00FF00, chroma key), no shadow or reflection on the background, no ground plane, no green tones on the object itself.\n\nDocumentary subject: Conjunto de ícones 3D para um documentário de geopolítica do petróleo (Estreito de Ormuz).\nHistorical and geographic context: Ícones que entram sobre mapas de satélite e painéis escuros: precisam ser legíveis pequenos e ter o mesmo acabamento entre si.\n\nWhat the image shows: A thick curved arrow pointing to the right and up (share symbol), glossy bright blue, slight three-quarter view.\n\nVisual identity of the whole documentary: consistent glossy 3D emoji icon set, same render style, same lighting and same level of detail for every icon.\nColor palette: saturated but clean colors, dark navy, warm orange, steel grey.\nLighting: soft studio key light from the top left, gentle rim light.\nComposition: square icon, the object fills about 75% of the frame, readable at 100 px.\n\nStrictly avoid: no text, letters, numbers, captions, signs or watermarks anywhere in the image; no maps, borders, country outlines or cartographic elements; no flags, coats of arms, logos or national/military insignia; no recognizable real people, politicians or public figures; text; numbers; flags; logos; any green color on the object.\n",
+     "versao": "2f57cabbab9f3827"
+    }
+   }
+  },
+  "fortaleza": {
+   "aprovada": null,
+   "atual": "31eaad2c5f5416a2",
+   "cena": "icone",
+   "estado": "gerada",
+   "ilustrativa": true,
+   "obrigatoria": true,
+   "revisao": "pendente",
+   "tipo": "icone",
+   "versoes": {
+    "31eaad2c5f5416a2": {
+     "altura": 1024,
+     "arquivo": "imagens-ia/exemplo-horizontal-icones/fortaleza/31eaad2c5f5416a2.jpg",
+     "chave": "31eaad2c5f5416a2",
+     "config": {
+      "proporcao": "1:1",
+      "referencias": [],
+      "tamanho": "1K"
+     },
+     "custo_usd": 0.03674,
+     "gerada_em": "2026-10-16T22:11:06+00:00",
+     "id": "fortaleza",
+     "interacao": "v1_Chc3YURTYW9xdUJLRG55dE1Qd2NqVjZBNBIXN2FEU2FvcXVCS0RueXRNUHdjalY2QTQ",
+     "largura": 1024,
+     "mime": "image/jpeg",
+     "modelo": "gemini-nano-banana-2.1",
+     "prompt": "A single 3D ICON in the style of glossy 3D emoji (soft clay-like render, smooth rounded shapes, gentle studio lighting from the top left, subtle gradients, crisp edges), the whole object visible and centered with generous margin, isolated on a perfectly flat, uniform pure green background (#00FF00, chroma key), no shadow or reflection on the background, no ground plane, no green tones on the object itself.\n\nDocumentary subject: Conjunto de ícones 3D para um documentário de geopolítica do petróleo (Estreito de Ormuz).\nHistorical and geographic context: Ícones que entram sobre mapas de satélite e painéis escuros: precisam ser legíveis pequenos e ter o mesmo acabamento entre si.\n\nWhat the image shows: A small 16th-century stone sea fortress with low thick walls and round corner bastions on a rocky islet, warm sandstone color, three-quarter view, no flags.\n\nVisual identity of the whole documentary: consistent glossy 3D emoji icon set, same render style, same lighting and same level of detail for every icon.\nColor palette: saturated but clean colors, dark navy, warm orange, steel grey.\nLighting: soft studio key light from the top left, gentle rim light.\nComposition: square icon, the object fills about 75% of the frame, readable at 100 px.\n\nStrictly avoid: no text, letters, numbers, captions, signs or watermarks anywhere in the image; no maps, borders, country outlines or cartographic elements; no flags, coats of arms, logos or national/military insignia; no recognizable real people, politicians or public figures; text; numbers; flags; logos; any green color on the object.\n",
+     "versao": "31eaad2c5f5416a2"
+    }
+   }
+  },
+  "joinha": {
+   "aprovada": null,
+   "atual": "2dc0c403d8fedb5f",
+   "cena": "icone",
+   "estado": "gerada",
+   "ilustrativa": true,
+   "obrigatoria": true,
+   "revisao": "pendente",
+   "tipo": "icone",
+   "versoes": {
+    "2dc0c403d8fedb5f": {
+     "altura": 1024,
+     "arquivo": "imagens-ia/exemplo-horizontal-icones/joinha/2dc0c403d8fedb5f.jpg",
+     "chave": "2dc0c403d8fedb5f",
+     "config": {
+      "proporcao": "1:1",
+      "referencias": [],
+      "tamanho": "1K"
+     },
+     "custo_usd": 0.03638,
+     "gerada_em": "2026-10-16T22:40:36+00:00",
+     "id": "joinha",
+     "interacao": "v1_ChcxcWZTYXVmQ0xNeUV5dE1QbFpESG1RYxIXMXFmU2F1ZkNMTXlFeXRNUGxaREhtUWM",
+     "largura": 1024,
+     "mime": "image/jpeg",
+     "modelo": "gemini-nano-banana-2.1",
+     "prompt": "A single 3D ICON in the style of glossy 3D emoji (soft clay-like render, smooth rounded shapes, gentle studio lighting from the top left, subtle gradients, crisp edges), the whole object visible and centered with generous margin, isolated on a perfectly flat, uniform pure green background (#00FF00, chroma key), no shadow or reflection on the background, no ground plane, no green tones on the object itself.\n\nDocumentary subject: Conjunto de ícones 3D para um documentário de geopolítica do petróleo (Estreito de Ormuz).\nHistorical and geographic context: Ícones que entram sobre mapas de satélite e painéis escuros: precisam ser legíveis pequenos e ter o mesmo acabamento entre si.\n\nWhat the image shows: A hand giving a thumbs up (like gesture), warm yellow skin tone like an emoji hand, glossy, three-quarter view.\n\nVisual identity of the whole documentary: consistent glossy 3D emoji icon set, same render style, same lighting and same level of detail for every icon.\nColor palette: saturated but clean colors, dark navy, warm orange, steel grey.\nLighting: soft studio key light from the top left, gentle rim light.\nComposition: square icon, the object fills about 75% of the frame, readable at 100 px.\n\nStrictly avoid: no text, letters, numbers, captions, signs or watermarks anywhere in the image; no maps, borders, country outlines or cartographic elements; no flags, coats of arms, logos or national/military insignia; no recognizable real people, politicians or public figures; text; numbers; flags; logos; any green color on the object.\n",
+     "versao": "2dc0c403d8fedb5f"
+    }
+   }
+  },
+  "mina_naval": {
+   "aprovada": null,
+   "atual": "5817118da419a4fa",
+   "cena": "icone",
+   "estado": "gerada",
+   "ilustrativa": true,
+   "obrigatoria": true,
+   "revisao": "pendente",
+   "tipo": "icone",
+   "versoes": {
+    "5817118da419a4fa": {
+     "altura": 1024,
+     "arquivo": "imagens-ia/exemplo-horizontal-icones/mina_naval/5817118da419a4fa.jpg",
+     "chave": "5817118da419a4fa",
+     "config": {
+      "proporcao": "1:1",
+      "referencias": [],
+      "tamanho": "1K"
+     },
+     "custo_usd": 0.03683,
+     "gerada_em": "2026-10-16T22:10:52+00:00",
+     "id": "mina_naval",
+     "interacao": "v1_ChczNkRTYXZXT0ZOR2JvX1VQdmIzYy1BNBIXMzZEU2F2V09GTkdib19VUHZiM2MtQTQ",
+     "largura": 1024,
+     "mime": "image/jpeg",
+     "modelo": "gemini-nano-banana-2.1",
+     "prompt": "A single 3D ICON in the style of glossy 3D emoji (soft clay-like render, smooth rounded shapes, gentle studio lighting from the top left, subtle gradients, crisp edges), the whole object visible and centered with generous margin, isolated on a perfectly flat, uniform pure green background (#00FF00, chroma key), no shadow or reflection on the background, no ground plane, no green tones on the object itself.\n\nDocumentary subject: Conjunto de ícones 3D para um documentário de geopolítica do petróleo (Estreito de Ormuz).\nHistorical and geographic context: Ícones que entram sobre mapas de satélite e painéis escuros: precisam ser legíveis pequenos e ter o mesmo acabamento entre si.\n\nWhat the image shows: A classic spherical naval sea mine with protruding contact horns, dark gunmetal with a subtle red band, slight three-quarter view.\n\nVisual identity of the whole documentary: consistent glossy 3D emoji icon set, same render style, same lighting and same level of detail for every icon.\nColor palette: saturated but clean colors, dark navy, warm orange, steel grey.\nLighting: soft studio key light from the top left, gentle rim light.\nComposition: square icon, the object fills about 75% of the frame, readable at 100 px.\n\nStrictly avoid: no text, letters, numbers, captions, signs or watermarks anywhere in the image; no maps, borders, country outlines or cartographic elements; no flags, coats of arms, logos or national/military insignia; no recognizable real people, politicians or public figures; text; numbers; flags; logos; any green color on the object.\n",
+     "versao": "5817118da419a4fa"
+    }
+   }
+  },
+  "nau": {
+   "aprovada": null,
+   "atual": "2d7d120bddba4f6b",
+   "cena": "icone",
+   "estado": "gerada",
+   "ilustrativa": true,
+   "obrigatoria": true,
+   "revisao": "pendente",
+   "tipo": "icone",
+   "versoes": {
+    "2d7d120bddba4f6b": {
+     "altura": 1024,
+     "arquivo": "imagens-ia/exemplo-horizontal-icones/nau/2d7d120bddba4f6b.jpg",
+     "chave": "2d7d120bddba4f6b",
+     "config": {
+      "proporcao": "1:1",
+      "referencias": [],
+      "tamanho": "1K"
+     },
+     "custo_usd": 0.0371,
+     "gerada_em": "2026-10-16T22:11:21+00:00",
+     "id": "nau",
+     "interacao": "v1_ChctNkRTYXZhSkQ3bUcxc2dQai1QMThBNBIXLTZEU2F2YUpEN21HMXNnUGotUDE4QTQ",
+     "largura": 1024,
+     "mime": "image/jpeg",
+     "modelo": "gemini-nano-banana-2.1",
+     "prompt": "A single 3D ICON in the style of glossy 3D emoji (soft clay-like render, smooth rounded shapes, gentle studio lighting from the top left, subtle gradients, crisp edges), the whole object visible and centered with generous margin, isolated on a perfectly flat, uniform pure green background (#00FF00, chroma key), no shadow or reflection on the background, no ground plane, no green tones on the object itself.\n\nDocumentary subject: Conjunto de ícones 3D para um documentário de geopolítica do petróleo (Estreito de Ormuz).\nHistorical and geographic context: Ícones que entram sobre mapas de satélite e painéis escuros: precisam ser legíveis pequenos e ter o mesmo acabamento entre si.\n\nWhat the image shows: A 16th-century carrack sailing ship (nau) with three masts and plain cream-colored sails without any symbols, wooden brown hull, three-quarter view, on a tiny stylized blue water splash.\n\nVisual identity of the whole documentary: consistent glossy 3D emoji icon set, same render style, same lighting and same level of detail for every icon.\nColor palette: saturated but clean colors, dark navy, warm orange, steel grey.\nLighting: soft studio key light from the top left, gentle rim light.\nComposition: square icon, the object fills about 75% of the frame, readable at 100 px.\n\nStrictly avoid: no text, letters, numbers, captions, signs or watermarks anywhere in the image; no maps, borders, country outlines or cartographic elements; no flags, coats of arms, logos or national/military insignia; no recognizable real people, politicians or public figures; text; numbers; flags; logos; any green color on the object.\n",
+     "versao": "2d7d120bddba4f6b"
+    }
+   }
+  },
+  "navio_de_gas": {
+   "aprovada": null,
+   "atual": "741e62d535f3f939",
+   "cena": "icone",
+   "estado": "gerada",
+   "ilustrativa": true,
+   "obrigatoria": true,
+   "revisao": "pendente",
+   "tipo": "icone",
+   "versoes": {
+    "741e62d535f3f939": {
+     "altura": 1024,
+     "arquivo": "imagens-ia/exemplo-horizontal-icones/navio_de_gas/741e62d535f3f939.jpg",
+     "chave": "741e62d535f3f939",
+     "config": {
+      "proporcao": "1:1",
+      "referencias": [],
+      "tamanho": "1K"
+     },
+     "custo_usd": 0.03668,
+     "gerada_em": "2026-10-16T22:09:28+00:00",
+     "id": "navio_de_gas",
+     "interacao": "v1_ChdpcURTYXVDOE1vV0J5dE1QeGRpY2tBYxIXaXFEU2F1QzhNb1dCeXRNUHhkaWNrQWM",
+     "largura": 1024,
+     "mime": "image/jpeg",
+     "modelo": "gemini-nano-banana-2.1",
+     "prompt": "A single 3D ICON in the style of glossy 3D emoji (soft clay-like render, smooth rounded shapes, gentle studio lighting from the top left, subtle gradients, crisp edges), the whole object visible and centered with generous margin, isolated on a perfectly flat, uniform pure green background (#00FF00, chroma key), no shadow or reflection on the background, no ground plane, no green tones on the object itself.\n\nDocumentary subject: Conjunto de ícones 3D para um documentário de geopolítica do petróleo (Estreito de Ormuz).\nHistorical and geographic context: Ícones que entram sobre mapas de satélite e painéis escuros: precisam ser legíveis pequenos e ter o mesmo acabamento entre si.\n\nWhat the image shows: An LNG carrier ship in three-quarter side view with four large white spherical tanks on deck, dark blue hull, white bridge at the stern, on a tiny stylized blue water splash.\n\nVisual identity of the whole documentary: consistent glossy 3D emoji icon set, same render style, same lighting and same level of detail for every icon.\nColor palette: saturated but clean colors, dark navy, warm orange, steel grey.\nLighting: soft studio key light from the top left, gentle rim light.\nComposition: square icon, the object fills about 75% of the frame, readable at 100 px.\n\nStrictly avoid: no text, letters, numbers, captions, signs or watermarks anywhere in the image; no maps, borders, country outlines or cartographic elements; no flags, coats of arms, logos or national/military insignia; no recognizable real people, politicians or public figures; text; numbers; flags; logos; any green color on the object.\n",
+     "versao": "741e62d535f3f939"
+    }
+   }
+  },
+  "navio_de_guerra": {
+   "aprovada": null,
+   "atual": "1dfb10a7d829abd9",
+   "cena": "icone",
+   "estado": "gerada",
+   "ilustrativa": true,
+   "obrigatoria": true,
+   "revisao": "pendente",
+   "tipo": "icone",
+   "versoes": {
+    "1dfb10a7d829abd9": {
+     "altura": 1024,
+     "arquivo": "imagens-ia/exemplo-horizontal-icones/navio_de_guerra/1dfb10a7d829abd9.jpg",
+     "chave": "1dfb10a7d829abd9",
+     "config": {
+      "proporcao": "1:1",
+      "referencias": [],
+      "tamanho": "1K"
+     },
+     "custo_usd": 0.03662,
+     "gerada_em": "2026-10-16T22:10:38+00:00",
+     "id": "navio_de_guerra",
+     "interacao": "v1_Chd3cURTYXBMOElyemh5dE1Qb2VhM2dRdxIXd3FEU2FwTDhJcnpoeXRNUG9lYTNnUXc",
+     "largura": 1024,
+     "mime": "image/jpeg",
+     "modelo": "gemini-nano-banana-2.1",
+     "prompt": "A single 3D ICON in the style of glossy 3D emoji (soft clay-like render, smooth rounded shapes, gentle studio lighting from the top left, subtle gradients, crisp edges), the whole object visible and centered with generous margin, isolated on a perfectly flat, uniform pure green background (#00FF00, chroma key), no shadow or reflection on the background, no ground plane, no green tones on the object itself.\n\nDocumentary subject: Conjunto de ícones 3D para um documentário de geopolítica do petróleo (Estreito de Ormuz).\nHistorical and geographic context: Ícones que entram sobre mapas de satélite e painéis escuros: precisam ser legíveis pequenos e ter o mesmo acabamento entre si.\n\nWhat the image shows: A generic modern grey naval frigate in three-quarter side view, smooth stealthy shapes, a single gun at the bow, plain grey with no numbers, flags or insignia, on a tiny stylized blue water splash.\n\nVisual identity of the whole documentary: consistent glossy 3D emoji icon set, same render style, same lighting and same level of detail for every icon.\nColor palette: saturated but clean colors, dark navy, warm orange, steel grey.\nLighting: soft studio key light from the top left, gentle rim light.\nComposition: square icon, the object fills about 75% of the frame, readable at 100 px.\n\nStrictly avoid: no text, letters, numbers, captions, signs or watermarks anywhere in the image; no maps, borders, country outlines or cartographic elements; no flags, coats of arms, logos or national/military insignia; no recognizable real people, politicians or public figures; text; numbers; flags; logos; any green color on the object.\n",
+     "versao": "1dfb10a7d829abd9"
+    }
+   }
+  },
+  "oleoduto": {
+   "aprovada": null,
+   "atual": "8333b2fc6d59b3fc",
+   "cena": "icone",
+   "estado": "gerada",
+   "ilustrativa": true,
+   "obrigatoria": true,
+   "revisao": "pendente",
+   "tipo": "icone",
+   "versoes": {
+    "8333b2fc6d59b3fc": {
+     "altura": 1024,
+     "arquivo": "imagens-ia/exemplo-horizontal-icones/oleoduto/8333b2fc6d59b3fc.jpg",
+     "chave": "8333b2fc6d59b3fc",
+     "config": {
+      "proporcao": "1:1",
+      "referencias": [],
+      "tamanho": "1K"
+     },
+     "custo_usd": 0.03671,
+     "gerada_em": "2026-10-16T22:09:58+00:00",
+     "id": "oleoduto",
+     "interacao": "v1_ChdwcURTYXNhVU1iM2h5dE1QdVpmbzhRNBIXcHFEU2FzYVVNYjNoeXRNUHVaZm84UTQ",
+     "largura": 1024,
+     "mime": "image/jpeg",
+     "modelo": "gemini-nano-banana-2.1",
+     "prompt": "A single 3D ICON in the style of glossy 3D emoji (soft clay-like render, smooth rounded shapes, gentle studio lighting from the top left, subtle gradients, crisp edges), the whole object visible and centered with generous margin, isolated on a perfectly flat, uniform pure green background (#00FF00, chroma key), no shadow or reflection on the background, no ground plane, no green tones on the object itself.\n\nDocumentary subject: Conjunto de ícones 3D para um documentário de geopolítica do petróleo (Estreito de Ormuz).\nHistorical and geographic context: Ícones que entram sobre mapas de satélite e painéis escuros: precisam ser legíveis pequenos e ter o mesmo acabamento entre si.\n\nWhat the image shows: A short section of a large steel oil pipeline on two supports, with a red valve wheel on top, three-quarter view, the pipe in light steel grey.\n\nVisual identity of the whole documentary: consistent glossy 3D emoji icon set, same render style, same lighting and same level of detail for every icon.\nColor palette: saturated but clean colors, dark navy, warm orange, steel grey.\nLighting: soft studio key light from the top left, gentle rim light.\nComposition: square icon, the object fills about 75% of the frame, readable at 100 px.\n\nStrictly avoid: no text, letters, numbers, captions, signs or watermarks anywhere in the image; no maps, borders, country outlines or cartographic elements; no flags, coats of arms, logos or national/military insignia; no recognizable real people, politicians or public figures; text; numbers; flags; logos; any green color on the object.\n",
+     "versao": "8333b2fc6d59b3fc"
+    }
+   }
+  },
+  "petroleiro": {
+   "aprovada": null,
+   "atual": "08061284d58776bd",
+   "cena": "icone",
+   "estado": "gerada",
+   "ilustrativa": true,
+   "obrigatoria": true,
+   "revisao": "pendente",
+   "tipo": "icone",
+   "versoes": {
+    "08061284d58776bd": {
+     "altura": 1024,
+     "arquivo": "imagens-ia/exemplo-horizontal-icones/petroleiro/08061284d58776bd.jpg",
+     "chave": "08061284d58776bd",
+     "config": {
+      "proporcao": "1:1",
+      "referencias": [],
+      "tamanho": "1K"
+     },
+     "custo_usd": 0.03678,
+     "gerada_em": "2026-10-16T22:09:14+00:00",
+     "id": "petroleiro",
+     "interacao": "v1_ChdmcURTYXVtak9vR191TVlQMlo2c2dBdxIXZnFEU2F1bWpPb0dfdU1ZUDJaNnNnQXc",
+     "largura": 1024,
+     "mime": "image/jpeg",
+     "modelo": "gemini-nano-banana-2.1",
+     "prompt": "A single 3D ICON in the style of glossy 3D emoji (soft clay-like render, smooth rounded shapes, gentle studio lighting from the top left, subtle gradients, crisp edges), the whole object visible and centered with generous margin, isolated on a perfectly flat, uniform pure green background (#00FF00, chroma key), no shadow or reflection on the background, no ground plane, no green tones on the object itself.\n\nDocumentary subject: Conjunto de ícones 3D para um documentário de geopolítica do petróleo (Estreito de Ormuz).\nHistorical and geographic context: Ícones que entram sobre mapas de satélite e painéis escuros: precisam ser legíveis pequenos e ter o mesmo acabamento entre si.\n\nWhat the image shows: A large crude oil tanker ship in three-quarter side view, dark red hull below the waterline, black upper hull, white bridge superstructure at the stern, pipes on the deck, sitting on a tiny stylized blue water splash.\n\nVisual identity of the whole documentary: consistent glossy 3D emoji icon set, same render style, same lighting and same level of detail for every icon.\nColor palette: saturated but clean colors, dark navy, warm orange, steel grey.\nLighting: soft studio key light from the top left, gentle rim light.\nComposition: square icon, the object fills about 75% of the frame, readable at 100 px.\n\nStrictly avoid: no text, letters, numbers, captions, signs or watermarks anywhere in the image; no maps, borders, country outlines or cartographic elements; no flags, coats of arms, logos or national/military insignia; no recognizable real people, politicians or public figures; text; numbers; flags; logos; any green color on the object.\n",
+     "versao": "08061284d58776bd"
+    }
+   }
+  },
+  "sino": {
+   "aprovada": null,
+   "atual": "787fdecde0952170",
+   "cena": "icone",
+   "estado": "gerada",
+   "ilustrativa": true,
+   "obrigatoria": true,
+   "revisao": "pendente",
+   "tipo": "icone",
+   "versoes": {
+    "787fdecde0952170": {
+     "altura": 1024,
+     "arquivo": "imagens-ia/exemplo-horizontal-icones/sino/787fdecde0952170.jpg",
+     "chave": "787fdecde0952170",
+     "config": {
+      "proporcao": "1:1",
+      "referencias": [],
+      "tamanho": "1K"
+     },
+     "custo_usd": 0.03758,
+     "gerada_em": "2026-10-16T22:40:55+00:00",
+     "id": "sino",
+     "interacao": "v1_Chc1YWZTYXBhS0VjNmFvX1VQdS1tR2lBOBIXNWFmU2FwYUtFYzZhb19VUHUtbUdpQTg",
+     "largura": 1024,
+     "mime": "image/jpeg",
+     "modelo": "gemini-nano-banana-2.1",
+     "prompt": "A single 3D ICON in the style of glossy 3D emoji (soft clay-like render, smooth rounded shapes, gentle studio lighting from the top left, subtle gradients, crisp edges), the whole object visible and centered with generous margin, isolated on a perfectly flat, uniform pure green background (#00FF00, chroma key), no shadow or reflection on the background, no ground plane, no green tones on the object itself.\n\nDocumentary subject: Conjunto de ícones 3D para um documentário de geopolítica do petróleo (Estreito de Ormuz).\nHistorical and geographic context: Ícones que entram sobre mapas de satélite e painéis escuros: precisam ser legíveis pequenos e ter o mesmo acabamento entre si.\n\nWhat the image shows: A golden notification bell with a small clapper and two short motion lines, glossy gold, slight tilt.\n\nVisual identity of the whole documentary: consistent glossy 3D emoji icon set, same render style, same lighting and same level of detail for every icon.\nColor palette: saturated but clean colors, dark navy, warm orange, steel grey.\nLighting: soft studio key light from the top left, gentle rim light.\nComposition: square icon, the object fills about 75% of the frame, readable at 100 px.\n\nStrictly avoid: no text, letters, numbers, captions, signs or watermarks anywhere in the image; no maps, borders, country outlines or cartographic elements; no flags, coats of arms, logos or national/military insignia; no recognizable real people, politicians or public figures; text; numbers; flags; logos; any green color on the object.\n",
+     "versao": "787fdecde0952170"
+    }
+   }
+  },
+  "tanque_de_petroleo": {
+   "aprovada": null,
+   "atual": "b6df761a257cd48e",
+   "cena": "icone",
+   "estado": "gerada",
+   "ilustrativa": true,
+   "obrigatoria": true,
+   "revisao": "pendente",
+   "tipo": "icone",
+   "versoes": {
+    "b6df761a257cd48e": {
+     "altura": 1024,
+     "arquivo": "imagens-ia/exemplo-horizontal-icones/tanque_de_petroleo/b6df761a257cd48e.jpg",
+     "chave": "b6df761a257cd48e",
+     "config": {
+      "proporcao": "1:1",
+      "referencias": [],
+      "tamanho": "1K"
+     },
+     "custo_usd": 0.03688,
+     "gerada_em": "2026-10-16T22:10:10+00:00",
+     "id": "tanque_de_petroleo",
+     "interacao": "v1_Chd0cURTYXJ1VEZMMkIxc2dQbVl5dGdBdxIXdHFEU2FydVRGTDJCMXNnUG1ZeXRnQXc",
+     "largura": 1024,
+     "mime": "image/jpeg",
+     "modelo": "gemini-nano-banana-2.1",
+     "prompt": "A single 3D ICON in the style of glossy 3D emoji (soft clay-like render, smooth rounded shapes, gentle studio lighting from the top left, subtle gradients, crisp edges), the whole object visible and centered with generous margin, isolated on a perfectly flat, uniform pure green background (#00FF00, chroma key), no shadow or reflection on the background, no ground plane, no green tones on the object itself.\n\nDocumentary subject: Conjunto de ícones 3D para um documentário de geopolítica do petróleo (Estreito de Ormuz).\nHistorical and geographic context: Ícones que entram sobre mapas de satélite e painéis escuros: precisam ser legíveis pequenos e ter o mesmo acabamento entre si.\n\nWhat the image shows: A cylindrical oil storage tank, white with a dark grey roof and a spiral staircase around it, three-quarter view, on a small concrete base.\n\nVisual identity of the whole documentary: consistent glossy 3D emoji icon set, same render style, same lighting and same level of detail for every icon.\nColor palette: saturated but clean colors, dark navy, warm orange, steel grey.\nLighting: soft studio key light from the top left, gentle rim light.\nComposition: square icon, the object fills about 75% of the frame, readable at 100 px.\n\nStrictly avoid: no text, letters, numbers, captions, signs or watermarks anywhere in the image; no maps, borders, country outlines or cartographic elements; no flags, coats of arms, logos or national/military insignia; no recognizable real people, politicians or public figures; text; numbers; flags; logos; any green color on the object.\n",
+     "versao": "b6df761a257cd48e"
+    }
+   }
+  }
+ }
+}

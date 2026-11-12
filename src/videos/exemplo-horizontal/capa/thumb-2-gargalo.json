@@ -1,0 +1,10 @@
+{ "fundo": { "src": "imagens-ia/exemplo-horizontal-capa/quadros/q1290.jpg", "foco": [0.586, 0.42], "zoom": 1.45, "contraste": 1.25, "saturacao": 1.4, "brilho": 1.1 },
+  "acabamento": { "vinheta": 0.5 },
+  "camadas": [
+    { "tipo": "brilho", "x": 0.586, "y": 0.445, "raio": 0.22, "cor": "#4FD8FF", "intensidade": 0.6 },
+    { "tipo": "circulo", "x": 0.586, "y": 0.445, "rx": 0.12, "ry": 0.1, "cor": "#FF2D2D", "largura": 0.02 },
+    { "tipo": "seta", "de": [0.42, 0.78], "para": [0.54, 0.56], "curva": 0.45, "cor": "#FF2D2D" },
+    { "tipo": "texto", "x": 0.04, "y": 0.22, "ancora": "esquerda", "tamanho": 0.2, "largura": 0.46, "rot": -3,
+      "linhas": [ { "texto": "O GARGALO", "cor": "#FFFFFF" }, { "texto": "DO MUNDO", "cor": "#FFD400", "escala": 1.15 } ] },
+    { "tipo": "selo", "texto": "33 km", "x": 0.8, "y": 0.66, "forma": "pilula", "cor": "#FFD400", "corTexto": "#111", "tamanho": 0.08, "rot": -6 }
+  ] }

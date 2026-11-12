@@ -1,0 +1,2330 @@
+{
+ "audios": [
+  {
+   "arquivo": "audios/narracao/exemplo-vertical/am-01.mp3",
+   "inicio": 0.05,
+   "duracao": 4.389
+  },
+  {
+   "arquivo": "audios/narracao/exemplo-vertical/am-02.mp3",
+   "inicio": 4.599,
+   "duracao": 6.844
+  },
+  {
+   "arquivo": "audios/narracao/exemplo-vertical/am-03.mp3",
+   "inicio": 11.843,
+   "duracao": 6.792
+  },
+  {
+   "arquivo": "audios/narracao/exemplo-vertical/am-04.mp3",
+   "inicio": 18.794,
+   "duracao": 6.243
+  },
+  {
+   "arquivo": "audios/narracao/exemplo-vertical/am-05.mp3",
+   "inicio": 25.198,
+   "duracao": 9.117
+  },
+  {
+   "arquivo": "audios/narracao/exemplo-vertical/am-06.mp3",
+   "inicio": 34.474,
+   "duracao": 6.269
+  },
+  {
+   "arquivo": "audios/narracao/exemplo-vertical/am-07.mp3",
+   "inicio": 40.904,
+   "duracao": 5.956
+  },
+  {
+   "arquivo": "audios/narracao/exemplo-vertical/am-08.mp3",
+   "inicio": 47.02,
+   "duracao": 4.78
+  },
+  {
+   "arquivo": "audios/narracao/exemplo-vertical/am-09.mp3",
+   "inicio": 51.96,
+   "duracao": 3.736
+  },
+  {
+   "arquivo": "audios/narracao/exemplo-vertical/am-10.mp3",
+   "inicio": 55.856,
+   "duracao": 7.471
+  },
+  {
+   "arquivo": "audios/narracao/exemplo-vertical/am-11.mp3",
+   "inicio": 63.727,
+   "duracao": 2.56
+  },
+  {
+   "arquivo": "audios/narracao/exemplo-vertical/am-12.mp3",
+   "inicio": 66.447,
+   "duracao": 2.952
+  },
+  {
+   "arquivo": "audios/narracao/exemplo-vertical/am-13.mp3",
+   "inicio": 69.559,
+   "duracao": 4.859
+  },
+  {
+   "arquivo": "audios/narracao/exemplo-vertical/am-14.mp3",
+   "inicio": 74.577,
+   "duracao": 3.579
+  },
+  {
+   "arquivo": "audios/narracao/exemplo-vertical/am-15.mp3",
+   "inicio": 78.316,
+   "duracao": 5.407
+  },
+  {
+   "arquivo": "audios/narracao/exemplo-vertical/am-16.mp3",
+   "inicio": 83.883,
+   "duracao": 5.512
+  },
+  {
+   "arquivo": "audios/narracao/exemplo-vertical/am-17.mp3",
+   "inicio": 89.555,
+   "duracao": 7.393
+  },
+  {
+   "arquivo": "audios/narracao/exemplo-vertical/am-18.mp3",
+   "inicio": 97.108,
+   "duracao": 4.232
+  },
+  {
+   "arquivo": "audios/narracao/exemplo-vertical/am-19.mp3",
+   "inicio": 101.5,
+   "duracao": 4.206
+  },
+  {
+   "arquivo": "audios/narracao/exemplo-vertical/am-20.mp3",
+   "inicio": 105.866,
+   "duracao": 1.802
+  }
+ ],
+ "duracao": 107.668,
+ "segmentos": [
+  {
+   "id": 0,
+   "inicio": 0.05,
+   "fim": 4.27,
+   "texto": "O maior rio do mundo atravessa o Amazonas inteiro e não existe uma única ponte sobre ele."
+  },
+  {
+   "id": 1,
+   "inicio": 4.599,
+   "fim": 11.239,
+   "texto": "e o maior estado do Brasil ainda guarda um teatro de ópera no meio da selva, praias de rio e cachoeiras escondidas na mata."
+  },
+  {
+   "id": 2,
+   "inicio": 11.843,
+   "fim": 18.403,
+   "texto": "Fica no norte, faz divisa com Roraima, Pará, Mato Grosso, Rondônia e Acre e fronteira com a Venezuela, a Colômbia e o Peru."
+  },
+  {
+   "id": 3,
+   "inicio": 18.794,
+   "fim": 24.854,
+   "texto": "São 62 municípios e mais de 4 milhões de pessoas, metade vive em Manaus, a maior cidade do Norte."
+  },
+  {
+   "id": 4,
+   "inicio": 25.198,
+   "fim": 29.118,
+   "texto": "E chegar lá é uma aventura, quase todo mundo vai de avião ou de barco."
+  },
+  {
+   "id": 5,
+   "inicio": 29.318,
+   "fim": 34.138,
+   "texto": "Por terra, a BR319 tem centenas de quilômetros de terra no meio da floresta."
+  },
+  {
+   "id": 6,
+   "inicio": 34.474,
+   "fim": 40.354,
+   "texto": "No auge da borracha, Manaus era chamada de Paris dos Trópicos e ergueu o teatro Amazonas com peças trazidas da Europa."
+  },
+  {
+   "id": 7,
+   "inicio": 40.904,
+   "fim": 46.544,
+   "texto": "até que um inglês levou 70 mil sementes de seringueira que viraram plantações na Ásia e a riqueza acabou."
+  },
+  {
+   "id": 8,
+   "inicio": 47.02,
+   "fim": 51.66,
+   "texto": "Décadas depois veio a zona franca, hoje quase toda a moto fabricada no Brasil sai de Manaus."
+  },
+  {
+   "id": 9,
+   "inicio": 51.96,
+   "fim": 55.56,
+   "texto": "Na cidade ainda tem o Mercado Adolpho Lisboa e a Praia da Ponta Negra."
+  },
+  {
+   "id": 10,
+   "inicio": 55.856,
+   "fim": 61.296,
+   "texto": "Em frente, o negro escuro encontra o Solimões, barrento e eles correm quilômetros sem se misturar."
+  },
+  {
+   "id": 11,
+   "inicio": 61.576,
+   "fim": 63.196,
+   "texto": "Juntos viram o Rio Amazonas."
+  },
+  {
+   "id": 12,
+   "inicio": 63.727,
+   "fim": 66.147,
+   "texto": "Mas é saindo de Manaus que o Amazonas impressiona."
+  },
+  {
+   "id": 13,
+   "inicio": 66.447,
+   "fim": 69.047,
+   "texto": "No Lago Janauari, as vitórias-régias passam de dois metros."
+  },
+  {
+   "id": 14,
+   "inicio": 69.559,
+   "fim": 74.259,
+   "texto": "Em Novo Airão, as anavilhanas formam um labirinto de 400 ilhas com botos-cor-de-rosa."
+  },
+  {
+   "id": 15,
+   "inicio": 74.577,
+   "fim": 77.917,
+   "texto": "Presidente Figueiredo tem mais de 100 cachoeiras e grutas no meio da mata."
+  },
+  {
+   "id": 16,
+   "inicio": 78.316,
+   "fim": 83.556,
+   "texto": "Em Parintins, uma ilha no meio do rio, o Festival dos Bois divide a cidade entre garantido e caprichoso."
+  },
+  {
+   "id": 17,
+   "inicio": 83.883,
+   "fim": 89.223,
+   "texto": "Em Maués nasceu o guaraná para os Sateré-Mawé, ele brotou dos olhos de um menino e, por isso, parece um olho."
+  },
+  {
+   "id": 18,
+   "inicio": 89.555,
+   "fim": 96.755,
+   "texto": "O Amazonas tem mais indígenas que qualquer estado, mais de 490 mil, e no Vale do Javari vivem povos isolados até hoje."
+  },
+  {
+   "id": 19,
+   "inicio": 97.108,
+   "fim": 101.108,
+   "texto": "No extremo norte, o pico da Neblina é o teto do Brasil, com quase 3 mil metros."
+  },
+  {
+   "id": 20,
+   "inicio": 101.5,
+   "fim": 105.3,
+   "texto": "Do Encontro das Águas ao Pico da Neblina, o Amazonas é cheio de lugares para descobrir?"
+  },
+  {
+   "id": 21,
+   "inicio": 105.866,
+   "fim": 107.446,
+   "texto": "Qual desses lugares você já conhecia?"
+  }
+ ],
+ "palavras": [
+  {
+   "palavra": "O",
+   "inicio": 0.05,
+   "fim": 0.17,
+   "parte": 1
+  },
+  {
+   "palavra": "maior",
+   "inicio": 0.17,
+   "fim": 0.35,
+   "parte": 1
+  },
+  {
+   "palavra": "rio",
+   "inicio": 0.35,
+   "fim": 0.65,
+   "parte": 1
+  },
+  {
+   "palavra": "do",
+   "inicio": 0.65,
+   "fim": 0.75,
+   "parte": 1
+  },
+  {
+   "palavra": "mundo",
+   "inicio": 0.75,
+   "fim": 0.93,
+   "parte": 1
+  },
+  {
+   "palavra": "atravessa",
+   "inicio": 0.93,
+   "fim": 1.43,
+   "parte": 1
+  },
+  {
+   "palavra": "o",
+   "inicio": 1.43,
+   "fim": 1.51,
+   "parte": 1
+  },
+  {
+   "palavra": "Amazonas",
+   "inicio": 1.51,
+   "fim": 1.99,
+   "parte": 1
+  },
+  {
+   "palavra": "inteiro",
+   "inicio": 1.99,
+   "fim": 2.31,
+   "parte": 1
+  },
+  {
+   "palavra": "e",
+   "inicio": 2.31,
+   "fim": 2.65,
+   "parte": 1
+  },
+  {
+   "palavra": "não",
+   "inicio": 2.65,
+   "fim": 2.75,
+   "parte": 1
+  },
+  {
+   "palavra": "existe",
+   "inicio": 2.75,
+   "fim": 3.07,
+   "parte": 1
+  },
+  {
+   "palavra": "uma",
+   "inicio": 3.07,
+   "fim": 3.27,
+   "parte": 1
+  },
+  {
+   "palavra": "única",
+   "inicio": 3.27,
+   "fim": 3.47,
+   "parte": 1
+  },
+  {
+   "palavra": "ponte",
+   "inicio": 3.47,
+   "fim": 3.79,
+   "parte": 1
+  },
+  {
+   "palavra": "sobre",
+   "inicio": 3.79,
+   "fim": 4.01,
+   "parte": 1
+  },
+  {
+   "palavra": "ele.",
+   "inicio": 4.01,
+   "fim": 4.27,
+   "parte": 1
+  },
+  {
+   "palavra": "e",
+   "inicio": 4.599,
+   "fim": 4.779,
+   "parte": 2
+  },
+  {
+   "palavra": "o",
+   "inicio": 4.779,
+   "fim": 4.879,
+   "parte": 2
+  },
+  {
+   "palavra": "maior",
+   "inicio": 4.879,
+   "fim": 5.039,
+   "parte": 2
+  },
+  {
+   "palavra": "estado",
+   "inicio": 5.039,
+   "fim": 5.379,
+   "parte": 2
+  },
+  {
+   "palavra": "do",
+   "inicio": 5.379,
+   "fim": 5.579,
+   "parte": 2
+  },
+  {
+   "palavra": "Brasil",
+   "inicio": 5.579,
+   "fim": 5.879,
+   "parte": 2
+  },
+  {
+   "palavra": "ainda",
+   "inicio": 5.879,
+   "fim": 6.099,
+   "parte": 2
+  },
+  {
+   "palavra": "guarda",
+   "inicio": 6.099,
+   "fim": 6.579,
+   "parte": 2
+  },
+  {
+   "palavra": "um",
+   "inicio": 6.579,
+   "fim": 6.619,
+   "parte": 2
+  },
+  {
+   "palavra": "teatro",
+   "inicio": 6.619,
+   "fim": 6.999,
+   "parte": 2
+  },
+  {
+   "palavra": "de",
+   "inicio": 6.999,
+   "fim": 7.139,
+   "parte": 2
+  },
+  {
+   "palavra": "ópera",
+   "inicio": 7.139,
+   "fim": 7.499,
+   "parte": 2
+  },
+  {
+   "palavra": "no",
+   "inicio": 7.499,
+   "fim": 7.599,
+   "parte": 2
+  },
+  {
+   "palavra": "meio",
+   "inicio": 7.599,
+   "fim": 7.779,
+   "parte": 2
+  },
+  {
+   "palavra": "da",
+   "inicio": 7.779,
+   "fim": 7.919,
+   "parte": 2
+  },
+  {
+   "palavra": "selva,",
+   "inicio": 7.919,
+   "fim": 8.359,
+   "parte": 2
+  },
+  {
+   "palavra": "praias",
+   "inicio": 8.519,
+   "fim": 8.879,
+   "parte": 2
+  },
+  {
+   "palavra": "de",
+   "inicio": 8.879,
+   "fim": 8.999,
+   "parte": 2
+  },
+  {
+   "palavra": "rio",
+   "inicio": 8.999,
+   "fim": 9.359,
+   "parte": 2
+  },
+  {
+   "palavra": "e",
+   "inicio": 9.359,
+   "fim": 9.679,
+   "parte": 2
+  },
+  {
+   "palavra": "cachoeiras",
+   "inicio": 9.679,
+   "fim": 10.259,
+   "parte": 2
+  },
+  {
+   "palavra": "escondidas",
+   "inicio": 10.259,
+   "fim": 10.779,
+   "parte": 2
+  },
+  {
+   "palavra": "na",
+   "inicio": 10.779,
+   "fim": 10.939,
+   "parte": 2
+  },
+  {
+   "palavra": "mata.",
+   "inicio": 10.939,
+   "fim": 11.239,
+   "parte": 2
+  },
+  {
+   "palavra": "Fica",
+   "inicio": 11.843,
+   "fim": 12.103,
+   "parte": 3
+  },
+  {
+   "palavra": "no",
+   "inicio": 12.103,
+   "fim": 12.223,
+   "parte": 3
+  },
+  {
+   "palavra": "norte,",
+   "inicio": 12.223,
+   "fim": 12.563,
+   "parte": 3
+  },
+  {
+   "palavra": "faz",
+   "inicio": 12.703,
+   "fim": 12.863,
+   "parte": 3
+  },
+  {
+   "palavra": "divisa",
+   "inicio": 12.863,
+   "fim": 13.243,
+   "parte": 3
+  },
+  {
+   "palavra": "com",
+   "inicio": 13.243,
+   "fim": 13.363,
+   "parte": 3
+  },
+  {
+   "palavra": "Roraima,",
+   "inicio": 13.363,
+   "fim": 13.803,
+   "parte": 3
+  },
+  {
+   "palavra": "Pará,",
+   "inicio": 13.803,
+   "fim": 14.243,
+   "parte": 3
+  },
+  {
+   "palavra": "Mato",
+   "inicio": 14.243,
+   "fim": 14.443,
+   "parte": 3
+  },
+  {
+   "palavra": "Grosso,",
+   "inicio": 14.443,
+   "fim": 14.843,
+   "parte": 3
+  },
+  {
+   "palavra": "Rondônia",
+   "inicio": 14.883,
+   "fim": 15.323,
+   "parte": 3
+  },
+  {
+   "palavra": "e",
+   "inicio": 15.323,
+   "fim": 15.503,
+   "parte": 3
+  },
+  {
+   "palavra": "Acre",
+   "inicio": 15.503,
+   "fim": 15.863,
+   "parte": 3
+  },
+  {
+   "palavra": "e",
+   "inicio": 15.863,
+   "fim": 16.123,
+   "parte": 3
+  },
+  {
+   "palavra": "fronteira",
+   "inicio": 16.123,
+   "fim": 16.543,
+   "parte": 3
+  },
+  {
+   "palavra": "com",
+   "inicio": 16.543,
+   "fim": 16.683,
+   "parte": 3
+  },
+  {
+   "palavra": "a",
+   "inicio": 16.683,
+   "fim": 16.783,
+   "parte": 3
+  },
+  {
+   "palavra": "Venezuela,",
+   "inicio": 16.783,
+   "fim": 17.183,
+   "parte": 3
+  },
+  {
+   "palavra": "a",
+   "inicio": 17.583,
+   "fim": 17.603,
+   "parte": 3
+  },
+  {
+   "palavra": "Colômbia",
+   "inicio": 17.603,
+   "fim": 18.083,
+   "parte": 3
+  },
+  {
+   "palavra": "e",
+   "inicio": 18.083,
+   "fim": 18.183,
+   "parte": 3
+  },
+  {
+   "palavra": "o",
+   "inicio": 18.183,
+   "fim": 18.243,
+   "parte": 3
+  },
+  {
+   "palavra": "Peru.",
+   "inicio": 18.243,
+   "fim": 18.403,
+   "parte": 3
+  },
+  {
+   "palavra": "São",
+   "inicio": 18.794,
+   "fim": 18.994,
+   "parte": 4
+  },
+  {
+   "palavra": "62",
+   "inicio": 18.994,
+   "fim": 19.434,
+   "parte": 4
+  },
+  {
+   "palavra": "municípios",
+   "inicio": 19.434,
+   "fim": 20.254,
+   "parte": 4
+  },
+  {
+   "palavra": "e",
+   "inicio": 20.254,
+   "fim": 20.334,
+   "parte": 4
+  },
+  {
+   "palavra": "mais",
+   "inicio": 20.334,
+   "fim": 20.514,
+   "parte": 4
+  },
+  {
+   "palavra": "de",
+   "inicio": 20.514,
+   "fim": 20.654,
+   "parte": 4
+  },
+  {
+   "palavra": "4",
+   "inicio": 20.654,
+   "fim": 20.954,
+   "parte": 4
+  },
+  {
+   "palavra": "milhões",
+   "inicio": 20.954,
+   "fim": 21.254,
+   "parte": 4
+  },
+  {
+   "palavra": "de",
+   "inicio": 21.254,
+   "fim": 21.454,
+   "parte": 4
+  },
+  {
+   "palavra": "pessoas,",
+   "inicio": 21.454,
+   "fim": 21.854,
+   "parte": 4
+  },
+  {
+   "palavra": "metade",
+   "inicio": 22.174,
+   "fim": 22.574,
+   "parte": 4
+  },
+  {
+   "palavra": "vive",
+   "inicio": 22.574,
+   "fim": 22.774,
+   "parte": 4
+  },
+  {
+   "palavra": "em",
+   "inicio": 22.774,
+   "fim": 22.974,
+   "parte": 4
+  },
+  {
+   "palavra": "Manaus,",
+   "inicio": 22.974,
+   "fim": 23.534,
+   "parte": 4
+  },
+  {
+   "palavra": "a",
+   "inicio": 23.714,
+   "fim": 23.754,
+   "parte": 4
+  },
+  {
+   "palavra": "maior",
+   "inicio": 23.754,
+   "fim": 23.974,
+   "parte": 4
+  },
+  {
+   "palavra": "cidade",
+   "inicio": 23.974,
+   "fim": 24.294,
+   "parte": 4
+  },
+  {
+   "palavra": "do",
+   "inicio": 24.294,
+   "fim": 24.514,
+   "parte": 4
+  },
+  {
+   "palavra": "Norte.",
+   "inicio": 24.514,
+   "fim": 24.854,
+   "parte": 4
+  },
+  {
+   "palavra": "E",
+   "inicio": 25.198,
+   "fim": 25.378,
+   "parte": 5
+  },
+  {
+   "palavra": "chegar",
+   "inicio": 25.378,
+   "fim": 25.578,
+   "parte": 5
+  },
+  {
+   "palavra": "lá",
+   "inicio": 25.578,
+   "fim": 25.858,
+   "parte": 5
+  },
+  {
+   "palavra": "é",
+   "inicio": 25.858,
+   "fim": 25.978,
+   "parte": 5
+  },
+  {
+   "palavra": "uma",
+   "inicio": 25.978,
+   "fim": 26.098,
+   "parte": 5
+  },
+  {
+   "palavra": "aventura,",
+   "inicio": 26.098,
+   "fim": 26.678,
+   "parte": 5
+  },
+  {
+   "palavra": "quase",
+   "inicio": 26.878,
+   "fim": 27.118,
+   "parte": 5
+  },
+  {
+   "palavra": "todo",
+   "inicio": 27.118,
+   "fim": 27.438,
+   "parte": 5
+  },
+  {
+   "palavra": "mundo",
+   "inicio": 27.438,
+   "fim": 27.718,
+   "parte": 5
+  },
+  {
+   "palavra": "vai",
+   "inicio": 27.718,
+   "fim": 27.918,
+   "parte": 5
+  },
+  {
+   "palavra": "de",
+   "inicio": 27.918,
+   "fim": 28.038,
+   "parte": 5
+  },
+  {
+   "palavra": "avião",
+   "inicio": 28.038,
+   "fim": 28.398,
+   "parte": 5
+  },
+  {
+   "palavra": "ou",
+   "inicio": 28.398,
+   "fim": 28.578,
+   "parte": 5
+  },
+  {
+   "palavra": "de",
+   "inicio": 28.578,
+   "fim": 28.738,
+   "parte": 5
+  },
+  {
+   "palavra": "barco.",
+   "inicio": 28.738,
+   "fim": 29.118,
+   "parte": 5
+  },
+  {
+   "palavra": "Por",
+   "inicio": 29.318,
+   "fim": 29.458,
+   "parte": 5
+  },
+  {
+   "palavra": "terra,",
+   "inicio": 29.458,
+   "fim": 29.738,
+   "parte": 5
+  },
+  {
+   "palavra": "a",
+   "inicio": 29.938,
+   "fim": 29.998,
+   "parte": 5
+  },
+  {
+   "palavra": "BR319",
+   "inicio": 29.998,
+   "fim": 31.338,
+   "parte": 5
+  },
+  {
+   "palavra": "tem",
+   "inicio": 31.338,
+   "fim": 31.578,
+   "parte": 5
+  },
+  {
+   "palavra": "centenas",
+   "inicio": 31.578,
+   "fim": 32.178,
+   "parte": 5
+  },
+  {
+   "palavra": "de",
+   "inicio": 32.178,
+   "fim": 32.318,
+   "parte": 5
+  },
+  {
+   "palavra": "quilômetros",
+   "inicio": 32.318,
+   "fim": 32.818,
+   "parte": 5
+  },
+  {
+   "palavra": "de",
+   "inicio": 32.818,
+   "fim": 32.958,
+   "parte": 5
+  },
+  {
+   "palavra": "terra",
+   "inicio": 32.958,
+   "fim": 33.218,
+   "parte": 5
+  },
+  {
+   "palavra": "no",
+   "inicio": 33.218,
+   "fim": 33.358,
+   "parte": 5
+  },
+  {
+   "palavra": "meio",
+   "inicio": 33.358,
+   "fim": 33.578,
+   "parte": 5
+  },
+  {
+   "palavra": "da",
+   "inicio": 33.578,
+   "fim": 33.698,
+   "parte": 5
+  },
+  {
+   "palavra": "floresta.",
+   "inicio": 33.698,
+   "fim": 34.138,
+   "parte": 5
+  },
+  {
+   "palavra": "No",
+   "inicio": 34.474,
+   "fim": 34.634,
+   "parte": 6
+  },
+  {
+   "palavra": "auge",
+   "inicio": 34.634,
+   "fim": 34.894,
+   "parte": 6
+  },
+  {
+   "palavra": "da",
+   "inicio": 34.894,
+   "fim": 34.994,
+   "parte": 6
+  },
+  {
+   "palavra": "borracha,",
+   "inicio": 34.994,
+   "fim": 35.474,
+   "parte": 6
+  },
+  {
+   "palavra": "Manaus",
+   "inicio": 35.534,
+   "fim": 35.874,
+   "parte": 6
+  },
+  {
+   "palavra": "era",
+   "inicio": 35.874,
+   "fim": 35.994,
+   "parte": 6
+  },
+  {
+   "palavra": "chamada",
+   "inicio": 35.994,
+   "fim": 36.354,
+   "parte": 6
+  },
+  {
+   "palavra": "de",
+   "inicio": 36.354,
+   "fim": 36.494,
+   "parte": 6
+  },
+  {
+   "palavra": "Paris",
+   "inicio": 36.494,
+   "fim": 36.774,
+   "parte": 6
+  },
+  {
+   "palavra": "dos",
+   "inicio": 36.774,
+   "fim": 36.954,
+   "parte": 6
+  },
+  {
+   "palavra": "Trópicos",
+   "inicio": 36.954,
+   "fim": 37.534,
+   "parte": 6
+  },
+  {
+   "palavra": "e",
+   "inicio": 37.534,
+   "fim": 37.874,
+   "parte": 6
+  },
+  {
+   "palavra": "ergueu",
+   "inicio": 37.874,
+   "fim": 38.174,
+   "parte": 6
+  },
+  {
+   "palavra": "o",
+   "inicio": 38.174,
+   "fim": 38.214,
+   "parte": 6
+  },
+  {
+   "palavra": "teatro",
+   "inicio": 38.214,
+   "fim": 38.534,
+   "parte": 6
+  },
+  {
+   "palavra": "Amazonas",
+   "inicio": 38.534,
+   "fim": 39.114,
+   "parte": 6
+  },
+  {
+   "palavra": "com",
+   "inicio": 39.114,
+   "fim": 39.254,
+   "parte": 6
+  },
+  {
+   "palavra": "peças",
+   "inicio": 39.254,
+   "fim": 39.554,
+   "parte": 6
+  },
+  {
+   "palavra": "trazidas",
+   "inicio": 39.554,
+   "fim": 40.014,
+   "parte": 6
+  },
+  {
+   "palavra": "da",
+   "inicio": 40.014,
+   "fim": 40.154,
+   "parte": 6
+  },
+  {
+   "palavra": "Europa.",
+   "inicio": 40.154,
+   "fim": 40.354,
+   "parte": 6
+  },
+  {
+   "palavra": "até",
+   "inicio": 40.904,
+   "fim": 41.124,
+   "parte": 7
+  },
+  {
+   "palavra": "que",
+   "inicio": 41.124,
+   "fim": 41.264,
+   "parte": 7
+  },
+  {
+   "palavra": "um",
+   "inicio": 41.264,
+   "fim": 41.344,
+   "parte": 7
+  },
+  {
+   "palavra": "inglês",
+   "inicio": 41.344,
+   "fim": 41.664,
+   "parte": 7
+  },
+  {
+   "palavra": "levou",
+   "inicio": 41.664,
+   "fim": 41.964,
+   "parte": 7
+  },
+  {
+   "palavra": "70",
+   "inicio": 41.964,
+   "fim": 42.264,
+   "parte": 7
+  },
+  {
+   "palavra": "mil",
+   "inicio": 42.264,
+   "fim": 42.564,
+   "parte": 7
+  },
+  {
+   "palavra": "sementes",
+   "inicio": 42.564,
+   "fim": 43.084,
+   "parte": 7
+  },
+  {
+   "palavra": "de",
+   "inicio": 43.084,
+   "fim": 43.184,
+   "parte": 7
+  },
+  {
+   "palavra": "seringueira",
+   "inicio": 43.184,
+   "fim": 43.764,
+   "parte": 7
+  },
+  {
+   "palavra": "que",
+   "inicio": 43.764,
+   "fim": 43.984,
+   "parte": 7
+  },
+  {
+   "palavra": "viraram",
+   "inicio": 43.984,
+   "fim": 44.324,
+   "parte": 7
+  },
+  {
+   "palavra": "plantações",
+   "inicio": 44.324,
+   "fim": 44.864,
+   "parte": 7
+  },
+  {
+   "palavra": "na",
+   "inicio": 44.864,
+   "fim": 45.084,
+   "parte": 7
+  },
+  {
+   "palavra": "Ásia",
+   "inicio": 45.084,
+   "fim": 45.524,
+   "parte": 7
+  },
+  {
+   "palavra": "e",
+   "inicio": 45.524,
+   "fim": 45.804,
+   "parte": 7
+  },
+  {
+   "palavra": "a",
+   "inicio": 45.804,
+   "fim": 45.904,
+   "parte": 7
+  },
+  {
+   "palavra": "riqueza",
+   "inicio": 45.904,
+   "fim": 46.244,
+   "parte": 7
+  },
+  {
+   "palavra": "acabou.",
+   "inicio": 46.244,
+   "fim": 46.544,
+   "parte": 7
+  },
+  {
+   "palavra": "Décadas",
+   "inicio": 47.02,
+   "fim": 47.44,
+   "parte": 8,
+   "whisper": "Deca das"
+  },
+  {
+   "palavra": "depois",
+   "inicio": 47.44,
+   "fim": 47.68,
+   "parte": 8
+  },
+  {
+   "palavra": "veio",
+   "inicio": 47.68,
+   "fim": 47.92,
+   "parte": 8
+  },
+  {
+   "palavra": "a",
+   "inicio": 47.92,
+   "fim": 48.04,
+   "parte": 8
+  },
+  {
+   "palavra": "zona",
+   "inicio": 48.04,
+   "fim": 48.2,
+   "parte": 8
+  },
+  {
+   "palavra": "franca,",
+   "inicio": 48.2,
+   "fim": 48.68,
+   "parte": 8
+  },
+  {
+   "palavra": "hoje",
+   "inicio": 48.92,
+   "fim": 49.12,
+   "parte": 8
+  },
+  {
+   "palavra": "quase",
+   "inicio": 49.12,
+   "fim": 49.38,
+   "parte": 8
+  },
+  {
+   "palavra": "toda",
+   "inicio": 49.38,
+   "fim": 49.74,
+   "parte": 8
+  },
+  {
+   "palavra": "a",
+   "inicio": 49.74,
+   "fim": 49.9,
+   "parte": 8
+  },
+  {
+   "palavra": "moto",
+   "inicio": 49.9,
+   "fim": 50.06,
+   "parte": 8
+  },
+  {
+   "palavra": "fabricada",
+   "inicio": 50.06,
+   "fim": 50.52,
+   "parte": 8
+  },
+  {
+   "palavra": "no",
+   "inicio": 50.52,
+   "fim": 50.62,
+   "parte": 8
+  },
+  {
+   "palavra": "Brasil",
+   "inicio": 50.62,
+   "fim": 50.92,
+   "parte": 8
+  },
+  {
+   "palavra": "sai",
+   "inicio": 50.92,
+   "fim": 51.12,
+   "parte": 8
+  },
+  {
+   "palavra": "de",
+   "inicio": 51.12,
+   "fim": 51.24,
+   "parte": 8
+  },
+  {
+   "palavra": "Manaus.",
+   "inicio": 51.24,
+   "fim": 51.66,
+   "parte": 8
+  },
+  {
+   "palavra": "Na",
+   "inicio": 51.96,
+   "fim": 52.08,
+   "parte": 9
+  },
+  {
+   "palavra": "cidade",
+   "inicio": 52.08,
+   "fim": 52.42,
+   "parte": 9
+  },
+  {
+   "palavra": "ainda",
+   "inicio": 52.42,
+   "fim": 52.64,
+   "parte": 9
+  },
+  {
+   "palavra": "tem",
+   "inicio": 52.64,
+   "fim": 52.9,
+   "parte": 9
+  },
+  {
+   "palavra": "o",
+   "inicio": 52.9,
+   "fim": 52.98,
+   "parte": 9
+  },
+  {
+   "palavra": "Mercado",
+   "inicio": 52.98,
+   "fim": 53.42,
+   "parte": 9
+  },
+  {
+   "palavra": "Adolpho",
+   "inicio": 53.42,
+   "fim": 53.8,
+   "parte": 9,
+   "whisper": "Adolfo"
+  },
+  {
+   "palavra": "Lisboa",
+   "inicio": 53.8,
+   "fim": 54.28,
+   "parte": 9
+  },
+  {
+   "palavra": "e",
+   "inicio": 54.28,
+   "fim": 54.54,
+   "parte": 9
+  },
+  {
+   "palavra": "a",
+   "inicio": 54.54,
+   "fim": 54.62,
+   "parte": 9
+  },
+  {
+   "palavra": "Praia",
+   "inicio": 54.62,
+   "fim": 54.86,
+   "parte": 9
+  },
+  {
+   "palavra": "da",
+   "inicio": 54.86,
+   "fim": 54.92,
+   "parte": 9
+  },
+  {
+   "palavra": "Ponta",
+   "inicio": 54.92,
+   "fim": 55.26,
+   "parte": 9
+  },
+  {
+   "palavra": "Negra.",
+   "inicio": 55.26,
+   "fim": 55.56,
+   "parte": 9
+  },
+  {
+   "palavra": "Em",
+   "inicio": 55.856,
+   "fim": 56.036,
+   "parte": 10
+  },
+  {
+   "palavra": "frente,",
+   "inicio": 56.036,
+   "fim": 56.256,
+   "parte": 10
+  },
+  {
+   "palavra": "o",
+   "inicio": 56.476,
+   "fim": 56.496,
+   "parte": 10
+  },
+  {
+   "palavra": "negro",
+   "inicio": 56.496,
+   "fim": 56.716,
+   "parte": 10
+  },
+  {
+   "palavra": "escuro",
+   "inicio": 56.716,
+   "fim": 57.236,
+   "parte": 10
+  },
+  {
+   "palavra": "encontra",
+   "inicio": 57.236,
+   "fim": 57.536,
+   "parte": 10
+  },
+  {
+   "palavra": "o Solimões,",
+   "inicio": 57.536,
+   "fim": 58.436,
+   "parte": 10,
+   "whisper": "os solimões,"
+  },
+  {
+   "palavra": "barrento",
+   "inicio": 58.676,
+   "fim": 59.296,
+   "parte": 10
+  },
+  {
+   "palavra": "e",
+   "inicio": 59.296,
+   "fim": 59.536,
+   "parte": 10
+  },
+  {
+   "palavra": "eles",
+   "inicio": 59.536,
+   "fim": 59.636,
+   "parte": 10
+  },
+  {
+   "palavra": "correm",
+   "inicio": 59.636,
+   "fim": 59.976,
+   "parte": 10
+  },
+  {
+   "palavra": "quilômetros",
+   "inicio": 59.976,
+   "fim": 60.576,
+   "parte": 10
+  },
+  {
+   "palavra": "sem",
+   "inicio": 60.576,
+   "fim": 60.776,
+   "parte": 10
+  },
+  {
+   "palavra": "se",
+   "inicio": 60.776,
+   "fim": 60.876,
+   "parte": 10
+  },
+  {
+   "palavra": "misturar.",
+   "inicio": 60.876,
+   "fim": 61.296,
+   "parte": 10
+  },
+  {
+   "palavra": "Juntos",
+   "inicio": 61.576,
+   "fim": 62.036,
+   "parte": 10
+  },
+  {
+   "palavra": "viram",
+   "inicio": 62.036,
+   "fim": 62.296,
+   "parte": 10
+  },
+  {
+   "palavra": "o",
+   "inicio": 62.296,
+   "fim": 62.376,
+   "parte": 10
+  },
+  {
+   "palavra": "Rio",
+   "inicio": 62.376,
+   "fim": 62.496,
+   "parte": 10
+  },
+  {
+   "palavra": "Amazonas.",
+   "inicio": 62.496,
+   "fim": 63.196,
+   "parte": 10
+  },
+  {
+   "palavra": "Mas",
+   "inicio": 63.727,
+   "fim": 63.927,
+   "parte": 11
+  },
+  {
+   "palavra": "é",
+   "inicio": 63.927,
+   "fim": 64.107,
+   "parte": 11
+  },
+  {
+   "palavra": "saindo",
+   "inicio": 64.107,
+   "fim": 64.367,
+   "parte": 11
+  },
+  {
+   "palavra": "de",
+   "inicio": 64.367,
+   "fim": 64.507,
+   "parte": 11
+  },
+  {
+   "palavra": "Manaus",
+   "inicio": 64.507,
+   "fim": 64.887,
+   "parte": 11
+  },
+  {
+   "palavra": "que",
+   "inicio": 64.887,
+   "fim": 64.987,
+   "parte": 11
+  },
+  {
+   "palavra": "o",
+   "inicio": 64.987,
+   "fim": 65.067,
+   "parte": 11
+  },
+  {
+   "palavra": "Amazonas",
+   "inicio": 65.067,
+   "fim": 65.547,
+   "parte": 11
+  },
+  {
+   "palavra": "impressiona.",
+   "inicio": 65.547,
+   "fim": 66.147,
+   "parte": 11
+  },
+  {
+   "palavra": "No",
+   "inicio": 66.447,
+   "fim": 66.587,
+   "parte": 12
+  },
+  {
+   "palavra": "Lago",
+   "inicio": 66.587,
+   "fim": 66.787,
+   "parte": 12
+  },
+  {
+   "palavra": "Janauari,",
+   "inicio": 66.787,
+   "fim": 67.327,
+   "parte": 12,
+   "whisper": "Janauário,"
+  },
+  {
+   "palavra": "as",
+   "inicio": 67.387,
+   "fim": 67.447,
+   "parte": 12
+  },
+  {
+   "palavra": "vitórias-régias",
+   "inicio": 67.447,
+   "fim": 68.107,
+   "parte": 12,
+   "whisper": "vitórias rejas"
+  },
+  {
+   "palavra": "passam",
+   "inicio": 68.107,
+   "fim": 68.487,
+   "parte": 12
+  },
+  {
+   "palavra": "de",
+   "inicio": 68.487,
+   "fim": 68.547,
+   "parte": 12
+  },
+  {
+   "palavra": "dois",
+   "inicio": 68.547,
+   "fim": 68.787,
+   "parte": 12
+  },
+  {
+   "palavra": "metros.",
+   "inicio": 68.787,
+   "fim": 69.047,
+   "parte": 12
+  },
+  {
+   "palavra": "Em",
+   "inicio": 69.559,
+   "fim": 69.739,
+   "parte": 13
+  },
+  {
+   "palavra": "Novo",
+   "inicio": 69.739,
+   "fim": 69.979,
+   "parte": 13
+  },
+  {
+   "palavra": "Airão,",
+   "inicio": 69.979,
+   "fim": 70.259,
+   "parte": 13
+  },
+  {
+   "palavra": "as",
+   "inicio": 70.319,
+   "fim": 70.419,
+   "parte": 13
+  },
+  {
+   "palavra": "anavilhanas",
+   "inicio": 70.419,
+   "fim": 71.039,
+   "parte": 13
+  },
+  {
+   "palavra": "formam",
+   "inicio": 71.039,
+   "fim": 71.399,
+   "parte": 13
+  },
+  {
+   "palavra": "um",
+   "inicio": 71.399,
+   "fim": 71.499,
+   "parte": 13
+  },
+  {
+   "palavra": "labirinto",
+   "inicio": 71.499,
+   "fim": 71.859,
+   "parte": 13
+  },
+  {
+   "palavra": "de",
+   "inicio": 71.859,
+   "fim": 71.999,
+   "parte": 13
+  },
+  {
+   "palavra": "400",
+   "inicio": 71.999,
+   "fim": 72.379,
+   "parte": 13
+  },
+  {
+   "palavra": "ilhas",
+   "inicio": 72.379,
+   "fim": 73.039,
+   "parte": 13
+  },
+  {
+   "palavra": "com",
+   "inicio": 73.039,
+   "fim": 73.219,
+   "parte": 13
+  },
+  {
+   "palavra": "botos-cor-de-rosa.",
+   "inicio": 73.219,
+   "fim": 74.259,
+   "parte": 13,
+   "whisper": "botos gorde rosa."
+  },
+  {
+   "palavra": "Presidente",
+   "inicio": 74.577,
+   "fim": 75.097,
+   "parte": 14
+  },
+  {
+   "palavra": "Figueiredo",
+   "inicio": 75.097,
+   "fim": 75.557,
+   "parte": 14
+  },
+  {
+   "palavra": "tem",
+   "inicio": 75.557,
+   "fim": 75.677,
+   "parte": 14
+  },
+  {
+   "palavra": "mais",
+   "inicio": 75.677,
+   "fim": 75.877,
+   "parte": 14
+  },
+  {
+   "palavra": "de",
+   "inicio": 75.877,
+   "fim": 76.037,
+   "parte": 14
+  },
+  {
+   "palavra": "100",
+   "inicio": 76.037,
+   "fim": 76.277,
+   "parte": 14
+  },
+  {
+   "palavra": "cachoeiras",
+   "inicio": 76.277,
+   "fim": 76.837,
+   "parte": 14
+  },
+  {
+   "palavra": "e",
+   "inicio": 76.837,
+   "fim": 76.957,
+   "parte": 14
+  },
+  {
+   "palavra": "grutas",
+   "inicio": 76.957,
+   "fim": 77.317,
+   "parte": 14
+  },
+  {
+   "palavra": "no",
+   "inicio": 77.317,
+   "fim": 77.417,
+   "parte": 14
+  },
+  {
+   "palavra": "meio",
+   "inicio": 77.417,
+   "fim": 77.537,
+   "parte": 14
+  },
+  {
+   "palavra": "da",
+   "inicio": 77.537,
+   "fim": 77.697,
+   "parte": 14
+  },
+  {
+   "palavra": "mata.",
+   "inicio": 77.697,
+   "fim": 77.917,
+   "parte": 14
+  },
+  {
+   "palavra": "Em",
+   "inicio": 78.316,
+   "fim": 78.496,
+   "parte": 15
+  },
+  {
+   "palavra": "Parintins,",
+   "inicio": 78.496,
+   "fim": 79.056,
+   "parte": 15
+  },
+  {
+   "palavra": "uma",
+   "inicio": 79.136,
+   "fim": 79.276,
+   "parte": 15
+  },
+  {
+   "palavra": "ilha",
+   "inicio": 79.276,
+   "fim": 79.496,
+   "parte": 15
+  },
+  {
+   "palavra": "no",
+   "inicio": 79.496,
+   "fim": 79.596,
+   "parte": 15
+  },
+  {
+   "palavra": "meio",
+   "inicio": 79.596,
+   "fim": 79.736,
+   "parte": 15
+  },
+  {
+   "palavra": "do",
+   "inicio": 79.736,
+   "fim": 79.856,
+   "parte": 15
+  },
+  {
+   "palavra": "rio,",
+   "inicio": 79.856,
+   "fim": 80.196,
+   "parte": 15
+  },
+  {
+   "palavra": "o",
+   "inicio": 80.336,
+   "fim": 80.356,
+   "parte": 15
+  },
+  {
+   "palavra": "Festival",
+   "inicio": 80.356,
+   "fim": 80.696,
+   "parte": 15
+  },
+  {
+   "palavra": "dos",
+   "inicio": 80.696,
+   "fim": 80.916,
+   "parte": 15
+  },
+  {
+   "palavra": "Bois",
+   "inicio": 80.916,
+   "fim": 81.296,
+   "parte": 15
+  },
+  {
+   "palavra": "divide",
+   "inicio": 81.296,
+   "fim": 81.496,
+   "parte": 15
+  },
+  {
+   "palavra": "a",
+   "inicio": 81.496,
+   "fim": 81.716,
+   "parte": 15
+  },
+  {
+   "palavra": "cidade",
+   "inicio": 81.716,
+   "fim": 82.036,
+   "parte": 15
+  },
+  {
+   "palavra": "entre",
+   "inicio": 82.036,
+   "fim": 82.236,
+   "parte": 15
+  },
+  {
+   "palavra": "garantido",
+   "inicio": 82.236,
+   "fim": 82.876,
+   "parte": 15
+  },
+  {
+   "palavra": "e",
+   "inicio": 82.876,
+   "fim": 82.956,
+   "parte": 15
+  },
+  {
+   "palavra": "caprichoso.",
+   "inicio": 82.956,
+   "fim": 83.556,
+   "parte": 15
+  },
+  {
+   "palavra": "Em",
+   "inicio": 83.883,
+   "fim": 84.043,
+   "parte": 16
+  },
+  {
+   "palavra": "Maués",
+   "inicio": 84.043,
+   "fim": 84.423,
+   "parte": 16
+  },
+  {
+   "palavra": "nasceu",
+   "inicio": 84.423,
+   "fim": 84.763,
+   "parte": 16
+  },
+  {
+   "palavra": "o",
+   "inicio": 84.763,
+   "fim": 84.863,
+   "parte": 16
+  },
+  {
+   "palavra": "guaraná",
+   "inicio": 84.863,
+   "fim": 85.303,
+   "parte": 16
+  },
+  {
+   "palavra": "para",
+   "inicio": 85.303,
+   "fim": 85.643,
+   "parte": 16
+  },
+  {
+   "palavra": "os Sateré-Mawé,",
+   "inicio": 85.643,
+   "fim": 86.483,
+   "parte": 16,
+   "whisper": "o sateré Maué,"
+  },
+  {
+   "palavra": "ele",
+   "inicio": 86.583,
+   "fim": 86.643,
+   "parte": 16
+  },
+  {
+   "palavra": "brotou",
+   "inicio": 86.643,
+   "fim": 86.963,
+   "parte": 16
+  },
+  {
+   "palavra": "dos",
+   "inicio": 86.963,
+   "fim": 87.083,
+   "parte": 16
+  },
+  {
+   "palavra": "olhos",
+   "inicio": 87.083,
+   "fim": 87.303,
+   "parte": 16
+  },
+  {
+   "palavra": "de",
+   "inicio": 87.303,
+   "fim": 87.463,
+   "parte": 16
+  },
+  {
+   "palavra": "um",
+   "inicio": 87.463,
+   "fim": 87.523,
+   "parte": 16
+  },
+  {
+   "palavra": "menino",
+   "inicio": 87.523,
+   "fim": 87.963,
+   "parte": 16
+  },
+  {
+   "palavra": "e,",
+   "inicio": 87.963,
+   "fim": 88.203,
+   "parte": 16
+  },
+  {
+   "palavra": "por",
+   "inicio": 88.263,
+   "fim": 88.363,
+   "parte": 16
+  },
+  {
+   "palavra": "isso,",
+   "inicio": 88.363,
+   "fim": 88.523,
+   "parte": 16
+  },
+  {
+   "palavra": "parece",
+   "inicio": 88.623,
+   "fim": 88.783,
+   "parte": 16
+  },
+  {
+   "palavra": "um",
+   "inicio": 88.783,
+   "fim": 89.043,
+   "parte": 16
+  },
+  {
+   "palavra": "olho.",
+   "inicio": 89.043,
+   "fim": 89.223,
+   "parte": 16
+  },
+  {
+   "palavra": "O",
+   "inicio": 89.555,
+   "fim": 89.655,
+   "parte": 17
+  },
+  {
+   "palavra": "Amazonas",
+   "inicio": 89.655,
+   "fim": 90.235,
+   "parte": 17
+  },
+  {
+   "palavra": "tem",
+   "inicio": 90.235,
+   "fim": 90.335,
+   "parte": 17
+  },
+  {
+   "palavra": "mais",
+   "inicio": 90.335,
+   "fim": 90.535,
+   "parte": 17
+  },
+  {
+   "palavra": "indígenas",
+   "inicio": 90.535,
+   "fim": 91.095,
+   "parte": 17
+  },
+  {
+   "palavra": "que",
+   "inicio": 91.095,
+   "fim": 91.195,
+   "parte": 17
+  },
+  {
+   "palavra": "qualquer",
+   "inicio": 91.195,
+   "fim": 91.555,
+   "parte": 17
+  },
+  {
+   "palavra": "estado,",
+   "inicio": 91.555,
+   "fim": 91.935,
+   "parte": 17
+  },
+  {
+   "palavra": "mais",
+   "inicio": 92.235,
+   "fim": 92.395,
+   "parte": 17
+  },
+  {
+   "palavra": "de",
+   "inicio": 92.395,
+   "fim": 92.535,
+   "parte": 17
+  },
+  {
+   "palavra": "490",
+   "inicio": 92.535,
+   "fim": 93.175,
+   "parte": 17
+  },
+  {
+   "palavra": "mil,",
+   "inicio": 93.175,
+   "fim": 93.875,
+   "parte": 17
+  },
+  {
+   "palavra": "e",
+   "inicio": 94.175,
+   "fim": 94.275,
+   "parte": 17
+  },
+  {
+   "palavra": "no",
+   "inicio": 94.275,
+   "fim": 94.355,
+   "parte": 17
+  },
+  {
+   "palavra": "Vale",
+   "inicio": 94.355,
+   "fim": 94.595,
+   "parte": 17
+  },
+  {
+   "palavra": "do",
+   "inicio": 94.595,
+   "fim": 94.735,
+   "parte": 17
+  },
+  {
+   "palavra": "Javari",
+   "inicio": 94.735,
+   "fim": 95.135,
+   "parte": 17
+  },
+  {
+   "palavra": "vivem",
+   "inicio": 95.135,
+   "fim": 95.435,
+   "parte": 17
+  },
+  {
+   "palavra": "povos",
+   "inicio": 95.435,
+   "fim": 95.715,
+   "parte": 17
+  },
+  {
+   "palavra": "isolados",
+   "inicio": 95.715,
+   "fim": 96.235,
+   "parte": 17
+  },
+  {
+   "palavra": "até",
+   "inicio": 96.235,
+   "fim": 96.455,
+   "parte": 17
+  },
+  {
+   "palavra": "hoje.",
+   "inicio": 96.455,
+   "fim": 96.755,
+   "parte": 17
+  },
+  {
+   "palavra": "No",
+   "inicio": 97.108,
+   "fim": 97.228,
+   "parte": 18
+  },
+  {
+   "palavra": "extremo",
+   "inicio": 97.228,
+   "fim": 97.648,
+   "parte": 18
+  },
+  {
+   "palavra": "norte,",
+   "inicio": 97.648,
+   "fim": 97.908,
+   "parte": 18
+  },
+  {
+   "palavra": "o",
+   "inicio": 97.988,
+   "fim": 98.048,
+   "parte": 18
+  },
+  {
+   "palavra": "pico",
+   "inicio": 98.048,
+   "fim": 98.288,
+   "parte": 18
+  },
+  {
+   "palavra": "da",
+   "inicio": 98.288,
+   "fim": 98.368,
+   "parte": 18
+  },
+  {
+   "palavra": "Neblina",
+   "inicio": 98.368,
+   "fim": 98.768,
+   "parte": 18
+  },
+  {
+   "palavra": "é",
+   "inicio": 98.768,
+   "fim": 98.868,
+   "parte": 18
+  },
+  {
+   "palavra": "o",
+   "inicio": 98.868,
+   "fim": 98.968,
+   "parte": 18
+  },
+  {
+   "palavra": "teto",
+   "inicio": 98.968,
+   "fim": 99.228,
+   "parte": 18
+  },
+  {
+   "palavra": "do",
+   "inicio": 99.228,
+   "fim": 99.328,
+   "parte": 18
+  },
+  {
+   "palavra": "Brasil,",
+   "inicio": 99.328,
+   "fim": 99.688,
+   "parte": 18
+  },
+  {
+   "palavra": "com",
+   "inicio": 99.908,
+   "fim": 100.068,
+   "parte": 18
+  },
+  {
+   "palavra": "quase",
+   "inicio": 100.068,
+   "fim": 100.308,
+   "parte": 18
+  },
+  {
+   "palavra": "3",
+   "inicio": 100.308,
+   "fim": 100.608,
+   "parte": 18
+  },
+  {
+   "palavra": "mil",
+   "inicio": 100.608,
+   "fim": 100.768,
+   "parte": 18
+  },
+  {
+   "palavra": "metros.",
+   "inicio": 100.768,
+   "fim": 101.108,
+   "parte": 18
+  },
+  {
+   "palavra": "Do",
+   "inicio": 101.5,
+   "fim": 101.6,
+   "parte": 19
+  },
+  {
+   "palavra": "Encontro",
+   "inicio": 101.6,
+   "fim": 102.06,
+   "parte": 19
+  },
+  {
+   "palavra": "das",
+   "inicio": 102.06,
+   "fim": 102.18,
+   "parte": 19
+  },
+  {
+   "palavra": "Águas",
+   "inicio": 102.18,
+   "fim": 102.58,
+   "parte": 19
+  },
+  {
+   "palavra": "ao",
+   "inicio": 102.58,
+   "fim": 102.72,
+   "parte": 19
+  },
+  {
+   "palavra": "Pico",
+   "inicio": 102.72,
+   "fim": 102.94,
+   "parte": 19
+  },
+  {
+   "palavra": "da",
+   "inicio": 102.94,
+   "fim": 103.04,
+   "parte": 19
+  },
+  {
+   "palavra": "Neblina,",
+   "inicio": 103.04,
+   "fim": 103.5,
+   "parte": 19
+  },
+  {
+   "palavra": "o",
+   "inicio": 103.58,
+   "fim": 103.64,
+   "parte": 19
+  },
+  {
+   "palavra": "Amazonas",
+   "inicio": 103.64,
+   "fim": 104.12,
+   "parte": 19
+  },
+  {
+   "palavra": "é",
+   "inicio": 104.12,
+   "fim": 104.2,
+   "parte": 19
+  },
+  {
+   "palavra": "cheio",
+   "inicio": 104.2,
+   "fim": 104.46,
+   "parte": 19
+  },
+  {
+   "palavra": "de",
+   "inicio": 104.46,
+   "fim": 104.54,
+   "parte": 19
+  },
+  {
+   "palavra": "lugares",
+   "inicio": 104.54,
+   "fim": 104.82,
+   "parte": 19
+  },
+  {
+   "palavra": "para",
+   "inicio": 104.82,
+   "fim": 105.02,
+   "parte": 19
+  },
+  {
+   "palavra": "descobrir?",
+   "inicio": 105.02,
+   "fim": 105.3,
+   "parte": 19
+  },
+  {
+   "palavra": "Qual",
+   "inicio": 105.866,
+   "fim": 105.986,
+   "parte": 20
+  },
+  {
+   "palavra": "desses",
+   "inicio": 105.986,
+   "fim": 106.226,
+   "parte": 20
+  },
+  {
+   "palavra": "lugares",
+   "inicio": 106.226,
+   "fim": 106.566,
+   "parte": 20
+  },
+  {
+   "palavra": "você",
+   "inicio": 106.566,
+   "fim": 106.846,
+   "parte": 20
+  },
+  {
+   "palavra": "já",
+   "inicio": 106.846,
+   "fim": 107.006,
+   "parte": 20
+  },
+  {
+   "palavra": "conhecia?",
+   "inicio": 107.006,
+   "fim": 107.446,
+   "parte": 20
+  }
+ ]
+}

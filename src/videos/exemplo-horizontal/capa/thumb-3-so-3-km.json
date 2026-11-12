@@ -1,0 +1,61 @@
+{
+ "fundo": {
+  "src": "imagens-ia/exemplo-horizontal-capa/fundo-estreito/ff4e015821701f80.jpg",
+  "foco": [
+   0.5,
+   0.45
+  ],
+  "zoom": 1.1,
+  "brilho": 0.85,
+  "desfoque": 0.004
+ },
+ "acabamento": {
+  "vinheta": 0.55,
+  "tom": "#ff7a00",
+  "intensidadeDoTom": 0.2
+ },
+ "camadas": [
+  {
+   "tipo": "brilho",
+   "x": 0.7,
+   "y": 0.45,
+   "raio": 0.6,
+   "cor": "#FFB347",
+   "intensidade": 0.8
+  },
+  {
+   "tipo": "recorte",
+   "src": "imagens-ia/exemplo-horizontal-capa/recortes/petroleiro-frente.png",
+   "x": 0.7,
+   "y": 1.06,
+   "ancora": "base",
+   "altura": 1.02,
+   "brilho": "#FF8A00",
+   "saturacao": 1.15
+  },
+  {
+   "tipo": "texto",
+   "x": 0.04,
+   "y": 0.4,
+   "ancora": "esquerda",
+   "tamanho": 0.36,
+   "largura": 0.44,
+   "rot": -4,
+   "linhas": [
+    {
+     "texto": "SÓ 3 KM",
+     "gradiente": [
+      "#FFF27A",
+      "#FF9A00"
+     ]
+    },
+    {
+     "texto": "PARA PASSAR",
+     "escala": 0.36,
+     "caixa": "#FF2D2D",
+     "corNaCaixa": "#FFFFFF"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,6 @@
+google-genai==2.31.0
+pillow
+numpy
+pytest
+scipy
+# opcional, para recortar FOTO comum (npm run imagens -- recortar-foto): rembg[cpu]==2.0.67

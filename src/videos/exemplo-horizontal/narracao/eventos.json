@@ -1,0 +1,638 @@
+{
+ "semAudio": true,
+ "duracao": 347.436,
+ "fimDaFala": 347.303,
+ "eventos": {
+  "01.corredor": {
+   "t": 2.98,
+   "fim": 3.46,
+   "palavra": "corredor",
+   "acao": ""
+  },
+  "01.petroleo": {
+   "t": 9.79,
+   "fim": 10.31,
+   "palavra": "petróleo",
+   "acao": ""
+  },
+  "01.agencia": {
+   "t": 11.64,
+   "fim": 12.11,
+   "palavra": "Agência",
+   "acao": ""
+  },
+  "02.guerra": {
+   "t": 14.639,
+   "fim": 15.049,
+   "palavra": "guerra",
+   "acao": ""
+  },
+  "02.barris": {
+   "t": 17.389,
+   "fim": 17.799,
+   "palavra": "barris",
+   "acao": ""
+  },
+  "02.planeta": {
+   "t": 20.419,
+   "fim": 21.069,
+   "palavra": "planeta.",
+   "acao": ""
+  },
+  "03.estreito": {
+   "t": 22.176,
+   "fim": 22.926,
+   "palavra": "estreito",
+   "acao": ""
+  },
+  "03.mapa": {
+   "t": 27.236,
+   "fim": 27.696,
+   "palavra": "mapa.",
+   "acao": ""
+  },
+  "04.fechado": {
+   "t": 30.594,
+   "fim": 31.364,
+   "palavra": "fechado,",
+   "acao": ""
+  },
+  "04.ira": {
+   "t": 32.184,
+   "fim": 32.774,
+   "palavra": "Irã,",
+   "acao": ""
+  },
+  "04.arabia": {
+   "t": 33.413,
+   "fim": 33.824,
+   "palavra": "Arábia",
+   "acao": "",
+   "whisper": 33.414
+  },
+  "04.kuwait": {
+   "t": 34.565,
+   "fim": 35.374,
+   "palavra": "Kuwait,",
+   "acao": "",
+   "whisper": 34.574
+  },
+  "04.iraque": {
+   "t": 35.408,
+   "fim": 36.154,
+   "palavra": "Iraque,",
+   "acao": "",
+   "whisper": 35.404
+  },
+  "04.catar": {
+   "t": 36.157,
+   "fim": 36.984,
+   "palavra": "Qatar,",
+   "acao": "",
+   "whisper": 36.154
+  },
+  "04.bahrein": {
+   "t": 37.008,
+   "fim": 37.714,
+   "palavra": "Bahrein",
+   "acao": "",
+   "whisper": 37.004
+  },
+  "04.emirados": {
+   "t": 37.844,
+   "fim": 38.384,
+   "palavra": "Emirados",
+   "acao": ""
+  },
+  "05.saida": {
+   "t": 41.204,
+   "fim": 41.623,
+   "palavra": "saída",
+   "acao": "",
+   "whisper": 41.203
+  },
+  "05.musandam": {
+   "t": 45.873,
+   "fim": 46.633,
+   "palavra": "Musandam,",
+   "acao": ""
+  },
+  "05.oma": {
+   "t": 47.39,
+   "fim": 47.683,
+   "palavra": "homã",
+   "acao": "",
+   "whisper": 47.383
+  },
+  "06.estreito": {
+   "t": 51.066,
+   "fim": 51.601,
+   "palavra": "estreito",
+   "acao": "",
+   "whisper": 51.061
+  },
+  "06.faixas": {
+   "t": 54.001,
+   "fim": 54.571,
+   "palavra": "faixas",
+   "acao": ""
+  },
+  "06.entrar": {
+   "t": 58.268,
+   "fim": 58.721,
+   "palavra": "entrar",
+   "acao": "",
+   "whisper": 58.271
+  },
+  "06.sair": {
+   "t": 59.311,
+   "fim": 59.666,
+   "palavra": "sair.",
+   "acao": ""
+  },
+  "07.ilhas": {
+   "t": 60.836,
+   "fim": 61.486,
+   "palavra": "ilhas,",
+   "acao": ""
+  },
+  "07.ormuz": {
+   "t": 61.592,
+   "fim": 62.286,
+   "palavra": "Ormuz,",
+   "acao": "",
+   "whisper": 61.486
+  },
+  "07.queixome": {
+   "t": 62.323,
+   "fim": 63.116,
+   "palavra": "Queixome",
+   "acao": "",
+   "whisper": 62.286
+  },
+  "07.larak": {
+   "t": 63.176,
+   "fim": 63.766,
+   "palavra": "Larac",
+   "acao": ""
+  },
+  "07.abu": {
+   "t": 66.159,
+   "fim": 66.806,
+   "palavra": "Abumusa",
+   "acao": "",
+   "whisper": 66.006
+  },
+  "07.tunb": {
+   "t": 67.566,
+   "fim": 68.166,
+   "palavra": "tumbes",
+   "acao": ""
+  },
+  "07.emirados": {
+   "t": 73.436,
+   "fim": 74.206,
+   "palavra": "Emirados.",
+   "acao": ""
+  },
+  "08.antiga": {
+   "t": 76.91,
+   "fim": 77.58,
+   "palavra": "antiga.",
+   "acao": ""
+  },
+  "08.reino": {
+   "t": 80.13,
+   "fim": 80.45,
+   "palavra": "reino",
+   "acao": ""
+  },
+  "08.india": {
+   "t": 81.87,
+   "fim": 82.42,
+   "palavra": "Índia,",
+   "acao": ""
+  },
+  "08.persia": {
+   "t": 82.434,
+   "fim": 82.93,
+   "palavra": "Pérsia",
+   "acao": "",
+   "whisper": 82.45
+  },
+  "08.arabia": {
+   "t": 83.215,
+   "fim": 83.87,
+   "palavra": "Arábia.",
+   "acao": "",
+   "whisper": 83.09
+  },
+  "09.portugueses": {
+   "t": 86.567,
+   "fim": 87.667,
+   "palavra": "portugueses,",
+   "acao": ""
+  },
+  "09.afonso": {
+   "t": 87.67,
+   "fim": 88.007,
+   "palavra": "afonso",
+   "acao": "",
+   "whisper": 87.667
+  },
+  "09.fortaleza": {
+   "t": 94.897,
+   "fim": 95.767,
+   "palavra": "fortaleza.",
+   "acao": ""
+  },
+  "10.portugues": {
+   "t": 98.315,
+   "fim": 99.095,
+   "palavra": "português,",
+   "acao": ""
+  },
+  "10.abbas": {
+   "t": 101.885,
+   "fim": 102.625,
+   "palavra": "Xaabas,",
+   "acao": ""
+  },
+  "10.ingleses": {
+   "t": 104.605,
+   "fim": 105.455,
+   "palavra": "ingleses,",
+   "acao": ""
+  },
+  "11.bandar": {
+   "t": 110.271,
+   "fim": 111.236,
+   "palavra": "Bandarabas,",
+   "acao": "",
+   "whisper": 110.266
+  },
+  "11.entrada": {
+   "t": 113.896,
+   "fim": 114.346,
+   "palavra": "entrada",
+   "acao": ""
+  },
+  "12.debaixo": {
+   "t": 119.985,
+   "fim": 120.436,
+   "palavra": "debaixo",
+   "acao": "",
+   "whisper": 119.976
+  },
+  "12.ira": {
+   "t": 122.18,
+   "fim": 122.366,
+   "palavra": "Irã",
+   "acao": "",
+   "whisper": 122.056
+  },
+  "12.saudita": {
+   "t": 124.816,
+   "fim": 125.616,
+   "palavra": "Saudita",
+   "acao": ""
+  },
+  "13.reservas": {
+   "t": 129.546,
+   "fim": 130.076,
+   "palavra": "reservas",
+   "acao": ""
+  },
+  "13.caminho": {
+   "t": 134.651,
+   "fim": 135.246,
+   "palavra": "caminho.",
+   "acao": "",
+   "whisper": 134.656
+  },
+  "14.ira": {
+   "t": 138.018,
+   "fim": 138.208,
+   "palavra": "Irã",
+   "acao": ""
+  },
+  "14.iraque": {
+   "t": 138.328,
+   "fim": 138.908,
+   "palavra": "Iraque,",
+   "acao": ""
+  },
+  "14.petroleiros": {
+   "t": 142.258,
+   "fim": 143.238,
+   "palavra": "Petroleiros.",
+   "acao": ""
+  },
+  "15.louva-a-deus": {
+   "t": 149.31,
+   "fim": 149.75,
+   "palavra": "Louva",
+   "acao": ""
+  },
+  "15.iran": {
+   "t": 154.803,
+   "fim": 154.94,
+   "palavra": "Iran",
+   "acao": "",
+   "whisper": 154.68
+  },
+  "15.morreram": {
+   "t": 159.896,
+   "fim": 160.58,
+   "palavra": "morreram.",
+   "acao": "",
+   "whisper": 159.85
+  },
+  "16.exportava": {
+   "t": 164.613,
+   "fim": 165.173,
+   "palavra": "exportava",
+   "acao": ""
+  },
+  "17.catar": {
+   "t": 171.07,
+   "fim": 171.393,
+   "palavra": "Qatar",
+   "acao": "",
+   "whisper": 171.063
+  },
+  "17.gas": {
+   "t": 173.453,
+   "fim": 173.713,
+   "palavra": "gás",
+   "acao": ""
+  },
+  "18.asia": {
+   "t": 183.375,
+   "fim": 184.015,
+   "palavra": "Ásia,",
+   "acao": ""
+  },
+  "18.china": {
+   "t": 187.364,
+   "fim": 187.725,
+   "palavra": "China,",
+   "acao": "",
+   "whisper": 187.225
+  },
+  "18.india": {
+   "t": 187.725,
+   "fim": 188.285,
+   "palavra": "Índia,",
+   "acao": ""
+  },
+  "18.japao": {
+   "t": 188.388,
+   "fim": 188.645,
+   "palavra": "Japão",
+   "acao": "",
+   "whisper": 188.285
+  },
+  "18.coreia": {
+   "t": 188.694,
+   "fim": 189.175,
+   "palavra": "Coreia",
+   "acao": "",
+   "whisper": 188.715
+  },
+  "19.oleoduto": {
+   "t": 194.557,
+   "fim": 194.867,
+   "palavra": "óleo",
+   "acao": ""
+  },
+  "19.vermelho": {
+   "t": 196.607,
+   "fim": 197.467,
+   "palavra": "Vermelho,",
+   "acao": ""
+  },
+  "19.fujairah": {
+   "t": 198.817,
+   "fim": 199.387,
+   "palavra": "Fujairá,",
+   "acao": ""
+  },
+  "20.vinte": {
+   "t": 209.966,
+   "fim": 210.235,
+   "palavra": "vinte",
+   "acao": "",
+   "whisper": 209.915
+  },
+  "21.ameacou": {
+   "t": 214.356,
+   "fim": 214.806,
+   "palavra": "ameaçou",
+   "acao": ""
+  },
+  "21.oma": {
+   "t": 221.046,
+   "fim": 221.496,
+   "palavra": "Omã",
+   "acao": ""
+  },
+  "21.apreendido": {
+   "t": 223.096,
+   "fim": 223.836,
+   "palavra": "apreendido.",
+   "acao": ""
+  },
+  "22.aprovar": {
+   "t": 231.369,
+   "fim": 231.839,
+   "palavra": "aprovar",
+   "acao": ""
+  },
+  "22.aberto": {
+   "t": 238.079,
+   "fim": 238.729,
+   "palavra": "aberto.",
+   "acao": ""
+  },
+  "23.fevereiro": {
+   "t": 241.502,
+   "fim": 242.219,
+   "palavra": "fevereiro",
+   "acao": "",
+   "whisper": 241.499
+  },
+  "23.fechado": {
+   "t": 249.094,
+   "fim": 249.789,
+   "palavra": "fechado.",
+   "acao": "",
+   "whisper": 249.059
+  },
+  "24.atingidos": {
+   "t": 251.005,
+   "fim": 251.715,
+   "palavra": "atingidos,",
+   "acao": ""
+  },
+  "24.retiraram": {
+   "t": 252.655,
+   "fim": 253.315,
+   "palavra": "retiraram",
+   "acao": ""
+  },
+  "24.desabou": {
+   "t": 254.875,
+   "fim": 255.655,
+   "palavra": "desabou.",
+   "acao": ""
+  },
+  "25.brent": {
+   "t": 257.992,
+   "fim": 258.422,
+   "palavra": "Brand",
+   "acao": ""
+  },
+  "25.estoques": {
+   "t": 265.612,
+   "fim": 266.102,
+   "palavra": "estoques",
+   "acao": ""
+  },
+  "25.barris": {
+   "t": 269.172,
+   "fim": 269.822,
+   "palavra": "barris.",
+   "acao": ""
+  },
+  "26.oleoduto": {
+   "t": 274.042,
+   "fim": 274.332,
+   "palavra": "óleo",
+   "acao": ""
+  },
+  "26.compensar": {
+   "t": 277.382,
+   "fim": 278.182,
+   "palavra": "compensar.",
+   "acao": ""
+  },
+  "27.bloqueio": {
+   "t": 280.8,
+   "fim": 281.28,
+   "palavra": "bloqueio",
+   "acao": ""
+  },
+  "27.treguas": {
+   "t": 283.49,
+   "fim": 284.21,
+   "palavra": "tréguas,",
+   "acao": "",
+   "whisper": 283.45
+  },
+  "27.vez": {
+   "t": 288.0,
+   "fim": 288.47,
+   "palavra": "vez.",
+   "acao": ""
+  },
+  "28.metade": {
+   "t": 297.23,
+   "fim": 297.746,
+   "palavra": "metade",
+   "acao": "",
+   "whisper": 297.156
+  },
+  "28.outubro": {
+   "t": 299.386,
+   "fim": 299.946,
+   "palavra": "outubro",
+   "acao": ""
+  },
+  "29.crise": {
+   "t": 307.216,
+   "fim": 307.404,
+   "palavra": "crise",
+   "acao": "",
+   "whisper": 307.104
+  },
+  "30.passagem": {
+   "t": 313.422,
+   "fim": 313.866,
+   "palavra": "passagem",
+   "acao": "",
+   "whisper": 313.366
+  },
+  "31.kharg": {
+   "t": 321.812,
+   "fim": 322.452,
+   "palavra": "carga",
+   "acao": "",
+   "whisper": 321.812
+  },
+  "31.vizinhos": {
+   "t": 325.462,
+   "fim": 326.182,
+   "palavra": "vizinhos.",
+   "acao": ""
+  },
+  "32.toquio": {
+   "t": 331.651,
+   "fim": 332.218,
+   "palavra": "Tóquio,",
+   "acao": "",
+   "whisper": 331.638
+  },
+  "32.mumbai": {
+   "t": 332.328,
+   "fim": 332.908,
+   "palavra": "Mumbai",
+   "acao": ""
+  },
+  "32.brasil": {
+   "t": 333.738,
+   "fim": 334.168,
+   "palavra": "Brasil.",
+   "acao": ""
+  },
+  "33.siga": {
+   "t": 337.853,
+   "fim": 338.143,
+   "palavra": "siga",
+   "acao": ""
+  },
+  "33.sino": {
+   "t": 339.103,
+   "fim": 339.503,
+   "palavra": "sino.",
+   "acao": ""
+  },
+  "33.like": {
+   "t": 340.213,
+   "fim": 340.513,
+   "palavra": "like",
+   "acao": ""
+  },
+  "33.compartilhe": {
+   "t": 340.58,
+   "fim": 341.413,
+   "palavra": "compartilhe",
+   "acao": "",
+   "whisper": 340.563
+  },
+  "33.comentarios": {
+   "t": 343.106,
+   "fim": 344.023,
+   "palavra": "comentários.",
+   "acao": "",
+   "whisper": 343.113
+  },
+  "33.voltar": {
+   "t": 346.059,
+   "fim": 346.353,
+   "palavra": "voltar",
+   "acao": "",
+   "whisper": 346.003
+  }
+ }
+}

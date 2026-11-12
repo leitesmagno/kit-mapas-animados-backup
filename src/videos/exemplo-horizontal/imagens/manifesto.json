@@ -1,0 +1,383 @@
+{
+ "documentario": "exemplo-horizontal",
+ "imagens": {
+  "bomba-de-combustivel": {
+   "aprovada": null,
+   "atual": "635c12b561dd1bf7",
+   "cena": "conclusao",
+   "estado": "gerada",
+   "ilustrativa": true,
+   "obrigatoria": true,
+   "revisao": "pendente",
+   "tipo": "apoio",
+   "versoes": {
+    "635c12b561dd1bf7": {
+     "altura": 893,
+     "arquivo": "imagens-ia/exemplo-horizontal/bomba-de-combustivel/635c12b561dd1bf7.jpg",
+     "chave": "635c12b561dd1bf7",
+     "config": {
+      "proporcao": "16:9",
+      "referencias": [],
+      "tamanho": "2K"
+     },
+     "custo_usd": 0.05428,
+     "gerada_em": "2026-10-16T22:17:18+00:00",
+     "id": "bomba-de-combustivel",
+     "largura": 1600,
+     "mime": "image/jpeg",
+     "modelo": "gemini-nano-banana-2.1",
+     "prompt": "Illustrative documentary image supporting an economic, military, political or industrial explanation: ports, ships, pipelines, factories, cargo, infrastructure or generic equipment shown realistically. No identifiable insignia, hull numbers, company names or national markings.\n\nDocumentary subject: O Estreito de Ormuz e a rota do petróleo do Golfo Pérsico.\nHistorical and geographic context: Passagem marítima estreita entre o Golfo Pérsico e o Golfo de Omã, entre a costa do Irã ao norte e a península de Musandam (Omã) ao sul; costas áridas e montanhosas, tráfego intenso de petroleiros.\nPlace: Strait of Hormuz, between the Persian Gulf and the Gulf of Oman.\nPeriod: present day.\n\nWhat the image shows: A fuel nozzle inserted into a car at a gas station at night, close-up, warm station lights and soft bokeh in the background, no readable displays.\nNarrative purpose of this shot: O fecho: o estreito pesa no preço do combustível de quem assiste.\nVoice-over during this shot (for mood and meaning; do not write it in the image): \"Por isso, estes trinta e três quilômetros de água continuam pesando no preço do combustível em Tóquio, em Mumbai e também aqui no Brasil.\"\nContinuity with the previous shots: Same documentary look as the other images: warm hazy light, ochre and deep teal tones, restrained realism.\n\nVisual identity of the whole documentary: cinematic editorial documentary, professional, restrained, realistic.\nColor palette: deep teal sea, warm desert ochre, hazy dawn gold, oil black.\nLighting: low golden dawn light through light haze, soft long shadows.\nComposition: 16:9 horizontal frame for video, one clear focal point, readable on a phone screen, clean depth separation.\n\nStrictly avoid: no text, letters, numbers, captions, signs or watermarks anywhere in the image; no maps, borders, country outlines or cartographic elements; no flags, coats of arms, logos or national/military insignia; no recognizable real people, politicians or public figures; no generic AI look: no plastic skin, no oversaturated HDR, no lens-flare spam, no centered symmetrical cliché; explosions or combat; warships; flags, crosses or symbols on sails or ships; company names or logos; readable text.\n",
+     "versao": "635c12b561dd1bf7"
+    }
+   }
+  },
+  "estoques-de-emergencia": {
+   "aprovada": null,
+   "atual": "890bf364505a8eea",
+   "cena": "crise",
+   "estado": "gerada",
+   "ilustrativa": true,
+   "obrigatoria": true,
+   "revisao": "pendente",
+   "tipo": "apoio",
+   "versoes": {
+    "890bf364505a8eea": {
+     "altura": 893,
+     "arquivo": "imagens-ia/exemplo-horizontal/estoques-de-emergencia/890bf364505a8eea.jpg",
+     "chave": "890bf364505a8eea",
+     "config": {
+      "proporcao": "16:9",
+      "referencias": [],
+      "tamanho": "2K"
+     },
+     "custo_usd": 0.05349,
+     "gerada_em": "2026-10-16T22:16:40+00:00",
+     "id": "estoques-de-emergencia",
+     "largura": 1600,
+     "mime": "image/jpeg",
+     "modelo": "gemini-nano-banana-2.1",
+     "prompt": "Illustrative documentary image supporting an economic, military, political or industrial explanation: ports, ships, pipelines, factories, cargo, infrastructure or generic equipment shown realistically. No identifiable insignia, hull numbers, company names or national markings.\n\nDocumentary subject: O Estreito de Ormuz e a rota do petróleo do Golfo Pérsico.\nHistorical and geographic context: Passagem marítima estreita entre o Golfo Pérsico e o Golfo de Omã, entre a costa do Irã ao norte e a península de Musandam (Omã) ao sul; costas áridas e montanhosas, tráfego intenso de petroleiros.\nPlace: Strait of Hormuz, between the Persian Gulf and the Gulf of Oman.\nPeriod: present day.\n\nWhat the image shows: Rows of large white cylindrical oil storage tanks seen from above at golden hour, long shadows across the ground, orderly industrial pattern.\nNarrative purpose of this shot: Os estoques de emergência liberados pela Agência Internacional de Energia.\nVoice-over during this shot (for mood and meaning; do not write it in the image): \"Em oito de março, o barril do tipo Brent passou de cem dólares pela primeira vez em quatro anos. E a Agência Internacional de Energia coordenou a maior liberação de estoques de emergência da sua história: quatrocentos milhões de barris.\"\nContinuity with the previous shots: Same documentary look as the other images: warm hazy light, ochre and deep teal tones, restrained realism.\n\nVisual identity of the whole documentary: cinematic editorial documentary, professional, restrained, realistic.\nColor palette: deep teal sea, warm desert ochre, hazy dawn gold, oil black.\nLighting: low golden dawn light through light haze, soft long shadows.\nComposition: 16:9 horizontal frame for video, one clear focal point, readable on a phone screen, clean depth separation.\n\nStrictly avoid: no text, letters, numbers, captions, signs or watermarks anywhere in the image; no maps, borders, country outlines or cartographic elements; no flags, coats of arms, logos or national/military insignia; no recognizable real people, politicians or public figures; no generic AI look: no plastic skin, no oversaturated HDR, no lens-flare spam, no centered symmetrical cliché; explosions or combat; warships; flags, crosses or symbols on sails or ships; company names or logos; readable text.\n",
+     "versao": "890bf364505a8eea"
+    }
+   }
+  },
+  "fortaleza-portuguesa": {
+   "aprovada": null,
+   "atual": "a5aaae0a8b796f18",
+   "cena": "historia",
+   "estado": "gerada",
+   "ilustrativa": true,
+   "obrigatoria": true,
+   "revisao": "pendente",
+   "tipo": "historica",
+   "versoes": {
+    "a5aaae0a8b796f18": {
+     "altura": 893,
+     "arquivo": "imagens-ia/exemplo-horizontal/fortaleza-portuguesa/a5aaae0a8b796f18.jpg",
+     "chave": "a5aaae0a8b796f18",
+     "config": {
+      "proporcao": "16:9",
+      "referencias": [],
+      "tamanho": "2K"
+     },
+     "custo_usd": 0.05412,
+     "gerada_em": "2026-10-16T22:14:31+00:00",
+     "id": "fortaleza-portuguesa",
+     "largura": 1600,
+     "mime": "image/jpeg",
+     "modelo": "gemini-nano-banana-2.1",
+     "prompt": "Editorial historical ILLUSTRATION (clearly a painted/illustrated reconstruction, not a photograph): muted painterly rendering, period-plausible architecture, clothing and objects, natural light, documentary restraint. Generic figures only, seen from a distance or from behind; no recognizable real person.\n\nDocumentary subject: O Estreito de Ormuz e a rota do petróleo do Golfo Pérsico.\nHistorical and geographic context: Passagem marítima estreita entre o Golfo Pérsico e o Golfo de Omã, entre a costa do Irã ao norte e a península de Musandam (Omã) ao sul; costas áridas e montanhosas, tráfego intenso de petroleiros.\nPlace: Strait of Hormuz, between the Persian Gulf and the Gulf of Oman.\nPeriod: present day.\n\nWhat the image shows: Reconstruction of a 16th-century European stone fortress with angular bastions on the rocky shore of an arid island in the Persian Gulf, two carracks (naus) with plain cream sails anchored offshore, small boats near the shore, golden haze.\nNarrative purpose of this shot: Ilustrar a chegada portuguesa e a fortaleza, sem símbolos nas velas nem bandeiras.\nVoice-over during this shot (for mood and meaning; do not write it in the image): \"No começo do século dezesseis, chegaram os portugueses. Afonso de Albuquerque atacou Ormuz em mil quinhentos e sete e, em mil quinhentos e quinze, Portugal tomou a ilha e ergueu ali uma fortaleza.\"\nContinuity with the previous shots: Same documentary look as the other images: warm hazy light, ochre and deep teal tones, restrained realism.\n\nVisual identity of the whole documentary: cinematic editorial documentary, professional, restrained, realistic.\nColor palette: deep teal sea, warm desert ochre, hazy dawn gold, oil black.\nLighting: low golden dawn light through light haze, soft long shadows.\nComposition: 16:9 horizontal frame for video, one clear focal point, readable on a phone screen, clean depth separation.\n\nStrictly avoid: no text, letters, numbers, captions, signs or watermarks anywhere in the image; no maps, borders, country outlines or cartographic elements; no flags, coats of arms, logos or national/military insignia; no recognizable real people, politicians or public figures; no generic AI look: no plastic skin, no oversaturated HDR, no lens-flare spam, no centered symmetrical cliché; explosions or combat; warships; flags, crosses or symbols on sails or ships; company names or logos; readable text.\n",
+     "versao": "a5aaae0a8b796f18"
+    }
+   }
+  },
+  "guerra-dos-petroleiros": {
+   "aprovada": null,
+   "atual": "b45bac3bed867207",
+   "cena": "petroleo",
+   "estado": "gerada",
+   "ilustrativa": true,
+   "obrigatoria": true,
+   "revisao": "pendente",
+   "tipo": "historica",
+   "versoes": {
+    "b45bac3bed867207": {
+     "altura": 893,
+     "arquivo": "imagens-ia/exemplo-horizontal/guerra-dos-petroleiros/b45bac3bed867207.jpg",
+     "chave": "b45bac3bed867207",
+     "config": {
+      "proporcao": "16:9",
+      "referencias": [],
+      "tamanho": "2K"
+     },
+     "custo_usd": 0.05416,
+     "gerada_em": "2026-10-16T22:15:14+00:00",
+     "id": "guerra-dos-petroleiros",
+     "largura": 1600,
+     "mime": "image/jpeg",
+     "modelo": "gemini-nano-banana-2.1",
+     "prompt": "Editorial historical ILLUSTRATION (clearly a painted/illustrated reconstruction, not a photograph): muted painterly rendering, period-plausible architecture, clothing and objects, natural light, documentary restraint. Generic figures only, seen from a distance or from behind; no recognizable real person.\n\nDocumentary subject: O Estreito de Ormuz e a rota do petróleo do Golfo Pérsico.\nHistorical and geographic context: Passagem marítima estreita entre o Golfo Pérsico e o Golfo de Omã, entre a costa do Irã ao norte e a península de Musandam (Omã) ao sul; costas áridas e montanhosas, tráfego intenso de petroleiros.\nPlace: Strait of Hormuz, between the Persian Gulf and the Gulf of Oman.\nPeriod: present day.\n\nWhat the image shows: Reconstruction of a large 1980s oil tanker damaged at sea, a column of black smoke rising from its deck into a hazy sky, calm Gulf water, seen from a distance, painted documentary illustration style.\nNarrative purpose of this shot: A guerra dos petroleiros, como ilustração (não como foto do fato).\nVoice-over during this shot (for mood and meaning; do not write it in the image): \"Nos anos oitenta, durante a guerra entre o Irã e o Iraque, os dois lados atacaram navios no Golfo. Foi a chamada guerra dos petroleiros.\"\nContinuity with the previous shots: Same documentary look as the other images: warm hazy light, ochre and deep teal tones, restrained realism.\n\nVisual identity of the whole documentary: cinematic editorial documentary, professional, restrained, realistic.\nColor palette: deep teal sea, warm desert ochre, hazy dawn gold, oil black.\nLighting: low golden dawn light through light haze, soft long shadows.\nComposition: 16:9 horizontal frame for video, one clear focal point, readable on a phone screen, clean depth separation.\n\nStrictly avoid: no text, letters, numbers, captions, signs or watermarks anywhere in the image; no maps, borders, country outlines or cartographic elements; no flags, coats of arms, logos or national/military insignia; no recognizable real people, politicians or public figures; no generic AI look: no plastic skin, no oversaturated HDR, no lens-flare spam, no centered symmetrical cliché; explosions or combat; warships; flags, crosses or symbols on sails or ships; company names or logos; readable text.\n",
+     "versao": "b45bac3bed867207"
+    }
+   }
+  },
+  "navio-de-gas": {
+   "aprovada": null,
+   "atual": "f5e12fa95b18374f",
+   "cena": "dependencia",
+   "estado": "gerada",
+   "ilustrativa": true,
+   "obrigatoria": true,
+   "revisao": "pendente",
+   "tipo": "apoio",
+   "versoes": {
+    "f5e12fa95b18374f": {
+     "altura": 893,
+     "arquivo": "imagens-ia/exemplo-horizontal/navio-de-gas/f5e12fa95b18374f.jpg",
+     "chave": "f5e12fa95b18374f",
+     "config": {
+      "proporcao": "16:9",
+      "referencias": [],
+      "tamanho": "2K"
+     },
+     "custo_usd": 0.05416,
+     "gerada_em": "2026-10-16T22:15:37+00:00",
+     "id": "navio-de-gas",
+     "largura": 1600,
+     "mime": "image/jpeg",
+     "modelo": "gemini-nano-banana-2.1",
+     "prompt": "Illustrative documentary image supporting an economic, military, political or industrial explanation: ports, ships, pipelines, factories, cargo, infrastructure or generic equipment shown realistically. No identifiable insignia, hull numbers, company names or national markings.\n\nDocumentary subject: O Estreito de Ormuz e a rota do petróleo do Golfo Pérsico.\nHistorical and geographic context: Passagem marítima estreita entre o Golfo Pérsico e o Golfo de Omã, entre a costa do Irã ao norte e a península de Musandam (Omã) ao sul; costas áridas e montanhosas, tráfego intenso de petroleiros.\nPlace: Strait of Hormuz, between the Persian Gulf and the Gulf of Oman.\nPeriod: present day.\n\nWhat the image shows: An LNG carrier with four large white spherical tanks sailing on calm sea at dawn, seen from a low drone angle off its bow quarter, soft pink and gold light, slight haze.\nNarrative purpose of this shot: O gás do Catar: o navio de GNL como imagem do que passa pelo estreito.\nVoice-over during this shot (for mood and meaning; do not write it in the image): \"O Catar manda por esse caminho todo o seu gás natural liquefeito. Em dois mil e vinte e quatro, cerca de um quinto do gás liquefeito comercializado no mundo passou por Ormuz.\"\nContinuity with the previous shots: Same documentary look as the other images: warm hazy light, ochre and deep teal tones, restrained realism.\n\nVisual identity of the whole documentary: cinematic editorial documentary, professional, restrained, realistic.\nColor palette: deep teal sea, warm desert ochre, hazy dawn gold, oil black.\nLighting: low golden dawn light through light haze, soft long shadows.\nComposition: 16:9 horizontal frame for video, one clear focal point, readable on a phone screen, clean depth separation.\n\nStrictly avoid: no text, letters, numbers, captions, signs or watermarks anywhere in the image; no maps, borders, country outlines or cartographic elements; no flags, coats of arms, logos or national/military insignia; no recognizable real people, politicians or public figures; no generic AI look: no plastic skin, no oversaturated HDR, no lens-flare spam, no centered symmetrical cliché; explosions or combat; warships; flags, crosses or symbols on sails or ships; company names or logos; readable text.\n",
+     "versao": "f5e12fa95b18374f"
+    }
+   }
+  },
+  "navios-parados": {
+   "aprovada": null,
+   "atual": "998d06142b4ee8b8",
+   "cena": "crise",
+   "estado": "gerada",
+   "ilustrativa": true,
+   "obrigatoria": true,
+   "revisao": "pendente",
+   "tipo": "apoio",
+   "versoes": {
+    "998d06142b4ee8b8": {
+     "altura": 893,
+     "arquivo": "imagens-ia/exemplo-horizontal/navios-parados/998d06142b4ee8b8.jpg",
+     "chave": "998d06142b4ee8b8",
+     "config": {
+      "proporcao": "16:9",
+      "referencias": [],
+      "tamanho": "2K"
+     },
+     "custo_usd": 0.05388,
+     "gerada_em": "2026-10-16T22:16:19+00:00",
+     "id": "navios-parados",
+     "largura": 1600,
+     "mime": "image/jpeg",
+     "modelo": "gemini-nano-banana-2.1",
+     "prompt": "Illustrative documentary image supporting an economic, military, political or industrial explanation: ports, ships, pipelines, factories, cargo, infrastructure or generic equipment shown realistically. No identifiable insignia, hull numbers, company names or national markings.\n\nDocumentary subject: O Estreito de Ormuz e a rota do petróleo do Golfo Pérsico.\nHistorical and geographic context: Passagem marítima estreita entre o Golfo Pérsico e o Golfo de Omã, entre a costa do Irã ao norte e a península de Musandam (Omã) ao sul; costas áridas e montanhosas, tráfego intenso de petroleiros.\nPlace: Strait of Hormuz, between the Persian Gulf and the Gulf of Oman.\nPeriod: present day.\n\nWhat the image shows: Dozens of oil tankers and cargo ships anchored and waiting on a hazy sea at dusk, seen from a high distance, long calm water, tense still atmosphere.\nNarrative purpose of this shot: A crise de 2026: o tráfego parado, navios esperando.\nVoice-over during this shot (for mood and meaning; do not write it in the image): \"Navios foram atingidos, as seguradoras retiraram as coberturas, e o tráfego desabou.\"\nContinuity with the previous shots: Same documentary look as the other images: warm hazy light, ochre and deep teal tones, restrained realism.\n\nVisual identity of the whole documentary: cinematic editorial documentary, professional, restrained, realistic.\nColor palette: deep teal sea, warm desert ochre, hazy dawn gold, oil black.\nLighting: low golden dawn light through light haze, soft long shadows.\nComposition: 16:9 horizontal frame for video, one clear focal point, readable on a phone screen, clean depth separation.\n\nStrictly avoid: no text, letters, numbers, captions, signs or watermarks anywhere in the image; no maps, borders, country outlines or cartographic elements; no flags, coats of arms, logos or national/military insignia; no recognizable real people, politicians or public figures; no generic AI look: no plastic skin, no oversaturated HDR, no lens-flare spam, no centered symmetrical cliché; explosions or combat; warships; flags, crosses or symbols on sails or ships; company names or logos; readable text.\n",
+     "versao": "998d06142b4ee8b8"
+    }
+   }
+  },
+  "oleoduto-no-deserto": {
+   "aprovada": null,
+   "atual": "cd4bb18a09c73cb9",
+   "cena": "cena-07",
+   "estado": "gerada",
+   "ilustrativa": true,
+   "obrigatoria": true,
+   "revisao": "pendente",
+   "tipo": "apoio",
+   "versoes": {
+    "cd4bb18a09c73cb9": {
+     "altura": 893,
+     "arquivo": "imagens-ia/exemplo-horizontal/oleoduto-no-deserto/cd4bb18a09c73cb9.jpg",
+     "chave": "cd4bb18a09c73cb9",
+     "config": {
+      "proporcao": "16:9",
+      "referencias": [],
+      "tamanho": "2K"
+     },
+     "custo_usd": 0.05425,
+     "gerada_em": "2026-10-15T00:49:30+00:00",
+     "id": "oleoduto-no-deserto",
+     "largura": 1600,
+     "mime": "image/jpeg",
+     "modelo": "gemini-nano-banana-2.1",
+     "prompt": "Illustrative documentary image supporting an economic, military, political or industrial explanation: ports, ships, pipelines, factories, cargo, infrastructure or generic equipment shown realistically. No identifiable insignia, hull numbers, company names or national markings.\n\nDocumentary subject: O Estreito de Ormuz e a rota do petróleo do Golfo Pérsico.\nHistorical and geographic context: Passagem marítima estreita entre o Golfo Pérsico e o Golfo de Omã, entre a costa do Irã ao norte e a península de Musandam (Omã) ao sul; costas áridas e montanhosas, tráfego intenso de petroleiros.\nPlace: Strait of Hormuz, between the Persian Gulf and the Gulf of Oman.\nPeriod: present day.\n\nWhat the image shows: A long above-ground crude oil pipeline running straight across a flat arid desert toward hazy mountains on the horizon, late golden light, seen from a low drone angle slightly above the pipe, simple steel supports, sand ripples, empty landscape.\nNarrative purpose of this shot: Mostrar a alternativa por terra (o oleoduto) como algo longo e limitado, sem identificar um oleoduto real.\nVoice-over during this shot (for mood and meaning; do not write it in the image): \"Existem oleodutos que contornam o estreito, mas eles levariam só uma pequena parte dessa carga.\"\nContinuity with the previous shots: Same documentary as the tanker image: same dawn-gold haze, ochre desert tones and restrained realism.\n\nVisual identity of the whole documentary: cinematic editorial documentary, professional, restrained, realistic.\nColor palette: deep teal sea, warm desert ochre, hazy dawn gold, oil black.\nLighting: low golden dawn light through light haze, soft long shadows.\nComposition: 16:9 horizontal frame for video, one clear focal point, readable on a phone screen, clean depth separation.\nLayout: keep the left third of the frame calm and uncluttered for a title.\n\nStrictly avoid: no text, letters, numbers, captions, signs or watermarks anywhere in the image; no maps, borders, country outlines or cartographic elements; no flags, coats of arms, logos or national/military insignia; no recognizable real people, politicians or public figures; no generic AI look: no plastic skin, no oversaturated HDR, no lens-flare spam, no centered symmetrical cliché; explosions or combat; warships; company names, logos or markings on the pipe; people; fire or explosions.\n",
+     "versao": "cd4bb18a09c73cb9"
+    }
+   }
+  },
+  "ormuz-medieval": {
+   "aprovada": null,
+   "atual": "44d22e19ceb1f2be",
+   "cena": "historia",
+   "estado": "gerada",
+   "ilustrativa": true,
+   "obrigatoria": true,
+   "revisao": "pendente",
+   "tipo": "historica",
+   "versoes": {
+    "44d22e19ceb1f2be": {
+     "altura": 893,
+     "arquivo": "imagens-ia/exemplo-horizontal/ormuz-medieval/44d22e19ceb1f2be.jpg",
+     "chave": "44d22e19ceb1f2be",
+     "config": {
+      "proporcao": "16:9",
+      "referencias": [],
+      "tamanho": "2K"
+     },
+     "custo_usd": 0.05424,
+     "gerada_em": "2026-10-16T22:14:11+00:00",
+     "id": "ormuz-medieval",
+     "largura": 1600,
+     "mime": "image/jpeg",
+     "modelo": "gemini-nano-banana-2.1",
+     "prompt": "Editorial historical ILLUSTRATION (clearly a painted/illustrated reconstruction, not a photograph): muted painterly rendering, period-plausible architecture, clothing and objects, natural light, documentary restraint. Generic figures only, seen from a distance or from behind; no recognizable real person.\n\nDocumentary subject: O Estreito de Ormuz e a rota do petróleo do Golfo Pérsico.\nHistorical and geographic context: Passagem marítima estreita entre o Golfo Pérsico e o Golfo de Omã, entre a costa do Irã ao norte e a península de Musandam (Omã) ao sul; costas áridas e montanhosas, tráfego intenso de petroleiros.\nPlace: Strait of Hormuz, between the Persian Gulf and the Gulf of Oman.\nPeriod: present day.\n\nWhat the image shows: Reconstruction of the medieval port city on the small arid island of Hormuz around the 14th century: low whitewashed and mud-brick houses with wind towers, a busy harbor full of wooden dhows with lateen sails, merchants unloading bales and spice sacks, red-ochre hills of the island behind, warm afternoon light.\nNarrative purpose of this shot: Mostrar a riqueza antiga do lugar: Ormuz como entreposto de comércio, antes do petróleo.\nVoice-over during this shot (for mood and meaning; do not write it in the image): \"A disputa por este lugar é antiga. Na Idade Média, a ilha de Ormuz era o centro de um reino que vivia do comércio entre a Índia, a Pérsia e a Arábia.\"\nContinuity with the previous shots: Same documentary look as the other images: warm hazy light, ochre and deep teal tones, restrained realism.\n\nVisual identity of the whole documentary: cinematic editorial documentary, professional, restrained, realistic.\nColor palette: deep teal sea, warm desert ochre, hazy dawn gold, oil black.\nLighting: low golden dawn light through light haze, soft long shadows.\nComposition: 16:9 horizontal frame for video, one clear focal point, readable on a phone screen, clean depth separation.\n\nStrictly avoid: no text, letters, numbers, captions, signs or watermarks anywhere in the image; no maps, borders, country outlines or cartographic elements; no flags, coats of arms, logos or national/military insignia; no recognizable real people, politicians or public figures; no generic AI look: no plastic skin, no oversaturated HDR, no lens-flare spam, no centered symmetrical cliché; explosions or combat; warships; flags, crosses or symbols on sails or ships; company names or logos; readable text.\n",
+     "versao": "44d22e19ceb1f2be"
+    }
+   }
+  },
+  "petroleiros-no-estreito": {
+   "aprovada": null,
+   "atual": "24c5ae843ea2dd81",
+   "cena": "cena-04",
+   "estado": "gerada",
+   "ilustrativa": true,
+   "obrigatoria": true,
+   "revisao": "pendente",
+   "tipo": "paisagem",
+   "versoes": {
+    "24c5ae843ea2dd81": {
+     "altura": 893,
+     "arquivo": "imagens-ia/exemplo-horizontal/petroleiros-no-estreito/24c5ae843ea2dd81.jpg",
+     "chave": "24c5ae843ea2dd81",
+     "config": {
+      "proporcao": "16:9",
+      "referencias": [],
+      "tamanho": "2K"
+     },
+     "custo_usd": 0.05439,
+     "gerada_em": "2026-10-15T00:49:12+00:00",
+     "id": "petroleiros-no-estreito",
+     "largura": 1600,
+     "mime": "image/jpeg",
+     "modelo": "gemini-nano-banana-2.1",
+     "prompt": "Illustrative documentary photograph of a landscape or environment: realistic textures, natural light, believable real-camera lens, honest color, atmospheric depth. Looks like a careful location photograph, not a stock image.\n\nDocumentary subject: O Estreito de Ormuz e a rota do petróleo do Golfo Pérsico.\nHistorical and geographic context: Passagem marítima estreita entre o Golfo Pérsico e o Golfo de Omã, entre a costa do Irã ao norte e a península de Musandam (Omã) ao sul; costas áridas e montanhosas, tráfego intenso de petroleiros.\nPlace: Strait of Hormuz, between the Persian Gulf and the Gulf of Oman.\nPeriod: present day.\n\nWhat the image shows: Two large crude oil tankers sailing in line through a narrow sea passage at dawn, arid rocky mountains of the coast in the hazy background, calm water with long reflections, seen from a high distance like a long-lens shot.\nNarrative purpose of this shot: Abrir o documentário situando o espectador: a escala dos navios contra a passagem estreita.\nVoice-over during this shot (for mood and meaning; do not write it in the image): \"Por ali passam petroleiros de vários países do Golfo, e a Arábia Saudita é quem mais exporta por esse caminho.\"\n\nVisual identity of the whole documentary: cinematic editorial documentary, professional, restrained, realistic.\nColor palette: deep teal sea, warm desert ochre, hazy dawn gold, oil black.\nLighting: low golden dawn light through light haze, soft long shadows.\nComposition: 16:9 horizontal frame for video, one clear focal point, readable on a phone screen, clean depth separation.\nLayout: keep the left third of the frame calm and uncluttered for a title.\n\nStrictly avoid: no text, letters, numbers, captions, signs or watermarks anywhere in the image; no maps, borders, country outlines or cartographic elements; no flags, coats of arms, logos or national/military insignia; no recognizable real people, politicians or public figures; no generic AI look: no plastic skin, no oversaturated HDR, no lens-flare spam, no centered symmetrical cliché; explosions or combat; warships; visible company names or flags on the ships.\n",
+     "versao": "24c5ae843ea2dd81"
+    },
+    "438f6ef8940b26ce": {
+     "altura": 893,
+     "arquivo": "imagens-ia/exemplo-horizontal/petroleiros-no-estreito/438f6ef8940b26ce.jpg",
+     "chave": "438f6ef8940b26ce",
+     "config": {
+      "proporcao": "16:9",
+      "referencias": [],
+      "tamanho": "2K"
+     },
+     "custo_usd": 0.05427,
+     "gerada_em": "2026-10-15T00:07:06+00:00",
+     "id": "petroleiros-no-estreito",
+     "largura": 1600,
+     "mime": "image/jpeg",
+     "modelo": "gemini-nano-banana-2.1",
+     "prompt": "Illustrative documentary photograph of a landscape or environment: realistic textures, natural light, believable real-camera lens, honest color, atmospheric depth. Looks like a careful location photograph, not a stock image.\n\nDocumentary subject: O Estreito de Ormuz e a rota do petróleo do Golfo Pérsico.\nHistorical and geographic context: Passagem marítima estreita entre o Golfo Pérsico e o Golfo de Omã, entre a costa do Irã ao norte e a península de Musandam (Omã) ao sul; costas áridas e montanhosas, tráfego intenso de petroleiros.\nPlace: Strait of Hormuz, between the Persian Gulf and the Gulf of Oman.\nPeriod: present day.\n\nWhat the image shows: Two large crude oil tankers sailing in line through a narrow sea passage at dawn, arid rocky mountains of the coast in the hazy background, calm water with long reflections, seen from a high distance like a long-lens shot.\nNarrative purpose of this shot: Abrir o documentário situando o espectador: a escala dos navios contra a passagem estreita.\nVoice-over during this shot (for mood and meaning; do not write it in the image): \"Por esta passagem estreita entre o Irã e Omã, navega boa parte do petróleo do mundo.\"\n\nVisual identity of the whole documentary: cinematic editorial documentary, professional, restrained, realistic.\nColor palette: deep teal sea, warm desert ochre, hazy dawn gold, oil black.\nLighting: low golden dawn light through light haze, soft long shadows.\nComposition: 16:9 horizontal frame for video, one clear focal point, readable on a phone screen, clean depth separation.\nLayout: keep the left third of the frame calm and uncluttered for a title.\n\nStrictly avoid: no text, letters, numbers, captions, signs or watermarks anywhere in the image; no maps, borders, country outlines or cartographic elements; no flags, coats of arms, logos or national/military insignia; no recognizable real people, politicians or public figures; no generic AI look: no plastic skin, no oversaturated HDR, no lens-flare spam, no centered symmetrical cliché; explosions or combat; warships; visible company names or flags on the ships.\n",
+     "versao": "438f6ef8940b26ce"
+    }
+   }
+  },
+  "poco-de-petroleo-1908": {
+   "aprovada": null,
+   "atual": "fd4da46f81e579b1",
+   "cena": "petroleo",
+   "estado": "gerada",
+   "ilustrativa": true,
+   "obrigatoria": true,
+   "revisao": "pendente",
+   "tipo": "historica",
+   "versoes": {
+    "fd4da46f81e579b1": {
+     "altura": 893,
+     "arquivo": "imagens-ia/exemplo-horizontal/poco-de-petroleo-1908/fd4da46f81e579b1.jpg",
+     "chave": "fd4da46f81e579b1",
+     "config": {
+      "proporcao": "16:9",
+      "referencias": [],
+      "tamanho": "2K"
+     },
+     "custo_usd": 0.05435,
+     "gerada_em": "2026-10-16T22:14:52+00:00",
+     "id": "poco-de-petroleo-1908",
+     "largura": 1600,
+     "mime": "image/jpeg",
+     "modelo": "gemini-nano-banana-2.1",
+     "prompt": "Editorial historical ILLUSTRATION (clearly a painted/illustrated reconstruction, not a photograph): muted painterly rendering, period-plausible architecture, clothing and objects, natural light, documentary restraint. Generic figures only, seen from a distance or from behind; no recognizable real person.\n\nDocumentary subject: O Estreito de Ormuz e a rota do petróleo do Golfo Pérsico.\nHistorical and geographic context: Passagem marítima estreita entre o Golfo Pérsico e o Golfo de Omã, entre a costa do Irã ao norte e a península de Musandam (Omã) ao sul; costas áridas e montanhosas, tráfego intenso de petroleiros.\nPlace: Strait of Hormuz, between the Persian Gulf and the Gulf of Oman.\nPeriod: present day.\n\nWhat the image shows: Reconstruction of an early 20th-century wooden oil derrick in a rocky arid valley in Persia, a small steam engine and tents nearby, a few workers seen from far away, dust in the air, sepia-tinted warm light.\nNarrative purpose of this shot: A virada: o petróleo debaixo da areia muda o valor da região.\nVoice-over during this shot (for mood and meaning; do not write it in the image): \"No século vinte, o valor do estreito mudou por causa do que estava debaixo da areia. Petróleo no Irã, em mil novecentos e oito. Na Arábia Saudita, em mil novecentos e trinta e oito.\"\nContinuity with the previous shots: Same documentary look as the other images: warm hazy light, ochre and deep teal tones, restrained realism.\n\nVisual identity of the whole documentary: cinematic editorial documentary, professional, restrained, realistic.\nColor palette: deep teal sea, warm desert ochre, hazy dawn gold, oil black.\nLighting: low golden dawn light through light haze, soft long shadows.\nComposition: 16:9 horizontal frame for video, one clear focal point, readable on a phone screen, clean depth separation.\n\nStrictly avoid: no text, letters, numbers, captions, signs or watermarks anywhere in the image; no maps, borders, country outlines or cartographic elements; no flags, coats of arms, logos or national/military insignia; no recognizable real people, politicians or public figures; no generic AI look: no plastic skin, no oversaturated HDR, no lens-flare spam, no centered symmetrical cliché; explosions or combat; warships; flags, crosses or symbols on sails or ships; company names or logos; readable text.\n",
+     "versao": "fd4da46f81e579b1"
+    }
+   }
+  },
+  "porto-asiatico": {
+   "aprovada": null,
+   "atual": "a42d2b1d8470423a",
+   "cena": "dependencia",
+   "estado": "gerada",
+   "ilustrativa": true,
+   "obrigatoria": true,
+   "revisao": "pendente",
+   "tipo": "apoio",
+   "versoes": {
+    "a42d2b1d8470423a": {
+     "altura": 893,
+     "arquivo": "imagens-ia/exemplo-horizontal/porto-asiatico/a42d2b1d8470423a.jpg",
+     "chave": "a42d2b1d8470423a",
+     "config": {
+      "proporcao": "16:9",
+      "referencias": [],
+      "tamanho": "2K"
+     },
+     "custo_usd": 0.05361,
+     "gerada_em": "2026-10-16T22:15:59+00:00",
+     "id": "porto-asiatico",
+     "largura": 1600,
+     "mime": "image/jpeg",
+     "modelo": "gemini-nano-banana-2.1",
+     "prompt": "Illustrative documentary image supporting an economic, military, political or industrial explanation: ports, ships, pipelines, factories, cargo, infrastructure or generic equipment shown realistically. No identifiable insignia, hull numbers, company names or national markings.\n\nDocumentary subject: O Estreito de Ormuz e a rota do petróleo do Golfo Pérsico.\nHistorical and geographic context: Passagem marítima estreita entre o Golfo Pérsico e o Golfo de Omã, entre a costa do Irã ao norte e a península de Musandam (Omã) ao sul; costas áridas e montanhosas, tráfego intenso de petroleiros.\nPlace: Strait of Hormuz, between the Persian Gulf and the Gulf of Oman.\nPeriod: present day.\n\nWhat the image shows: A large oil refinery and tanker terminal on an Asian coastline at blue hour, a crude oil tanker moored at the jetty, refinery towers lit with warm lights reflecting on the water, slight haze.\nNarrative purpose of this shot: O destino do petróleo: a Ásia que compra.\nVoice-over during this shot (for mood and meaning; do not write it in the image): \"E quem compra é a Ásia: oitenta e quatro por cento do petróleo bruto ia para lá. China, Índia, Japão e Coreia do Sul ficavam com quase setenta por cento.\"\nContinuity with the previous shots: Same documentary look as the other images: warm hazy light, ochre and deep teal tones, restrained realism.\n\nVisual identity of the whole documentary: cinematic editorial documentary, professional, restrained, realistic.\nColor palette: deep teal sea, warm desert ochre, hazy dawn gold, oil black.\nLighting: low golden dawn light through light haze, soft long shadows.\nComposition: 16:9 horizontal frame for video, one clear focal point, readable on a phone screen, clean depth separation.\n\nStrictly avoid: no text, letters, numbers, captions, signs or watermarks anywhere in the image; no maps, borders, country outlines or cartographic elements; no flags, coats of arms, logos or national/military insignia; no recognizable real people, politicians or public figures; no generic AI look: no plastic skin, no oversaturated HDR, no lens-flare spam, no centered symmetrical cliché; explosions or combat; warships; flags, crosses or symbols on sails or ships; company names or logos; readable text.\n",
+     "versao": "a42d2b1d8470423a"
+    }
+   }
+  },
+  "terminal-na-ilha": {
+   "aprovada": null,
+   "atual": "50bd804a224841ce",
+   "cena": "conclusao",
+   "estado": "gerada",
+   "ilustrativa": true,
+   "obrigatoria": true,
+   "revisao": "pendente",
+   "tipo": "apoio",
+   "versoes": {
+    "50bd804a224841ce": {
+     "altura": 893,
+     "arquivo": "imagens-ia/exemplo-horizontal/terminal-na-ilha/50bd804a224841ce.jpg",
+     "chave": "50bd804a224841ce",
+     "config": {
+      "proporcao": "16:9",
+      "referencias": [],
+      "tamanho": "2K"
+     },
+     "custo_usd": 0.05362,
+     "gerada_em": "2026-10-16T22:17:00+00:00",
+     "id": "terminal-na-ilha",
+     "largura": 1600,
+     "mime": "image/jpeg",
+     "modelo": "gemini-nano-banana-2.1",
+     "prompt": "Illustrative documentary image supporting an economic, military, political or industrial explanation: ports, ships, pipelines, factories, cargo, infrastructure or generic equipment shown realistically. No identifiable insignia, hull numbers, company names or national markings.\n\nDocumentary subject: O Estreito de Ormuz e a rota do petróleo do Golfo Pérsico.\nHistorical and geographic context: Passagem marítima estreita entre o Golfo Pérsico e o Golfo de Omã, entre a costa do Irã ao norte e a península de Musandam (Omã) ao sul; costas áridas e montanhosas, tráfego intenso de petroleiros.\nPlace: Strait of Hormuz, between the Persian Gulf and the Gulf of Oman.\nPeriod: present day.\n\nWhat the image shows: A long offshore oil loading jetty extending from a low arid island into a hazy sea, two crude tankers moored along it, aerial view from far away, warm light.\nNarrative purpose of this shot: O Irã também depende do estreito: o terminal na ilha, dentro do Golfo (genérico, não um terminal identificável).\nVoice-over during this shot (for mood and meaning; do not write it in the image): \"Mas é um poder caro. O próprio Irã embarcava quase todo o seu petróleo na ilha de Kharg, dentro do Golfo. E precisa do estreito tanto quanto os vizinhos.\"\nContinuity with the previous shots: Same documentary look as the other images: warm hazy light, ochre and deep teal tones, restrained realism.\n\nVisual identity of the whole documentary: cinematic editorial documentary, professional, restrained, realistic.\nColor palette: deep teal sea, warm desert ochre, hazy dawn gold, oil black.\nLighting: low golden dawn light through light haze, soft long shadows.\nComposition: 16:9 horizontal frame for video, one clear focal point, readable on a phone screen, clean depth separation.\n\nStrictly avoid: no text, letters, numbers, captions, signs or watermarks anywhere in the image; no maps, borders, country outlines or cartographic elements; no flags, coats of arms, logos or national/military insignia; no recognizable real people, politicians or public figures; no generic AI look: no plastic skin, no oversaturated HDR, no lens-flare spam, no centered symmetrical cliché; explosions or combat; warships; flags, crosses or symbols on sails or ships; company names or logos; readable text.\n",
+     "versao": "50bd804a224841ce"
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,55 @@
+{
+ "pastaDoAudio": "audios/narracao/exemplo-horizontal",
+ "inicio": 0.4,
+ "pausa": 0.42,
+ "correcoes": [
+  [
+   [
+    "musanda"
+   ],
+   "Musandam"
+  ],
+  [
+   [
+    "oman"
+   ],
+   "Omã"
+  ],
+  [
+   [
+    "hormuz"
+   ],
+   "Ormuz"
+  ],
+  [
+   [
+    "golfo"
+   ],
+   "Golfo"
+  ],
+  [
+   [
+    "persico"
+   ],
+   "Pérsico"
+  ],
+  [
+   [
+    "oleodutos"
+   ],
+   "oleodutos"
+  ],
+  [
+   [
+    "norte"
+   ],
+   "norte"
+  ]
+ ],
+ "apelidos": {
+  "tunb": "tumbes",
+  "brent": "brand",
+  "kharg": "carga"
+ },
+ "ajustes": {}
+}

@@ -1,0 +1,57 @@
+{
+  "name": "kit-mapas-animados",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Kit Mapas Animados: vídeos de mapa (Shorts 9:16 e documentário 16:9) em Remotion, com satélite, dados oficiais e narração sincronizada palavra a palavra — operado pelo Claude Code.",
+  "type": "module",
+  "scripts": {
+    "instalar": "node scripts/instalar.mjs",
+    "verificar": "node scripts/instalar.mjs --verificar",
+    "dev": "remotion studio",
+    "studio": "remotion studio",
+    "typecheck": "tsc --noEmit",
+    "sons": "node scripts/sons.mjs",
+    "tiles": "tsx scripts/tiles.ts",
+    "narrar": "tsx scripts/narrar.ts",
+    "voz": "tsx scripts/voz.ts",
+    "sincronizar": "node scripts/py.mjs venv-whisper scripts/sincronizar.py",
+    "dados": "node scripts/dados.mjs",
+    "fotos": "node scripts/py.mjs venv-geo scripts/fotos.py",
+    "folha": "node scripts/folha.mjs",
+    "render": "node scripts/render.mjs",
+    "imagens:preparar": "node scripts/instalar.mjs",
+    "imagens:testes": "node scripts/py.mjs venv-imagens -m pytest -q -p no:cacheprovider scripts/imagens/testes",
+    "imagens": "node scripts/py.mjs venv-imagens -m scripts.imagens",
+    "thumb": "node scripts/thumb/thumb.mjs",
+    "publicacao": "tsx scripts/publicacao.ts",
+    "tse": "node scripts/tse-baixar.mjs"
+  },
+  "dependencies": {
+    "@fontsource/anton": "^5.3.0",
+    "@fontsource/archivo-black": "^5.3.0",
+    "@fontsource/bangers": "^5.3.0",
+    "@fontsource/bebas-neue": "^5.3.0",
+    "@fontsource/inter": "^5.1.0",
+    "@fontsource/luckiest-guy": "^5.3.0",
+    "@fontsource/montserrat": "^5.3.0",
+    "@fontsource/poppins": "^5.3.0",
+    "@remotion/cli": "4.0.530",
+    "@remotion/layout-utils": "4.0.530",
+    "d3-geo": "^3.1.1",
+    "react": "19.1.0",
+    "react-dom": "19.1.0",
+    "remotion": "4.0.530"
+  },
+  "devDependencies": {
+    "@remotion/bundler": "4.0.530",
+    "@remotion/renderer": "4.0.530",
+    "@types/d3-geo": "^3.1.1",
+    "@types/react": "^19.1.0",
+    "@types/react-dom": "^19.1.0",
+    "tsx": "^4.19.2",
+    "typescript": "^5.6.0"
+  },
+  "overrides": {
+    "zod": "^4.6.6"
+  }
+}

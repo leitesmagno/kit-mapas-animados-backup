@@ -1,0 +1,5195 @@
+[
+ {
+  "scene": "orm-01",
+  "arquivo": "audios/narracao/exemplo-horizontal/orm-01.mp3",
+  "start": 0.4,
+  "end": 13.749,
+  "texto": "Em fevereiro de 2026, um corredor de água com pouco mais de 30 quilômetros de largura entrou no centro da maior interrupção no fornecimento de petróleo da história, segundo a Agência Internacional de Energia.",
+  "segments": [
+   {
+    "start": 0.44,
+    "end": 13.66,
+    "text": "Em fevereiro de 2026, um corredor de água com pouco mais de 30 quilômetros de largura entrou no centro da maior interrupção no fornecimento de petróleo da história, segundo a Agência Internacional de Energia."
+   }
+  ],
+  "words": [
+   {
+    "word": "Em",
+    "start": 0.44,
+    "end": 0.58
+   },
+   {
+    "word": "fevereiro",
+    "start": 0.58,
+    "end": 1.39
+   },
+   {
+    "word": "de",
+    "start": 1.39,
+    "end": 1.57
+   },
+   {
+    "word": "2026",
+    "start": 1.57,
+    "end": 2.91
+   },
+   {
+    "word": "um",
+    "start": 2.91,
+    "end": 2.98
+   },
+   {
+    "word": "corredor",
+    "start": 2.98,
+    "end": 3.46
+   },
+   {
+    "word": "de",
+    "start": 3.46,
+    "end": 3.58
+   },
+   {
+    "word": "água",
+    "start": 3.58,
+    "end": 3.82
+   },
+   {
+    "word": "com",
+    "start": 3.82,
+    "end": 4.0
+   },
+   {
+    "word": "pouco",
+    "start": 4.0,
+    "end": 4.3
+   },
+   {
+    "word": "mais",
+    "start": 4.3,
+    "end": 4.54
+   },
+   {
+    "word": "de",
+    "start": 4.54,
+    "end": 4.66
+   },
+   {
+    "word": "30",
+    "start": 4.66,
+    "end": 5.02
+   },
+   {
+    "word": "quilômetros",
+    "start": 5.02,
+    "end": 5.76
+   },
+   {
+    "word": "de",
+    "start": 5.76,
+    "end": 5.96
+   },
+   {
+    "word": "largura",
+    "start": 5.96,
+    "end": 6.66
+   },
+   {
+    "word": "entrou",
+    "start": 6.66,
+    "end": 7.05
+   },
+   {
+    "word": "no",
+    "start": 7.05,
+    "end": 7.18
+   },
+   {
+    "word": "centro",
+    "start": 7.18,
+    "end": 7.57
+   },
+   {
+    "word": "da",
+    "start": 7.57,
+    "end": 7.7
+   },
+   {
+    "word": "maior",
+    "start": 7.7,
+    "end": 8.03
+   },
+   {
+    "word": "interrupção",
+    "start": 8.03,
+    "end": 8.74
+   },
+   {
+    "word": "no",
+    "start": 8.74,
+    "end": 8.87
+   },
+   {
+    "word": "fornecimento",
+    "start": 8.87,
+    "end": 9.66
+   },
+   {
+    "word": "de",
+    "start": 9.66,
+    "end": 9.79
+   },
+   {
+    "word": "petróleo",
+    "start": 9.79,
+    "end": 10.31
+   },
+   {
+    "word": "da",
+    "start": 10.31,
+    "end": 10.44
+   },
+   {
+    "word": "história",
+    "start": 10.44,
+    "end": 11.24
+   },
+   {
+    "word": "segundo",
+    "start": 11.24,
+    "end": 11.58
+   },
+   {
+    "word": "a",
+    "start": 11.58,
+    "end": 11.64
+   },
+   {
+    "word": "Agência",
+    "start": 11.64,
+    "end": 12.11
+   },
+   {
+    "word": "Internacional",
+    "start": 12.11,
+    "end": 12.99
+   },
+   {
+    "word": "de",
+    "start": 12.99,
+    "end": 13.12
+   },
+   {
+    "word": "Energia",
+    "start": 13.12,
+    "end": 13.66
+   }
+  ]
+ },
+ {
+  "scene": "orm-02",
+  "arquivo": "audios/narracao/exemplo-horizontal/orm-02.mp3",
+  "start": 14.169,
+  "end": 21.196,
+  "texto": "Antes da guerra passavam por ali cerca de vinte milhões de barris por dia, um em cada cinco barris consumidos no planeta.",
+  "segments": [
+   {
+    "start": 14.249,
+    "end": 21.069,
+    "text": "Antes da guerra passavam por ali cerca de vinte milhões de barris por dia, um em cada cinco barris consumidos no planeta."
+   }
+  ],
+  "words": [
+   {
+    "word": "Antes",
+    "start": 14.249,
+    "end": 14.509
+   },
+   {
+    "word": "da",
+    "start": 14.509,
+    "end": 14.639
+   },
+   {
+    "word": "guerra",
+    "start": 14.639,
+    "end": 15.049
+   },
+   {
+    "word": "passavam",
+    "start": 15.049,
+    "end": 15.589
+   },
+   {
+    "word": "por",
+    "start": 15.589,
+    "end": 15.789
+   },
+   {
+    "word": "ali",
+    "start": 15.789,
+    "end": 15.989
+   },
+   {
+    "word": "cerca",
+    "start": 15.989,
+    "end": 16.329
+   },
+   {
+    "word": "de",
+    "start": 16.329,
+    "end": 16.459
+   },
+   {
+    "word": "vinte",
+    "start": 16.459,
+    "end": 16.789
+   },
+   {
+    "word": "milhões",
+    "start": 16.789,
+    "end": 17.269
+   },
+   {
+    "word": "de",
+    "start": 17.269,
+    "end": 17.389
+   },
+   {
+    "word": "barris",
+    "start": 17.389,
+    "end": 17.799
+   },
+   {
+    "word": "por",
+    "start": 17.799,
+    "end": 17.999
+   },
+   {
+    "word": "dia",
+    "start": 17.999,
+    "end": 18.419
+   },
+   {
+    "word": "um",
+    "start": 18.419,
+    "end": 18.489
+   },
+   {
+    "word": "em",
+    "start": 18.489,
+    "end": 18.609
+   },
+   {
+    "word": "cada",
+    "start": 18.609,
+    "end": 18.949
+   },
+   {
+    "word": "cinco",
+    "start": 18.949,
+    "end": 19.289
+   },
+   {
+    "word": "barris",
+    "start": 19.289,
+    "end": 19.669
+   },
+   {
+    "word": "consumidos",
+    "start": 19.669,
+    "end": 20.299
+   },
+   {
+    "word": "no",
+    "start": 20.299,
+    "end": 20.419
+   },
+   {
+    "word": "planeta",
+    "start": 20.419,
+    "end": 21.069
+   }
+  ]
+ },
+ {
+  "scene": "orm-03",
+  "arquivo": "audios/narracao/exemplo-horizontal/orm-03.mp3",
+  "start": 21.616,
+  "end": 27.755,
+  "texto": "Este é o estreito de ormos, e para entender por que ele importa tanto, é preciso olhar para o mapa.",
+  "segments": [
+   {
+    "start": 21.626,
+    "end": 27.696,
+    "text": "Este é o estreito de ormos, e para entender por que ele importa tanto, é preciso olhar para o mapa."
+   }
+  ],
+  "words": [
+   {
+    "word": "Este",
+    "start": 21.626,
+    "end": 21.996
+   },
+   {
+    "word": "é",
+    "start": 21.996,
+    "end": 22.086
+   },
+   {
+    "word": "o",
+    "start": 22.086,
+    "end": 22.176
+   },
+   {
+    "word": "estreito",
+    "start": 22.176,
+    "end": 22.926
+   },
+   {
+    "word": "de",
+    "start": 22.926,
+    "end": 23.116
+   },
+   {
+    "word": "ormos",
+    "start": 23.116,
+    "end": 23.716
+   },
+   {
+    "word": "e",
+    "start": 23.716,
+    "end": 23.786
+   },
+   {
+    "word": "para",
+    "start": 23.786,
+    "end": 23.966
+   },
+   {
+    "word": "entender",
+    "start": 23.966,
+    "end": 24.376
+   },
+   {
+    "word": "por",
+    "start": 24.376,
+    "end": 24.616
+   },
+   {
+    "word": "que",
+    "start": 24.616,
+    "end": 24.856
+   },
+   {
+    "word": "ele",
+    "start": 24.856,
+    "end": 25.136
+   },
+   {
+    "word": "importa",
+    "start": 25.136,
+    "end": 25.666
+   },
+   {
+    "word": "tanto",
+    "start": 25.666,
+    "end": 26.216
+   },
+   {
+    "word": "é",
+    "start": 26.216,
+    "end": 26.296
+   },
+   {
+    "word": "preciso",
+    "start": 26.296,
+    "end": 26.636
+   },
+   {
+    "word": "olhar",
+    "start": 26.636,
+    "end": 26.916
+   },
+   {
+    "word": "para",
+    "start": 26.916,
+    "end": 27.176
+   },
+   {
+    "word": "o",
+    "start": 27.176,
+    "end": 27.236
+   },
+   {
+    "word": "mapa",
+    "start": 27.236,
+    "end": 27.696
+   }
+  ]
+ },
+ {
+  "scene": "orm-04",
+  "arquivo": "audios/narracao/exemplo-horizontal/orm-04.mp3",
+  "start": 28.654,
+  "end": 39.443,
+  "texto": "O Golfo Pérsico é um mar quase fechado, de um lado, o Irã, do outro, a Arábia Saudita, o Kuwait, o Iraque, o Qatar, o Bahrein e os Emirados Árabes Unidos.",
+  "segments": [
+   {
+    "start": 28.734,
+    "end": 39.414,
+    "text": "O Golfo Pérsico é um mar quase fechado, de um lado, o Irã, do outro, a Arábia Saudita, o Kuwait, o Iraque, o Qatar, o Bahrein e os Emirados Árabes Unidos."
+   }
+  ],
+  "words": [
+   {
+    "word": "O",
+    "start": 28.734,
+    "end": 28.754
+   },
+   {
+    "word": "Golfo",
+    "start": 28.754,
+    "end": 29.144
+   },
+   {
+    "word": "Pérsico",
+    "start": 29.144,
+    "end": 29.704
+   },
+   {
+    "word": "é",
+    "start": 29.704,
+    "end": 29.784
+   },
+   {
+    "word": "um",
+    "start": 29.784,
+    "end": 29.944
+   },
+   {
+    "word": "mar",
+    "start": 29.944,
+    "end": 30.204
+   },
+   {
+    "word": "quase",
+    "start": 30.204,
+    "end": 30.594
+   },
+   {
+    "word": "fechado",
+    "start": 30.594,
+    "end": 31.364
+   },
+   {
+    "word": "de",
+    "start": 31.364,
+    "end": 31.414
+   },
+   {
+    "word": "um",
+    "start": 31.414,
+    "end": 31.574
+   },
+   {
+    "word": "lado",
+    "start": 31.574,
+    "end": 32.124
+   },
+   {
+    "word": "o",
+    "start": 32.124,
+    "end": 32.184
+   },
+   {
+    "word": "Irã",
+    "start": 32.184,
+    "end": 32.774
+   },
+   {
+    "word": "do",
+    "start": 32.774,
+    "end": 32.804
+   },
+   {
+    "word": "outro",
+    "start": 32.804,
+    "end": 33.334
+   },
+   {
+    "word": "a",
+    "start": 33.334,
+    "end": 33.414
+   },
+   {
+    "word": "Arábia",
+    "start": 33.414,
+    "end": 33.824
+   },
+   {
+    "word": "Saudita",
+    "start": 33.824,
+    "end": 34.554
+   },
+   {
+    "word": "o",
+    "start": 34.554,
+    "end": 34.574
+   },
+   {
+    "word": "Kuwait",
+    "start": 34.574,
+    "end": 35.374
+   },
+   {
+    "word": "o",
+    "start": 35.374,
+    "end": 35.404
+   },
+   {
+    "word": "Iraque",
+    "start": 35.404,
+    "end": 36.154
+   },
+   {
+    "word": "o",
+    "start": 36.154,
+    "end": 36.154
+   },
+   {
+    "word": "Qatar",
+    "start": 36.154,
+    "end": 36.984
+   },
+   {
+    "word": "o",
+    "start": 36.984,
+    "end": 37.004
+   },
+   {
+    "word": "Bahrein",
+    "start": 37.004,
+    "end": 37.714
+   },
+   {
+    "word": "e",
+    "start": 37.714,
+    "end": 37.744
+   },
+   {
+    "word": "os",
+    "start": 37.744,
+    "end": 37.844
+   },
+   {
+    "word": "Emirados",
+    "start": 37.844,
+    "end": 38.384
+   },
+   {
+    "word": "Árabes",
+    "start": 38.384,
+    "end": 38.774
+   },
+   {
+    "word": "Unidos",
+    "start": 38.774,
+    "end": 39.414
+   }
+  ]
+ },
+ {
+  "scene": "orm-05",
+  "arquivo": "audios/narracao/exemplo-horizontal/orm-05.mp3",
+  "start": 39.863,
+  "end": 49.711,
+  "texto": "Todos dividem a mesma saída para o oceano, uma passagem entre o Irã, ao norte e a península de Musandam, um pedaço de homã separado do resto do país.",
+  "segments": [
+   {
+    "start": 39.883,
+    "end": 49.683,
+    "text": "Todos dividem a mesma saída para o oceano, uma passagem entre o Irã, ao norte e a península de Musandam, um pedaço de homã separado do resto do país."
+   }
+  ],
+  "words": [
+   {
+    "word": "Todos",
+    "start": 39.883,
+    "end": 40.233
+   },
+   {
+    "word": "dividem",
+    "start": 40.233,
+    "end": 40.753
+   },
+   {
+    "word": "a",
+    "start": 40.753,
+    "end": 40.823
+   },
+   {
+    "word": "mesma",
+    "start": 40.823,
+    "end": 41.203
+   },
+   {
+    "word": "saída",
+    "start": 41.203,
+    "end": 41.623
+   },
+   {
+    "word": "para",
+    "start": 41.623,
+    "end": 41.863
+   },
+   {
+    "word": "o",
+    "start": 41.863,
+    "end": 41.933
+   },
+   {
+    "word": "oceano",
+    "start": 41.933,
+    "end": 42.563
+   },
+   {
+    "word": "uma",
+    "start": 42.563,
+    "end": 42.693
+   },
+   {
+    "word": "passagem",
+    "start": 42.693,
+    "end": 43.263
+   },
+   {
+    "word": "entre",
+    "start": 43.263,
+    "end": 43.653
+   },
+   {
+    "word": "o",
+    "start": 43.653,
+    "end": 43.723
+   },
+   {
+    "word": "Irã",
+    "start": 43.723,
+    "end": 44.163
+   },
+   {
+    "word": "ao",
+    "start": 44.163,
+    "end": 44.373
+   },
+   {
+    "word": "norte",
+    "start": 44.373,
+    "end": 45.023
+   },
+   {
+    "word": "e",
+    "start": 45.023,
+    "end": 45.093
+   },
+   {
+    "word": "a",
+    "start": 45.093,
+    "end": 45.243
+   },
+   {
+    "word": "península",
+    "start": 45.243,
+    "end": 45.723
+   },
+   {
+    "word": "de",
+    "start": 45.723,
+    "end": 45.873
+   },
+   {
+    "word": "Musandam",
+    "start": 45.873,
+    "end": 46.633
+   },
+   {
+    "word": "um",
+    "start": 46.633,
+    "end": 46.783
+   },
+   {
+    "word": "pedaço",
+    "start": 46.783,
+    "end": 47.233
+   },
+   {
+    "word": "de",
+    "start": 47.233,
+    "end": 47.383
+   },
+   {
+    "word": "homã",
+    "start": 47.383,
+    "end": 47.683
+   },
+   {
+    "word": "separado",
+    "start": 47.683,
+    "end": 48.423
+   },
+   {
+    "word": "do",
+    "start": 48.423,
+    "end": 48.453
+   },
+   {
+    "word": "resto",
+    "start": 48.453,
+    "end": 48.843
+   },
+   {
+    "word": "do",
+    "start": 48.843,
+    "end": 48.993
+   },
+   {
+    "word": "país",
+    "start": 48.993,
+    "end": 49.683
+   }
+  ]
+ },
+ {
+  "scene": "orm-06",
+  "arquivo": "audios/narracao/exemplo-horizontal/orm-06.mp3",
+  "start": 50.131,
+  "end": 59.666,
+  "texto": "No ponto mais estreito são cerca de 33 quilômetros e as faixas de navegação são ainda menores, uns 3 quilômetros para entrar e três para sair.",
+  "segments": [
+   {
+    "start": 50.201,
+    "end": 59.666,
+    "text": "No ponto mais estreito são cerca de 33 quilômetros e as faixas de navegação são ainda menores, uns 3 quilômetros para entrar e três para sair."
+   }
+  ],
+  "words": [
+   {
+    "word": "No",
+    "start": 50.201,
+    "end": 50.281
+   },
+   {
+    "word": "ponto",
+    "start": 50.281,
+    "end": 50.671
+   },
+   {
+    "word": "mais",
+    "start": 50.671,
+    "end": 51.061
+   },
+   {
+    "word": "estreito",
+    "start": 51.061,
+    "end": 51.601
+   },
+   {
+    "word": "são",
+    "start": 51.601,
+    "end": 51.831
+   },
+   {
+    "word": "cerca",
+    "start": 51.831,
+    "end": 52.271
+   },
+   {
+    "word": "de",
+    "start": 52.271,
+    "end": 52.371
+   },
+   {
+    "word": "33",
+    "start": 52.371,
+    "end": 52.831
+   },
+   {
+    "word": "quilômetros",
+    "start": 52.831,
+    "end": 53.821
+   },
+   {
+    "word": "e",
+    "start": 53.821,
+    "end": 53.831
+   },
+   {
+    "word": "as",
+    "start": 53.831,
+    "end": 54.001
+   },
+   {
+    "word": "faixas",
+    "start": 54.001,
+    "end": 54.571
+   },
+   {
+    "word": "de",
+    "start": 54.571,
+    "end": 54.711
+   },
+   {
+    "word": "navegação",
+    "start": 54.711,
+    "end": 55.351
+   },
+   {
+    "word": "são",
+    "start": 55.351,
+    "end": 55.571
+   },
+   {
+    "word": "ainda",
+    "start": 55.571,
+    "end": 55.811
+   },
+   {
+    "word": "menores",
+    "start": 55.811,
+    "end": 56.811
+   },
+   {
+    "word": "uns",
+    "start": 56.811,
+    "end": 56.971
+   },
+   {
+    "word": "3",
+    "start": 56.971,
+    "end": 57.171
+   },
+   {
+    "word": "quilômetros",
+    "start": 57.171,
+    "end": 57.971
+   },
+   {
+    "word": "para",
+    "start": 57.971,
+    "end": 58.271
+   },
+   {
+    "word": "entrar",
+    "start": 58.271,
+    "end": 58.721
+   },
+   {
+    "word": "e",
+    "start": 58.721,
+    "end": 58.731
+   },
+   {
+    "word": "três",
+    "start": 58.731,
+    "end": 59.021
+   },
+   {
+    "word": "para",
+    "start": 59.021,
+    "end": 59.311
+   },
+   {
+    "word": "sair",
+    "start": 59.311,
+    "end": 59.666
+   }
+  ]
+ },
+ {
+  "scene": "orm-07",
+  "arquivo": "audios/narracao/exemplo-horizontal/orm-07.mp3",
+  "start": 60.086,
+  "end": 74.27,
+  "texto": "No caminho a ilhas, Ormuz, Queixome e Larac são iranianas, mas a oeste, Abumusa e as duas ilhas tumbes estão sob controle do Irã desde 1971 e são reivindicadas pelos Emirados.",
+  "segments": [
+   {
+    "start": 60.166,
+    "end": 74.206,
+    "text": "No caminho a ilhas, Ormuz, Queixome e Larac são iranianas, mas a oeste, Abumusa e as duas ilhas tumbes estão sob controle do Irã desde 1971 e são reivindicadas pelos Emirados."
+   }
+  ],
+  "words": [
+   {
+    "word": "No",
+    "start": 60.166,
+    "end": 60.236
+   },
+   {
+    "word": "caminho",
+    "start": 60.236,
+    "end": 60.766
+   },
+   {
+    "word": "a",
+    "start": 60.766,
+    "end": 60.836
+   },
+   {
+    "word": "ilhas",
+    "start": 60.836,
+    "end": 61.486
+   },
+   {
+    "word": "Ormuz",
+    "start": 61.486,
+    "end": 62.286
+   },
+   {
+    "word": "Queixome",
+    "start": 62.286,
+    "end": 63.116
+   },
+   {
+    "word": "e",
+    "start": 63.116,
+    "end": 63.176
+   },
+   {
+    "word": "Larac",
+    "start": 63.176,
+    "end": 63.766
+   },
+   {
+    "word": "são",
+    "start": 63.766,
+    "end": 64.046
+   },
+   {
+    "word": "iranianas",
+    "start": 64.046,
+    "end": 65.076
+   },
+   {
+    "word": "mas",
+    "start": 65.076,
+    "end": 65.356
+   },
+   {
+    "word": "a",
+    "start": 65.356,
+    "end": 65.446
+   },
+   {
+    "word": "oeste",
+    "start": 65.446,
+    "end": 66.006
+   },
+   {
+    "word": "Abumusa",
+    "start": 66.006,
+    "end": 66.806
+   },
+   {
+    "word": "e",
+    "start": 66.806,
+    "end": 66.926
+   },
+   {
+    "word": "as",
+    "start": 66.926,
+    "end": 67.046
+   },
+   {
+    "word": "duas",
+    "start": 67.046,
+    "end": 67.366
+   },
+   {
+    "word": "ilhas",
+    "start": 67.366,
+    "end": 67.566
+   },
+   {
+    "word": "tumbes",
+    "start": 67.566,
+    "end": 68.166
+   },
+   {
+    "word": "estão",
+    "start": 68.166,
+    "end": 68.386
+   },
+   {
+    "word": "sob",
+    "start": 68.386,
+    "end": 68.566
+   },
+   {
+    "word": "controle",
+    "start": 68.566,
+    "end": 69.046
+   },
+   {
+    "word": "do",
+    "start": 69.046,
+    "end": 69.256
+   },
+   {
+    "word": "Irã",
+    "start": 69.256,
+    "end": 69.586
+   },
+   {
+    "word": "desde",
+    "start": 69.586,
+    "end": 70.296
+   },
+   {
+    "word": "1971",
+    "start": 70.296,
+    "end": 72.066
+   },
+   {
+    "word": "e",
+    "start": 72.066,
+    "end": 72.146
+   },
+   {
+    "word": "são",
+    "start": 72.146,
+    "end": 72.266
+   },
+   {
+    "word": "reivindicadas",
+    "start": 72.266,
+    "end": 73.106
+   },
+   {
+    "word": "pelos",
+    "start": 73.106,
+    "end": 73.436
+   },
+   {
+    "word": "Emirados",
+    "start": 73.436,
+    "end": 74.206
+   }
+  ]
+ },
+ {
+  "scene": "orm-08",
+  "arquivo": "audios/narracao/exemplo-horizontal/orm-08.mp3",
+  "start": 75.17,
+  "end": 83.947,
+  "texto": "A disputa por este lugar é antiga. Na Idade Média, a ilha de Ormuz era o centro de um reino que vivia do comércio entre a Índia, a Pérsia e a Arábia.",
+  "segments": [
+   {
+    "start": 75.25,
+    "end": 77.58,
+    "text": "A disputa por este lugar é antiga."
+   },
+   {
+    "start": 77.58,
+    "end": 83.87,
+    "text": "Na Idade Média, a ilha de Ormuz era o centro de um reino que vivia do comércio entre a Índia, a Pérsia e a Arábia."
+   }
+  ],
+  "words": [
+   {
+    "word": "A",
+    "start": 75.25,
+    "end": 75.26
+   },
+   {
+    "word": "disputa",
+    "start": 75.26,
+    "end": 75.83
+   },
+   {
+    "word": "por",
+    "start": 75.83,
+    "end": 76.08
+   },
+   {
+    "word": "este",
+    "start": 76.08,
+    "end": 76.41
+   },
+   {
+    "word": "lugar",
+    "start": 76.41,
+    "end": 76.83
+   },
+   {
+    "word": "é",
+    "start": 76.83,
+    "end": 76.91
+   },
+   {
+    "word": "antiga",
+    "start": 76.91,
+    "end": 77.58
+   },
+   {
+    "word": "Na",
+    "start": 77.58,
+    "end": 77.62
+   },
+   {
+    "word": "Idade",
+    "start": 77.62,
+    "end": 77.95
+   },
+   {
+    "word": "Média",
+    "start": 77.95,
+    "end": 78.4
+   },
+   {
+    "word": "a",
+    "start": 78.4,
+    "end": 78.46
+   },
+   {
+    "word": "ilha",
+    "start": 78.46,
+    "end": 78.72
+   },
+   {
+    "word": "de",
+    "start": 78.72,
+    "end": 78.85
+   },
+   {
+    "word": "Ormuz",
+    "start": 78.85,
+    "end": 79.31
+   },
+   {
+    "word": "era",
+    "start": 79.31,
+    "end": 79.43
+   },
+   {
+    "word": "o",
+    "start": 79.43,
+    "end": 79.49
+   },
+   {
+    "word": "centro",
+    "start": 79.49,
+    "end": 79.91
+   },
+   {
+    "word": "de",
+    "start": 79.91,
+    "end": 80.03
+   },
+   {
+    "word": "um",
+    "start": 80.03,
+    "end": 80.13
+   },
+   {
+    "word": "reino",
+    "start": 80.13,
+    "end": 80.45
+   },
+   {
+    "word": "que",
+    "start": 80.45,
+    "end": 80.63
+   },
+   {
+    "word": "vivia",
+    "start": 80.63,
+    "end": 80.93
+   },
+   {
+    "word": "do",
+    "start": 80.93,
+    "end": 80.97
+   },
+   {
+    "word": "comércio",
+    "start": 80.97,
+    "end": 81.51
+   },
+   {
+    "word": "entre",
+    "start": 81.51,
+    "end": 81.81
+   },
+   {
+    "word": "a",
+    "start": 81.81,
+    "end": 81.87
+   },
+   {
+    "word": "Índia",
+    "start": 81.87,
+    "end": 82.42
+   },
+   {
+    "word": "a",
+    "start": 82.42,
+    "end": 82.45
+   },
+   {
+    "word": "Pérsia",
+    "start": 82.45,
+    "end": 82.93
+   },
+   {
+    "word": "e",
+    "start": 82.93,
+    "end": 83.01
+   },
+   {
+    "word": "a",
+    "start": 83.01,
+    "end": 83.09
+   },
+   {
+    "word": "Arábia",
+    "start": 83.09,
+    "end": 83.87
+   }
+  ]
+ },
+ {
+  "scene": "orm-09",
+  "arquivo": "audios/narracao/exemplo-horizontal/orm-09.mp3",
+  "start": 84.367,
+  "end": 95.835,
+  "texto": "No começo do século XVI chegaram os portugueses, afonso de Albuquerque atacou Ormus em 1507 e em 1515 Portugal tomou a ilha e ergueu ali uma fortaleza.",
+  "segments": [
+   {
+    "start": 84.437,
+    "end": 95.767,
+    "text": "No começo do século XVI chegaram os portugueses, afonso de Albuquerque atacou Ormus em 1507 e em 1515 Portugal tomou a ilha e ergueu ali uma fortaleza."
+   }
+  ],
+  "words": [
+   {
+    "word": "No",
+    "start": 84.437,
+    "end": 84.517
+   },
+   {
+    "word": "começo",
+    "start": 84.517,
+    "end": 84.977
+   },
+   {
+    "word": "do",
+    "start": 84.977,
+    "end": 85.137
+   },
+   {
+    "word": "século",
+    "start": 85.137,
+    "end": 85.587
+   },
+   {
+    "word": "XVI",
+    "start": 85.587,
+    "end": 85.807
+   },
+   {
+    "word": "chegaram",
+    "start": 85.807,
+    "end": 86.417
+   },
+   {
+    "word": "os",
+    "start": 86.417,
+    "end": 86.567
+   },
+   {
+    "word": "portugueses",
+    "start": 86.567,
+    "end": 87.667
+   },
+   {
+    "word": "afonso",
+    "start": 87.667,
+    "end": 88.007
+   },
+   {
+    "word": "de",
+    "start": 88.007,
+    "end": 88.137
+   },
+   {
+    "word": "Albuquerque",
+    "start": 88.137,
+    "end": 88.887
+   },
+   {
+    "word": "atacou",
+    "start": 88.887,
+    "end": 89.257
+   },
+   {
+    "word": "Ormus",
+    "start": 89.257,
+    "end": 89.647
+   },
+   {
+    "word": "em",
+    "start": 89.647,
+    "end": 89.877
+   },
+   {
+    "word": "1507",
+    "start": 89.877,
+    "end": 91.327
+   },
+   {
+    "word": "e",
+    "start": 91.327,
+    "end": 91.357
+   },
+   {
+    "word": "em",
+    "start": 91.357,
+    "end": 91.967
+   },
+   {
+    "word": "1515",
+    "start": 91.967,
+    "end": 92.687
+   },
+   {
+    "word": "Portugal",
+    "start": 92.687,
+    "end": 93.287
+   },
+   {
+    "word": "tomou",
+    "start": 93.287,
+    "end": 93.657
+   },
+   {
+    "word": "a",
+    "start": 93.657,
+    "end": 93.727
+   },
+   {
+    "word": "ilha",
+    "start": 93.727,
+    "end": 94.107
+   },
+   {
+    "word": "e",
+    "start": 94.107,
+    "end": 94.147
+   },
+   {
+    "word": "ergueu",
+    "start": 94.147,
+    "end": 94.497
+   },
+   {
+    "word": "ali",
+    "start": 94.497,
+    "end": 94.697
+   },
+   {
+    "word": "uma",
+    "start": 94.697,
+    "end": 94.897
+   },
+   {
+    "word": "fortaleza",
+    "start": 94.897,
+    "end": 95.767
+   }
+  ]
+ },
+ {
+  "scene": "orm-10",
+  "arquivo": "audios/narracao/exemplo-horizontal/orm-10.mp3",
+  "start": 96.255,
+  "end": 107.096,
+  "texto": "Foram mais de 100 anos de domínio português, até 1622, quando o Xaabas, da Pérsia, com a ajuda de navios ingleses, expulsou os portugueses.",
+  "segments": [
+   {
+    "start": 96.365,
+    "end": 107.055,
+    "text": "Foram mais de 100 anos de domínio português, até 1622, quando o Xaabas, da Pérsia, com a ajuda de navios ingleses, expulsou os portugueses."
+   }
+  ],
+  "words": [
+   {
+    "word": "Foram",
+    "start": 96.365,
+    "end": 96.565
+   },
+   {
+    "word": "mais",
+    "start": 96.565,
+    "end": 96.815
+   },
+   {
+    "word": "de",
+    "start": 96.815,
+    "end": 96.935
+   },
+   {
+    "word": "100",
+    "start": 96.935,
+    "end": 97.515
+   },
+   {
+    "word": "anos",
+    "start": 97.515,
+    "end": 97.765
+   },
+   {
+    "word": "de",
+    "start": 97.765,
+    "end": 97.885
+   },
+   {
+    "word": "domínio",
+    "start": 97.885,
+    "end": 98.315
+   },
+   {
+    "word": "português",
+    "start": 98.315,
+    "end": 99.095
+   },
+   {
+    "word": "até",
+    "start": 99.095,
+    "end": 99.435
+   },
+   {
+    "word": "1622",
+    "start": 99.435,
+    "end": 101.475
+   },
+   {
+    "word": "quando",
+    "start": 101.475,
+    "end": 101.805
+   },
+   {
+    "word": "o",
+    "start": 101.805,
+    "end": 101.885
+   },
+   {
+    "word": "Xaabas",
+    "start": 101.885,
+    "end": 102.625
+   },
+   {
+    "word": "da",
+    "start": 102.625,
+    "end": 102.745
+   },
+   {
+    "word": "Pérsia",
+    "start": 102.745,
+    "end": 103.525
+   },
+   {
+    "word": "com",
+    "start": 103.525,
+    "end": 103.615
+   },
+   {
+    "word": "a",
+    "start": 103.615,
+    "end": 103.685
+   },
+   {
+    "word": "ajuda",
+    "start": 103.685,
+    "end": 104.075
+   },
+   {
+    "word": "de",
+    "start": 104.075,
+    "end": 104.205
+   },
+   {
+    "word": "navios",
+    "start": 104.205,
+    "end": 104.605
+   },
+   {
+    "word": "ingleses",
+    "start": 104.605,
+    "end": 105.455
+   },
+   {
+    "word": "expulsou",
+    "start": 105.455,
+    "end": 105.865
+   },
+   {
+    "word": "os",
+    "start": 105.865,
+    "end": 106.005
+   },
+   {
+    "word": "portugueses",
+    "start": 106.005,
+    "end": 107.055
+   }
+  ]
+ },
+ {
+  "scene": "orm-11",
+  "arquivo": "audios/narracao/exemplo-horizontal/orm-11.mp3",
+  "start": 107.516,
+  "end": 115.536,
+  "texto": "O Porto do Continente ganhou o nome do vencedor, Bandarabas, o Porto de Abbas. Até hoje é uma das portas de entrada do Irã para o mar.",
+  "segments": [
+   {
+    "start": 107.576,
+    "end": 112.516,
+    "text": "O Porto do Continente ganhou o nome do vencedor, Bandarabas, o Porto de Abbas."
+   },
+   {
+    "start": 112.516,
+    "end": 115.436,
+    "text": "Até hoje é uma das portas de entrada do Irã para o mar."
+   }
+  ],
+  "words": [
+   {
+    "word": "O",
+    "start": 107.576,
+    "end": 107.596
+   },
+   {
+    "word": "Porto",
+    "start": 107.596,
+    "end": 107.896
+   },
+   {
+    "word": "do",
+    "start": 107.896,
+    "end": 108.026
+   },
+   {
+    "word": "Continente",
+    "start": 108.026,
+    "end": 108.676
+   },
+   {
+    "word": "ganhou",
+    "start": 108.676,
+    "end": 109.066
+   },
+   {
+    "word": "o",
+    "start": 109.066,
+    "end": 109.126
+   },
+   {
+    "word": "nome",
+    "start": 109.126,
+    "end": 109.386
+   },
+   {
+    "word": "do",
+    "start": 109.386,
+    "end": 109.516
+   },
+   {
+    "word": "vencedor",
+    "start": 109.516,
+    "end": 110.266
+   },
+   {
+    "word": "Bandarabas",
+    "start": 110.266,
+    "end": 111.236
+   },
+   {
+    "word": "o",
+    "start": 111.236,
+    "end": 111.246
+   },
+   {
+    "word": "Porto",
+    "start": 111.246,
+    "end": 111.716
+   },
+   {
+    "word": "de",
+    "start": 111.716,
+    "end": 111.906
+   },
+   {
+    "word": "Abbas",
+    "start": 111.906,
+    "end": 112.516
+   },
+   {
+    "word": "Até",
+    "start": 112.516,
+    "end": 112.706
+   },
+   {
+    "word": "hoje",
+    "start": 112.706,
+    "end": 112.986
+   },
+   {
+    "word": "é",
+    "start": 112.986,
+    "end": 113.016
+   },
+   {
+    "word": "uma",
+    "start": 113.016,
+    "end": 113.206
+   },
+   {
+    "word": "das",
+    "start": 113.206,
+    "end": 113.396
+   },
+   {
+    "word": "portas",
+    "start": 113.396,
+    "end": 113.766
+   },
+   {
+    "word": "de",
+    "start": 113.766,
+    "end": 113.896
+   },
+   {
+    "word": "entrada",
+    "start": 113.896,
+    "end": 114.346
+   },
+   {
+    "word": "do",
+    "start": 114.346,
+    "end": 114.486
+   },
+   {
+    "word": "Irã",
+    "start": 114.486,
+    "end": 114.676
+   },
+   {
+    "word": "para",
+    "start": 114.676,
+    "end": 114.916
+   },
+   {
+    "word": "o",
+    "start": 114.916,
+    "end": 114.976
+   },
+   {
+    "word": "mar",
+    "start": 114.976,
+    "end": 115.436
+   }
+  ]
+ },
+ {
+  "scene": "orm-12",
+  "arquivo": "audios/narracao/exemplo-horizontal/orm-12.mp3",
+  "start": 116.436,
+  "end": 127.146,
+  "texto": "No século XX, o valor do estreito mudou por causa do que estava debaixo da areia. Petróleo no Irã em 1908, na Arábia Saudita em 1938.",
+  "segments": [
+   {
+    "start": 116.486,
+    "end": 120.996,
+    "text": "No século XX, o valor do estreito mudou por causa do que estava debaixo da areia."
+   },
+   {
+    "start": 120.996,
+    "end": 127.056,
+    "text": "Petróleo no Irã em 1908, na Arábia Saudita em 1938."
+   }
+  ],
+  "words": [
+   {
+    "word": "No",
+    "start": 116.486,
+    "end": 116.576
+   },
+   {
+    "word": "século",
+    "start": 116.576,
+    "end": 116.996
+   },
+   {
+    "word": "XX",
+    "start": 116.996,
+    "end": 117.276
+   },
+   {
+    "word": "o",
+    "start": 117.276,
+    "end": 117.346
+   },
+   {
+    "word": "valor",
+    "start": 117.346,
+    "end": 117.696
+   },
+   {
+    "word": "do",
+    "start": 117.696,
+    "end": 117.836
+   },
+   {
+    "word": "estreito",
+    "start": 117.836,
+    "end": 118.396
+   },
+   {
+    "word": "mudou",
+    "start": 118.396,
+    "end": 118.746
+   },
+   {
+    "word": "por",
+    "start": 118.746,
+    "end": 118.936
+   },
+   {
+    "word": "causa",
+    "start": 118.936,
+    "end": 119.236
+   },
+   {
+    "word": "do",
+    "start": 119.236,
+    "end": 119.416
+   },
+   {
+    "word": "que",
+    "start": 119.416,
+    "end": 119.606
+   },
+   {
+    "word": "estava",
+    "start": 119.606,
+    "end": 119.976
+   },
+   {
+    "word": "debaixo",
+    "start": 119.976,
+    "end": 120.436
+   },
+   {
+    "word": "da",
+    "start": 120.436,
+    "end": 120.566
+   },
+   {
+    "word": "areia",
+    "start": 120.566,
+    "end": 120.996
+   },
+   {
+    "word": "Petróleo",
+    "start": 120.996,
+    "end": 121.846
+   },
+   {
+    "word": "no",
+    "start": 121.846,
+    "end": 122.056
+   },
+   {
+    "word": "Irã",
+    "start": 122.056,
+    "end": 122.366
+   },
+   {
+    "word": "em",
+    "start": 122.366,
+    "end": 122.576
+   },
+   {
+    "word": "1908",
+    "start": 122.576,
+    "end": 124.096
+   },
+   {
+    "word": "na",
+    "start": 124.096,
+    "end": 124.286
+   },
+   {
+    "word": "Arábia",
+    "start": 124.286,
+    "end": 124.816
+   },
+   {
+    "word": "Saudita",
+    "start": 124.816,
+    "end": 125.616
+   },
+   {
+    "word": "em",
+    "start": 125.616,
+    "end": 125.626
+   },
+   {
+    "word": "1938",
+    "start": 125.626,
+    "end": 127.056
+   }
+  ]
+ },
+ {
+  "scene": "orm-13",
+  "arquivo": "audios/narracao/exemplo-horizontal/orm-13.mp3",
+  "start": 127.566,
+  "end": 135.298,
+  "texto": "O Golfo virou a região com as maiores reservas de petróleo do mundo e quase tudo o que sai de lá por mar tem que passar pelo mesmo caminho.",
+  "segments": [
+   {
+    "start": 127.626,
+    "end": 135.246,
+    "text": "O Golfo virou a região com as maiores reservas de petróleo do mundo e quase tudo o que sai de lá por mar tem que passar pelo mesmo caminho."
+   }
+  ],
+  "words": [
+   {
+    "word": "O",
+    "start": 127.626,
+    "end": 127.626
+   },
+   {
+    "word": "Golfo",
+    "start": 127.626,
+    "end": 127.956
+   },
+   {
+    "word": "virou",
+    "start": 127.956,
+    "end": 128.286
+   },
+   {
+    "word": "a",
+    "start": 128.286,
+    "end": 128.346
+   },
+   {
+    "word": "região",
+    "start": 128.346,
+    "end": 128.746
+   },
+   {
+    "word": "com",
+    "start": 128.746,
+    "end": 128.946
+   },
+   {
+    "word": "as",
+    "start": 128.946,
+    "end": 129.076
+   },
+   {
+    "word": "maiores",
+    "start": 129.076,
+    "end": 129.546
+   },
+   {
+    "word": "reservas",
+    "start": 129.546,
+    "end": 130.076
+   },
+   {
+    "word": "de",
+    "start": 130.076,
+    "end": 130.206
+   },
+   {
+    "word": "petróleo",
+    "start": 130.206,
+    "end": 130.736
+   },
+   {
+    "word": "do",
+    "start": 130.736,
+    "end": 130.866
+   },
+   {
+    "word": "mundo",
+    "start": 130.866,
+    "end": 131.406
+   },
+   {
+    "word": "e",
+    "start": 131.406,
+    "end": 131.466
+   },
+   {
+    "word": "quase",
+    "start": 131.466,
+    "end": 131.856
+   },
+   {
+    "word": "tudo",
+    "start": 131.856,
+    "end": 132.226
+   },
+   {
+    "word": "o",
+    "start": 132.226,
+    "end": 132.266
+   },
+   {
+    "word": "que",
+    "start": 132.266,
+    "end": 132.406
+   },
+   {
+    "word": "sai",
+    "start": 132.406,
+    "end": 132.566
+   },
+   {
+    "word": "de",
+    "start": 132.566,
+    "end": 132.726
+   },
+   {
+    "word": "lá",
+    "start": 132.726,
+    "end": 132.886
+   },
+   {
+    "word": "por",
+    "start": 132.886,
+    "end": 133.186
+   },
+   {
+    "word": "mar",
+    "start": 133.186,
+    "end": 133.486
+   },
+   {
+    "word": "tem",
+    "start": 133.486,
+    "end": 133.646
+   },
+   {
+    "word": "que",
+    "start": 133.646,
+    "end": 133.816
+   },
+   {
+    "word": "passar",
+    "start": 133.816,
+    "end": 134.206
+   },
+   {
+    "word": "pelo",
+    "start": 134.206,
+    "end": 134.376
+   },
+   {
+    "word": "mesmo",
+    "start": 134.376,
+    "end": 134.656
+   },
+   {
+    "word": "caminho",
+    "start": 134.656,
+    "end": 135.246
+   }
+  ]
+ },
+ {
+  "scene": "orm-14",
+  "arquivo": "audios/narracao/exemplo-horizontal/orm-14.mp3",
+  "start": 135.718,
+  "end": 143.32,
+  "texto": "Nos anos 80, durante a guerra entre o Irã e o Iraque, os dois lados atacaram navios no Golfo, foi a chamada Guerra dos Petroleiros.",
+  "segments": [
+   {
+    "start": 135.758,
+    "end": 143.238,
+    "text": "Nos anos 80, durante a guerra entre o Irã e o Iraque, os dois lados atacaram navios no Golfo, foi a chamada Guerra dos Petroleiros."
+   }
+  ],
+  "words": [
+   {
+    "word": "Nos",
+    "start": 135.758,
+    "end": 135.918
+   },
+   {
+    "word": "anos",
+    "start": 135.918,
+    "end": 136.178
+   },
+   {
+    "word": "80",
+    "start": 136.178,
+    "end": 136.708
+   },
+   {
+    "word": "durante",
+    "start": 136.708,
+    "end": 137.168
+   },
+   {
+    "word": "a",
+    "start": 137.168,
+    "end": 137.228
+   },
+   {
+    "word": "guerra",
+    "start": 137.228,
+    "end": 137.628
+   },
+   {
+    "word": "entre",
+    "start": 137.628,
+    "end": 137.958
+   },
+   {
+    "word": "o",
+    "start": 137.958,
+    "end": 138.018
+   },
+   {
+    "word": "Irã",
+    "start": 138.018,
+    "end": 138.208
+   },
+   {
+    "word": "e",
+    "start": 138.208,
+    "end": 138.268
+   },
+   {
+    "word": "o",
+    "start": 138.268,
+    "end": 138.328
+   },
+   {
+    "word": "Iraque",
+    "start": 138.328,
+    "end": 138.908
+   },
+   {
+    "word": "os",
+    "start": 138.908,
+    "end": 139.018
+   },
+   {
+    "word": "dois",
+    "start": 139.018,
+    "end": 139.248
+   },
+   {
+    "word": "lados",
+    "start": 139.248,
+    "end": 139.528
+   },
+   {
+    "word": "atacaram",
+    "start": 139.528,
+    "end": 139.988
+   },
+   {
+    "word": "navios",
+    "start": 139.988,
+    "end": 140.358
+   },
+   {
+    "word": "no",
+    "start": 140.358,
+    "end": 140.488
+   },
+   {
+    "word": "Golfo",
+    "start": 140.488,
+    "end": 140.938
+   },
+   {
+    "word": "foi",
+    "start": 140.938,
+    "end": 141.128
+   },
+   {
+    "word": "a",
+    "start": 141.128,
+    "end": 141.198
+   },
+   {
+    "word": "chamada",
+    "start": 141.198,
+    "end": 141.658
+   },
+   {
+    "word": "Guerra",
+    "start": 141.658,
+    "end": 142.058
+   },
+   {
+    "word": "dos",
+    "start": 142.058,
+    "end": 142.258
+   },
+   {
+    "word": "Petroleiros",
+    "start": 142.258,
+    "end": 143.238
+   }
+  ]
+ },
+ {
+  "scene": "orm-15",
+  "arquivo": "audios/narracao/exemplo-horizontal/orm-15.mp3",
+  "start": 143.74,
+  "end": 160.693,
+  "texto": "Em 1988, a marinha americana afundou navios iranianos na operação Louva a Deus. Três meses depois, um cruzador americano derrubou um avião de passageiros da Iran Air, que a tripulação disse ter confundido com um caça. Duzentas e noventa pessoas morreram.",
+  "segments": [
+   {
+    "start": 143.8,
+    "end": 150.3,
+    "text": "Em 1988, a marinha americana afundou navios iranianos na operação Louva a Deus."
+   },
+   {
+    "start": 150.3,
+    "end": 158.46,
+    "text": "Três meses depois, um cruzador americano derrubou um avião de passageiros da Iran Air, que a tripulação disse ter confundido com um caça."
+   },
+   {
+    "start": 158.46,
+    "end": 160.58,
+    "text": "Duzentas e noventa pessoas morreram."
+   }
+  ],
+  "words": [
+   {
+    "word": "Em",
+    "start": 143.8,
+    "end": 144.01
+   },
+   {
+    "word": "1988",
+    "start": 144.01,
+    "end": 146.02
+   },
+   {
+    "word": "a",
+    "start": 146.02,
+    "end": 146.03
+   },
+   {
+    "word": "marinha",
+    "start": 146.03,
+    "end": 146.45
+   },
+   {
+    "word": "americana",
+    "start": 146.45,
+    "end": 147.01
+   },
+   {
+    "word": "afundou",
+    "start": 147.01,
+    "end": 147.43
+   },
+   {
+    "word": "navios",
+    "start": 147.43,
+    "end": 147.79
+   },
+   {
+    "word": "iranianos",
+    "start": 147.79,
+    "end": 148.45
+   },
+   {
+    "word": "na",
+    "start": 148.45,
+    "end": 148.6
+   },
+   {
+    "word": "operação",
+    "start": 148.6,
+    "end": 149.31
+   },
+   {
+    "word": "Louva",
+    "start": 149.31,
+    "end": 149.75
+   },
+   {
+    "word": "a",
+    "start": 149.75,
+    "end": 149.84
+   },
+   {
+    "word": "Deus",
+    "start": 149.84,
+    "end": 150.3
+   },
+   {
+    "word": "Três",
+    "start": 150.3,
+    "end": 150.56
+   },
+   {
+    "word": "meses",
+    "start": 150.56,
+    "end": 150.9
+   },
+   {
+    "word": "depois",
+    "start": 150.9,
+    "end": 151.43
+   },
+   {
+    "word": "um",
+    "start": 151.43,
+    "end": 151.6
+   },
+   {
+    "word": "cruzador",
+    "start": 151.6,
+    "end": 152.09
+   },
+   {
+    "word": "americano",
+    "start": 152.09,
+    "end": 152.7
+   },
+   {
+    "word": "derrubou",
+    "start": 152.7,
+    "end": 153.22
+   },
+   {
+    "word": "um",
+    "start": 153.22,
+    "end": 153.35
+   },
+   {
+    "word": "avião",
+    "start": 153.35,
+    "end": 153.68
+   },
+   {
+    "word": "de",
+    "start": 153.68,
+    "end": 153.81
+   },
+   {
+    "word": "passageiros",
+    "start": 153.81,
+    "end": 154.55
+   },
+   {
+    "word": "da",
+    "start": 154.55,
+    "end": 154.68
+   },
+   {
+    "word": "Iran",
+    "start": 154.68,
+    "end": 154.94
+   },
+   {
+    "word": "Air",
+    "start": 154.94,
+    "end": 155.34
+   },
+   {
+    "word": "que",
+    "start": 155.34,
+    "end": 155.42
+   },
+   {
+    "word": "a",
+    "start": 155.42,
+    "end": 155.48
+   },
+   {
+    "word": "tripulação",
+    "start": 155.48,
+    "end": 156.21
+   },
+   {
+    "word": "disse",
+    "start": 156.21,
+    "end": 156.58
+   },
+   {
+    "word": "ter",
+    "start": 156.58,
+    "end": 156.8
+   },
+   {
+    "word": "confundido",
+    "start": 156.8,
+    "end": 157.53
+   },
+   {
+    "word": "com",
+    "start": 157.53,
+    "end": 157.77
+   },
+   {
+    "word": "um",
+    "start": 157.77,
+    "end": 157.89
+   },
+   {
+    "word": "caça",
+    "start": 157.89,
+    "end": 158.46
+   },
+   {
+    "word": "Duzentas",
+    "start": 158.46,
+    "end": 158.94
+   },
+   {
+    "word": "e",
+    "start": 158.94,
+    "end": 159.0
+   },
+   {
+    "word": "noventa",
+    "start": 159.0,
+    "end": 159.42
+   },
+   {
+    "word": "pessoas",
+    "start": 159.42,
+    "end": 159.85
+   },
+   {
+    "word": "morreram",
+    "start": 159.85,
+    "end": 160.58
+   }
+  ]
+ },
+ {
+  "scene": "orm-16",
+  "arquivo": "audios/narracao/exemplo-horizontal/orm-16.mp3",
+  "start": 161.593,
+  "end": 170.553,
+  "texto": "Antes da guerra de 2026, quem mais exportava por ali era a Arabia Saudita, 38% do petróleo bruto que cruzava o estreito.",
+  "segments": [
+   {
+    "start": 161.673,
+    "end": 170.473,
+    "text": "Antes da guerra de 2026, quem mais exportava por ali era a Arabia Saudita, 38% do petróleo bruto que cruzava o estreito."
+   }
+  ],
+  "words": [
+   {
+    "word": "Antes",
+    "start": 161.673,
+    "end": 162.023
+   },
+   {
+    "word": "da",
+    "start": 162.023,
+    "end": 162.193
+   },
+   {
+    "word": "guerra",
+    "start": 162.193,
+    "end": 162.713
+   },
+   {
+    "word": "de",
+    "start": 162.713,
+    "end": 162.883
+   },
+   {
+    "word": "2026",
+    "start": 162.883,
+    "end": 164.243
+   },
+   {
+    "word": "quem",
+    "start": 164.243,
+    "end": 164.373
+   },
+   {
+    "word": "mais",
+    "start": 164.373,
+    "end": 164.613
+   },
+   {
+    "word": "exportava",
+    "start": 164.613,
+    "end": 165.173
+   },
+   {
+    "word": "por",
+    "start": 165.173,
+    "end": 165.383
+   },
+   {
+    "word": "ali",
+    "start": 165.383,
+    "end": 165.593
+   },
+   {
+    "word": "era",
+    "start": 165.593,
+    "end": 165.793
+   },
+   {
+    "word": "a",
+    "start": 165.793,
+    "end": 165.853
+   },
+   {
+    "word": "Arabia",
+    "start": 165.853,
+    "end": 166.263
+   },
+   {
+    "word": "Saudita",
+    "start": 166.263,
+    "end": 167.033
+   },
+   {
+    "word": "38%",
+    "start": 167.033,
+    "end": 168.233
+   },
+   {
+    "word": "do",
+    "start": 168.233,
+    "end": 168.373
+   },
+   {
+    "word": "petróleo",
+    "start": 168.373,
+    "end": 168.793
+   },
+   {
+    "word": "bruto",
+    "start": 168.793,
+    "end": 169.133
+   },
+   {
+    "word": "que",
+    "start": 169.133,
+    "end": 169.343
+   },
+   {
+    "word": "cruzava",
+    "start": 169.343,
+    "end": 169.813
+   },
+   {
+    "word": "o",
+    "start": 169.813,
+    "end": 169.913
+   },
+   {
+    "word": "estreito",
+    "start": 169.913,
+    "end": 170.473
+   }
+  ]
+ },
+ {
+  "scene": "orm-17",
+  "arquivo": "audios/narracao/exemplo-horizontal/orm-17.mp3",
+  "start": 170.973,
+  "end": 181.605,
+  "texto": "O Qatar manda por esse caminho todo o seu gás natural liquefeito, em 2024, cerca de um quinto do gás liquefeito comercializado no mundo, passou por Ormuz.",
+  "segments": [
+   {
+    "start": 171.043,
+    "end": 181.493,
+    "text": "O Qatar manda por esse caminho todo o seu gás natural liquefeito, em 2024, cerca de um quinto do gás liquefeito comercializado no mundo, passou por Ormuz."
+   }
+  ],
+  "words": [
+   {
+    "word": "O",
+    "start": 171.043,
+    "end": 171.063
+   },
+   {
+    "word": "Qatar",
+    "start": 171.063,
+    "end": 171.393
+   },
+   {
+    "word": "manda",
+    "start": 171.393,
+    "end": 171.743
+   },
+   {
+    "word": "por",
+    "start": 171.743,
+    "end": 171.973
+   },
+   {
+    "word": "esse",
+    "start": 171.973,
+    "end": 172.233
+   },
+   {
+    "word": "caminho",
+    "start": 172.233,
+    "end": 172.883
+   },
+   {
+    "word": "todo",
+    "start": 172.883,
+    "end": 173.093
+   },
+   {
+    "word": "o",
+    "start": 173.093,
+    "end": 173.183
+   },
+   {
+    "word": "seu",
+    "start": 173.183,
+    "end": 173.453
+   },
+   {
+    "word": "gás",
+    "start": 173.453,
+    "end": 173.713
+   },
+   {
+    "word": "natural",
+    "start": 173.713,
+    "end": 174.353
+   },
+   {
+    "word": "liquefeito",
+    "start": 174.353,
+    "end": 175.463
+   },
+   {
+    "word": "em",
+    "start": 175.463,
+    "end": 175.683
+   },
+   {
+    "word": "2024",
+    "start": 175.683,
+    "end": 177.113
+   },
+   {
+    "word": "cerca",
+    "start": 177.113,
+    "end": 177.373
+   },
+   {
+    "word": "de",
+    "start": 177.373,
+    "end": 177.453
+   },
+   {
+    "word": "um",
+    "start": 177.453,
+    "end": 177.573
+   },
+   {
+    "word": "quinto",
+    "start": 177.573,
+    "end": 177.943
+   },
+   {
+    "word": "do",
+    "start": 177.943,
+    "end": 178.063
+   },
+   {
+    "word": "gás",
+    "start": 178.063,
+    "end": 178.243
+   },
+   {
+    "word": "liquefeito",
+    "start": 178.243,
+    "end": 178.853
+   },
+   {
+    "word": "comercializado",
+    "start": 178.853,
+    "end": 179.723
+   },
+   {
+    "word": "no",
+    "start": 179.723,
+    "end": 179.843
+   },
+   {
+    "word": "mundo",
+    "start": 179.843,
+    "end": 180.273
+   },
+   {
+    "word": "passou",
+    "start": 180.273,
+    "end": 180.643
+   },
+   {
+    "word": "por",
+    "start": 180.643,
+    "end": 180.833
+   },
+   {
+    "word": "Ormuz",
+    "start": 180.833,
+    "end": 181.493
+   }
+  ]
+ },
+ {
+  "scene": "orm-18",
+  "arquivo": "audios/narracao/exemplo-horizontal/orm-18.mp3",
+  "start": 182.025,
+  "end": 191.507,
+  "texto": "E quem compra é a Ásia, 84% do petróleo bruto ia para lá. China, Índia, Japão e Coreia do Sul ficavam com quase 70%.",
+  "segments": [
+   {
+    "start": 182.115,
+    "end": 187.225,
+    "text": "E quem compra é a Ásia, 84% do petróleo bruto ia para lá."
+   },
+   {
+    "start": 187.225,
+    "end": 191.425,
+    "text": "China, Índia, Japão e Coreia do Sul ficavam com quase 70%."
+   }
+  ],
+  "words": [
+   {
+    "word": "E",
+    "start": 182.115,
+    "end": 182.125
+   },
+   {
+    "word": "quem",
+    "start": 182.125,
+    "end": 182.545
+   },
+   {
+    "word": "compra",
+    "start": 182.545,
+    "end": 183.175
+   },
+   {
+    "word": "é",
+    "start": 183.175,
+    "end": 183.275
+   },
+   {
+    "word": "a",
+    "start": 183.275,
+    "end": 183.375
+   },
+   {
+    "word": "Ásia",
+    "start": 183.375,
+    "end": 184.015
+   },
+   {
+    "word": "84%",
+    "start": 184.015,
+    "end": 184.695
+   },
+   {
+    "word": "do",
+    "start": 184.695,
+    "end": 184.915
+   },
+   {
+    "word": "petróleo",
+    "start": 184.915,
+    "end": 185.675
+   },
+   {
+    "word": "bruto",
+    "start": 185.675,
+    "end": 186.165
+   },
+   {
+    "word": "ia",
+    "start": 186.165,
+    "end": 186.365
+   },
+   {
+    "word": "para",
+    "start": 186.365,
+    "end": 186.765
+   },
+   {
+    "word": "lá",
+    "start": 186.765,
+    "end": 187.225
+   },
+   {
+    "word": "China",
+    "start": 187.225,
+    "end": 187.725
+   },
+   {
+    "word": "Índia",
+    "start": 187.725,
+    "end": 188.285
+   },
+   {
+    "word": "Japão",
+    "start": 188.285,
+    "end": 188.645
+   },
+   {
+    "word": "e",
+    "start": 188.645,
+    "end": 188.715
+   },
+   {
+    "word": "Coreia",
+    "start": 188.715,
+    "end": 189.175
+   },
+   {
+    "word": "do",
+    "start": 189.175,
+    "end": 189.285
+   },
+   {
+    "word": "Sul",
+    "start": 189.285,
+    "end": 189.505
+   },
+   {
+    "word": "ficavam",
+    "start": 189.505,
+    "end": 190.015
+   },
+   {
+    "word": "com",
+    "start": 190.015,
+    "end": 190.235
+   },
+   {
+    "word": "quase",
+    "start": 190.235,
+    "end": 190.595
+   },
+   {
+    "word": "70%",
+    "start": 190.595,
+    "end": 191.425
+   }
+  ]
+ },
+ {
+  "scene": "orm-19",
+  "arquivo": "audios/narracao/exemplo-horizontal/orm-19.mp3",
+  "start": 191.927,
+  "end": 201.305,
+  "texto": "Existem desvios, a Arabia Saudita tem um óleo duto que atravessa o país até o Mar Vermelho, os Emirados tem outro até Fujairá, já do lado de fora do Estreito.",
+  "segments": [
+   {
+    "start": 191.967,
+    "end": 201.207,
+    "text": "Existem desvios, a Arabia Saudita tem um óleo duto que atravessa o país até o Mar Vermelho, os Emirados tem outro até Fujairá, já do lado de fora do Estreito."
+   }
+  ],
+  "words": [
+   {
+    "word": "Existem",
+    "start": 191.967,
+    "end": 192.537
+   },
+   {
+    "word": "desvios",
+    "start": 192.537,
+    "end": 193.267
+   },
+   {
+    "word": "a",
+    "start": 193.267,
+    "end": 193.297
+   },
+   {
+    "word": "Arabia",
+    "start": 193.297,
+    "end": 193.717
+   },
+   {
+    "word": "Saudita",
+    "start": 193.717,
+    "end": 194.207
+   },
+   {
+    "word": "tem",
+    "start": 194.207,
+    "end": 194.417
+   },
+   {
+    "word": "um",
+    "start": 194.417,
+    "end": 194.557
+   },
+   {
+    "word": "óleo",
+    "start": 194.557,
+    "end": 194.867
+   },
+   {
+    "word": "duto",
+    "start": 194.867,
+    "end": 195.127
+   },
+   {
+    "word": "que",
+    "start": 195.127,
+    "end": 195.307
+   },
+   {
+    "word": "atravessa",
+    "start": 195.307,
+    "end": 195.787
+   },
+   {
+    "word": "o",
+    "start": 195.787,
+    "end": 195.837
+   },
+   {
+    "word": "país",
+    "start": 195.837,
+    "end": 196.087
+   },
+   {
+    "word": "até",
+    "start": 196.087,
+    "end": 196.367
+   },
+   {
+    "word": "o",
+    "start": 196.367,
+    "end": 196.427
+   },
+   {
+    "word": "Mar",
+    "start": 196.427,
+    "end": 196.607
+   },
+   {
+    "word": "Vermelho",
+    "start": 196.607,
+    "end": 197.467
+   },
+   {
+    "word": "os",
+    "start": 197.467,
+    "end": 197.597
+   },
+   {
+    "word": "Emirados",
+    "start": 197.597,
+    "end": 198.117
+   },
+   {
+    "word": "tem",
+    "start": 198.117,
+    "end": 198.307
+   },
+   {
+    "word": "outro",
+    "start": 198.307,
+    "end": 198.807
+   },
+   {
+    "word": "até",
+    "start": 198.807,
+    "end": 198.817
+   },
+   {
+    "word": "Fujairá",
+    "start": 198.817,
+    "end": 199.387
+   },
+   {
+    "word": "já",
+    "start": 199.387,
+    "end": 199.517
+   },
+   {
+    "word": "do",
+    "start": 199.517,
+    "end": 199.647
+   },
+   {
+    "word": "lado",
+    "start": 199.647,
+    "end": 199.907
+   },
+   {
+    "word": "de",
+    "start": 199.907,
+    "end": 200.037
+   },
+   {
+    "word": "fora",
+    "start": 200.037,
+    "end": 200.297
+   },
+   {
+    "word": "do",
+    "start": 200.297,
+    "end": 200.427
+   },
+   {
+    "word": "Estreito",
+    "start": 200.427,
+    "end": 201.207
+   }
+  ]
+ },
+ {
+  "scene": "orm-20",
+  "arquivo": "audios/narracao/exemplo-horizontal/orm-20.mp3",
+  "start": 201.725,
+  "end": 212.435,
+  "texto": "Mas antes da guerra, a capacidade livre desses olhos adultos era de cerca de dois milhões e seiscentos mil barris por dia, pouco perto dos vinte milhões que passavam pelo estreito.",
+  "segments": [
+   {
+    "start": 201.755,
+    "end": 212.325,
+    "text": "Mas antes da guerra, a capacidade livre desses olhos adultos era de cerca de dois milhões e seiscentos mil barris por dia, pouco perto dos vinte milhões que passavam pelo estreito."
+   }
+  ],
+  "words": [
+   {
+    "word": "Mas",
+    "start": 201.755,
+    "end": 202.025
+   },
+   {
+    "word": "antes",
+    "start": 202.025,
+    "end": 202.525
+   },
+   {
+    "word": "da",
+    "start": 202.525,
+    "end": 202.725
+   },
+   {
+    "word": "guerra",
+    "start": 202.725,
+    "end": 203.525
+   },
+   {
+    "word": "a",
+    "start": 203.525,
+    "end": 203.535
+   },
+   {
+    "word": "capacidade",
+    "start": 203.535,
+    "end": 204.195
+   },
+   {
+    "word": "livre",
+    "start": 204.195,
+    "end": 204.525
+   },
+   {
+    "word": "desses",
+    "start": 204.525,
+    "end": 204.915
+   },
+   {
+    "word": "olhos",
+    "start": 204.915,
+    "end": 205.245
+   },
+   {
+    "word": "adultos",
+    "start": 205.245,
+    "end": 205.725
+   },
+   {
+    "word": "era",
+    "start": 205.725,
+    "end": 205.915
+   },
+   {
+    "word": "de",
+    "start": 205.915,
+    "end": 206.045
+   },
+   {
+    "word": "cerca",
+    "start": 206.045,
+    "end": 206.375
+   },
+   {
+    "word": "de",
+    "start": 206.375,
+    "end": 206.525
+   },
+   {
+    "word": "dois",
+    "start": 206.525,
+    "end": 206.775
+   },
+   {
+    "word": "milhões",
+    "start": 206.775,
+    "end": 207.225
+   },
+   {
+    "word": "e",
+    "start": 207.225,
+    "end": 207.285
+   },
+   {
+    "word": "seiscentos",
+    "start": 207.285,
+    "end": 207.935
+   },
+   {
+    "word": "mil",
+    "start": 207.935,
+    "end": 208.135
+   },
+   {
+    "word": "barris",
+    "start": 208.135,
+    "end": 208.525
+   },
+   {
+    "word": "por",
+    "start": 208.525,
+    "end": 208.875
+   },
+   {
+    "word": "dia",
+    "start": 208.875,
+    "end": 209.055
+   },
+   {
+    "word": "pouco",
+    "start": 209.055,
+    "end": 209.385
+   },
+   {
+    "word": "perto",
+    "start": 209.385,
+    "end": 209.715
+   },
+   {
+    "word": "dos",
+    "start": 209.715,
+    "end": 209.915
+   },
+   {
+    "word": "vinte",
+    "start": 209.915,
+    "end": 210.235
+   },
+   {
+    "word": "milhões",
+    "start": 210.235,
+    "end": 210.695
+   },
+   {
+    "word": "que",
+    "start": 210.695,
+    "end": 210.895
+   },
+   {
+    "word": "passavam",
+    "start": 210.895,
+    "end": 211.415
+   },
+   {
+    "word": "pelo",
+    "start": 211.415,
+    "end": 211.675
+   },
+   {
+    "word": "estreito",
+    "start": 211.675,
+    "end": 212.325
+   }
+  ]
+ },
+ {
+  "scene": "orm-21",
+  "arquivo": "audios/narracao/exemplo-horizontal/orm-21.mp3",
+  "start": 213.336,
+  "end": 223.889,
+  "texto": "Por décadas, o Irã ameaçou fechar o estreito sempre que era pressionado. Em 2019, navios foram atacados no Golfo de Omã e um petroleiro britânico foi apreendido.",
+  "segments": [
+   {
+    "start": 213.366,
+    "end": 217.516,
+    "text": "Por décadas, o Irã ameaçou fechar o estreito sempre que era pressionado."
+   },
+   {
+    "start": 217.516,
+    "end": 223.836,
+    "text": "Em 2019, navios foram atacados no Golfo de Omã e um petroleiro britânico foi apreendido."
+   }
+  ],
+  "words": [
+   {
+    "word": "Por",
+    "start": 213.366,
+    "end": 213.526
+   },
+   {
+    "word": "décadas",
+    "start": 213.526,
+    "end": 214.106
+   },
+   {
+    "word": "o",
+    "start": 214.106,
+    "end": 214.166
+   },
+   {
+    "word": "Irã",
+    "start": 214.166,
+    "end": 214.356
+   },
+   {
+    "word": "ameaçou",
+    "start": 214.356,
+    "end": 214.806
+   },
+   {
+    "word": "fechar",
+    "start": 214.806,
+    "end": 215.196
+   },
+   {
+    "word": "o",
+    "start": 215.196,
+    "end": 215.256
+   },
+   {
+    "word": "estreito",
+    "start": 215.256,
+    "end": 215.836
+   },
+   {
+    "word": "sempre",
+    "start": 215.836,
+    "end": 216.226
+   },
+   {
+    "word": "que",
+    "start": 216.226,
+    "end": 216.416
+   },
+   {
+    "word": "era",
+    "start": 216.416,
+    "end": 216.606
+   },
+   {
+    "word": "pressionado",
+    "start": 216.606,
+    "end": 217.516
+   },
+   {
+    "word": "Em",
+    "start": 217.516,
+    "end": 217.676
+   },
+   {
+    "word": "2019",
+    "start": 217.676,
+    "end": 218.806
+   },
+   {
+    "word": "navios",
+    "start": 218.806,
+    "end": 219.296
+   },
+   {
+    "word": "foram",
+    "start": 219.296,
+    "end": 219.686
+   },
+   {
+    "word": "atacados",
+    "start": 219.686,
+    "end": 220.326
+   },
+   {
+    "word": "no",
+    "start": 220.326,
+    "end": 220.486
+   },
+   {
+    "word": "Golfo",
+    "start": 220.486,
+    "end": 220.886
+   },
+   {
+    "word": "de",
+    "start": 220.886,
+    "end": 221.046
+   },
+   {
+    "word": "Omã",
+    "start": 221.046,
+    "end": 221.496
+   },
+   {
+    "word": "e",
+    "start": 221.496,
+    "end": 221.626
+   },
+   {
+    "word": "um",
+    "start": 221.626,
+    "end": 221.746
+   },
+   {
+    "word": "petroleiro",
+    "start": 221.746,
+    "end": 222.296
+   },
+   {
+    "word": "britânico",
+    "start": 222.296,
+    "end": 222.896
+   },
+   {
+    "word": "foi",
+    "start": 222.896,
+    "end": 223.096
+   },
+   {
+    "word": "apreendido",
+    "start": 223.096,
+    "end": 223.836
+   }
+  ]
+ },
+ {
+  "scene": "orm-22",
+  "arquivo": "audios/narracao/exemplo-horizontal/orm-22.mp3",
+  "start": 224.309,
+  "end": 238.729,
+  "texto": "Em junho de 2025, depois de ataques americanos a instalações nucleares, o Parlamento iraniano chegou a aprovar o fechamento, mas a palavra final era do Conselho Supremo de Segurança Nacional e o estreito continuou aberto.",
+  "segments": [
+   {
+    "start": 224.379,
+    "end": 238.729,
+    "text": "Em junho de 2025, depois de ataques americanos a instalações nucleares, o Parlamento iraniano chegou a aprovar o fechamento, mas a palavra final era do Conselho Supremo de Segurança Nacional e o estreito continuou aberto."
+   }
+  ],
+  "words": [
+   {
+    "word": "Em",
+    "start": 224.379,
+    "end": 224.499
+   },
+   {
+    "word": "junho",
+    "start": 224.499,
+    "end": 224.979
+   },
+   {
+    "word": "de",
+    "start": 224.979,
+    "end": 225.169
+   },
+   {
+    "word": "2025",
+    "start": 225.169,
+    "end": 226.539
+   },
+   {
+    "word": "depois",
+    "start": 226.539,
+    "end": 226.899
+   },
+   {
+    "word": "de",
+    "start": 226.899,
+    "end": 227.009
+   },
+   {
+    "word": "ataques",
+    "start": 227.009,
+    "end": 227.409
+   },
+   {
+    "word": "americanos",
+    "start": 227.409,
+    "end": 228.029
+   },
+   {
+    "word": "a",
+    "start": 228.029,
+    "end": 228.099
+   },
+   {
+    "word": "instalações",
+    "start": 228.099,
+    "end": 228.939
+   },
+   {
+    "word": "nucleares",
+    "start": 228.939,
+    "end": 229.629
+   },
+   {
+    "word": "o",
+    "start": 229.629,
+    "end": 229.699
+   },
+   {
+    "word": "Parlamento",
+    "start": 229.699,
+    "end": 230.369
+   },
+   {
+    "word": "iraniano",
+    "start": 230.369,
+    "end": 230.899
+   },
+   {
+    "word": "chegou",
+    "start": 230.899,
+    "end": 231.309
+   },
+   {
+    "word": "a",
+    "start": 231.309,
+    "end": 231.369
+   },
+   {
+    "word": "aprovar",
+    "start": 231.369,
+    "end": 231.839
+   },
+   {
+    "word": "o",
+    "start": 231.839,
+    "end": 231.899
+   },
+   {
+    "word": "fechamento",
+    "start": 231.899,
+    "end": 232.709
+   },
+   {
+    "word": "mas",
+    "start": 232.709,
+    "end": 232.929
+   },
+   {
+    "word": "a",
+    "start": 232.929,
+    "end": 232.989
+   },
+   {
+    "word": "palavra",
+    "start": 232.989,
+    "end": 233.529
+   },
+   {
+    "word": "final",
+    "start": 233.529,
+    "end": 233.869
+   },
+   {
+    "word": "era",
+    "start": 233.869,
+    "end": 234.119
+   },
+   {
+    "word": "do",
+    "start": 234.119,
+    "end": 234.229
+   },
+   {
+    "word": "Conselho",
+    "start": 234.229,
+    "end": 234.849
+   },
+   {
+    "word": "Supremo",
+    "start": 234.849,
+    "end": 235.299
+   },
+   {
+    "word": "de",
+    "start": 235.299,
+    "end": 235.449
+   },
+   {
+    "word": "Segurança",
+    "start": 235.449,
+    "end": 236.099
+   },
+   {
+    "word": "Nacional",
+    "start": 236.099,
+    "end": 236.749
+   },
+   {
+    "word": "e",
+    "start": 236.749,
+    "end": 236.819
+   },
+   {
+    "word": "o",
+    "start": 236.819,
+    "end": 236.889
+   },
+   {
+    "word": "estreito",
+    "start": 236.889,
+    "end": 237.449
+   },
+   {
+    "word": "continuou",
+    "start": 237.449,
+    "end": 238.079
+   },
+   {
+    "word": "aberto",
+    "start": 238.079,
+    "end": 238.729
+   }
+  ]
+ },
+ {
+  "scene": "orm-23",
+  "arquivo": "audios/narracao/exemplo-horizontal/orm-23.mp3",
+  "start": 239.629,
+  "end": 249.895,
+  "texto": "Até que, no dia 28 de fevereiro de 2026, os Estados Unidos e Israel atacaram o Irã. Em poucos dias, Tehran declarou o estreito fechado.",
+  "segments": [
+   {
+    "start": 239.709,
+    "end": 246.629,
+    "text": "Até que, no dia 28 de fevereiro de 2026, os Estados Unidos e Israel atacaram o Irã."
+   },
+   {
+    "start": 246.629,
+    "end": 249.789,
+    "text": "Em poucos dias, Tehran declarou o estreito fechado."
+   }
+  ],
+  "words": [
+   {
+    "word": "Até",
+    "start": 239.709,
+    "end": 239.889
+   },
+   {
+    "word": "que",
+    "start": 239.889,
+    "end": 240.319
+   },
+   {
+    "word": "no",
+    "start": 240.319,
+    "end": 240.489
+   },
+   {
+    "word": "dia",
+    "start": 240.489,
+    "end": 240.749
+   },
+   {
+    "word": "28",
+    "start": 240.749,
+    "end": 241.269
+   },
+   {
+    "word": "de",
+    "start": 241.269,
+    "end": 241.499
+   },
+   {
+    "word": "fevereiro",
+    "start": 241.499,
+    "end": 242.219
+   },
+   {
+    "word": "de",
+    "start": 242.219,
+    "end": 242.389
+   },
+   {
+    "word": "2026",
+    "start": 242.389,
+    "end": 243.729
+   },
+   {
+    "word": "os",
+    "start": 243.729,
+    "end": 243.809
+   },
+   {
+    "word": "Estados",
+    "start": 243.809,
+    "end": 244.299
+   },
+   {
+    "word": "Unidos",
+    "start": 244.299,
+    "end": 244.719
+   },
+   {
+    "word": "e",
+    "start": 244.719,
+    "end": 244.789
+   },
+   {
+    "word": "Israel",
+    "start": 244.789,
+    "end": 245.209
+   },
+   {
+    "word": "atacaram",
+    "start": 245.209,
+    "end": 245.769
+   },
+   {
+    "word": "o",
+    "start": 245.769,
+    "end": 245.869
+   },
+   {
+    "word": "Irã",
+    "start": 245.869,
+    "end": 246.629
+   },
+   {
+    "word": "Em",
+    "start": 246.629,
+    "end": 246.759
+   },
+   {
+    "word": "poucos",
+    "start": 246.759,
+    "end": 247.159
+   },
+   {
+    "word": "dias",
+    "start": 247.159,
+    "end": 247.549
+   },
+   {
+    "word": "Tehran",
+    "start": 247.549,
+    "end": 247.939
+   },
+   {
+    "word": "declarou",
+    "start": 247.939,
+    "end": 248.499
+   },
+   {
+    "word": "o",
+    "start": 248.499,
+    "end": 248.529
+   },
+   {
+    "word": "estreito",
+    "start": 248.529,
+    "end": 249.059
+   },
+   {
+    "word": "fechado",
+    "start": 249.059,
+    "end": 249.789
+   }
+  ]
+ },
+ {
+  "scene": "orm-24",
+  "arquivo": "audios/narracao/exemplo-horizontal/orm-24.mp3",
+  "start": 250.315,
+  "end": 255.722,
+  "texto": "Navios foram atingidos, as seguradoras retiraram as coberturas e o tráfego desabou.",
+  "segments": [
+   {
+    "start": 250.335,
+    "end": 255.655,
+    "text": "Navios foram atingidos, as seguradoras retiraram as coberturas e o tráfego desabou."
+   }
+  ],
+  "words": [
+   {
+    "word": "Navios",
+    "start": 250.335,
+    "end": 250.695
+   },
+   {
+    "word": "foram",
+    "start": 250.695,
+    "end": 251.005
+   },
+   {
+    "word": "atingidos",
+    "start": 251.005,
+    "end": 251.715
+   },
+   {
+    "word": "as",
+    "start": 251.715,
+    "end": 251.925
+   },
+   {
+    "word": "seguradoras",
+    "start": 251.925,
+    "end": 252.655
+   },
+   {
+    "word": "retiraram",
+    "start": 252.655,
+    "end": 253.315
+   },
+   {
+    "word": "as",
+    "start": 253.315,
+    "end": 253.455
+   },
+   {
+    "word": "coberturas",
+    "start": 253.455,
+    "end": 254.305
+   },
+   {
+    "word": "e",
+    "start": 254.305,
+    "end": 254.315
+   },
+   {
+    "word": "o",
+    "start": 254.315,
+    "end": 254.375
+   },
+   {
+    "word": "tráfego",
+    "start": 254.375,
+    "end": 254.875
+   },
+   {
+    "word": "desabou",
+    "start": 254.875,
+    "end": 255.655
+   }
+  ]
+ },
+ {
+  "scene": "orm-25",
+  "arquivo": "audios/narracao/exemplo-horizontal/orm-25.mp3",
+  "start": 256.142,
+  "end": 269.882,
+  "texto": "Em 8 de março, o barril do tipo Brand passou de 100 dólares pela primeira vez em 4 anos e a Agência Internacional de Energia coordenou a maior liberação de estoques de emergência da sua história, 400 milhões de barris.",
+  "segments": [
+   {
+    "start": 256.212,
+    "end": 269.822,
+    "text": "Em 8 de março, o barril do tipo Brand passou de 100 dólares pela primeira vez em 4 anos e a Agência Internacional de Energia coordenou a maior liberação de estoques de emergência da sua história, 400 milhões de barris."
+   }
+  ],
+  "words": [
+   {
+    "word": "Em",
+    "start": 256.212,
+    "end": 256.282
+   },
+   {
+    "word": "8",
+    "start": 256.282,
+    "end": 256.542
+   },
+   {
+    "word": "de",
+    "start": 256.542,
+    "end": 256.632
+   },
+   {
+    "word": "março",
+    "start": 256.632,
+    "end": 257.102
+   },
+   {
+    "word": "o",
+    "start": 257.102,
+    "end": 257.172
+   },
+   {
+    "word": "barril",
+    "start": 257.172,
+    "end": 257.572
+   },
+   {
+    "word": "do",
+    "start": 257.572,
+    "end": 257.722
+   },
+   {
+    "word": "tipo",
+    "start": 257.722,
+    "end": 257.992
+   },
+   {
+    "word": "Brand",
+    "start": 257.992,
+    "end": 258.422
+   },
+   {
+    "word": "passou",
+    "start": 258.422,
+    "end": 258.682
+   },
+   {
+    "word": "de",
+    "start": 258.682,
+    "end": 258.782
+   },
+   {
+    "word": "100",
+    "start": 258.782,
+    "end": 259.222
+   },
+   {
+    "word": "dólares",
+    "start": 259.222,
+    "end": 259.582
+   },
+   {
+    "word": "pela",
+    "start": 259.582,
+    "end": 259.842
+   },
+   {
+    "word": "primeira",
+    "start": 259.842,
+    "end": 260.372
+   },
+   {
+    "word": "vez",
+    "start": 260.372,
+    "end": 260.582
+   },
+   {
+    "word": "em",
+    "start": 260.582,
+    "end": 260.882
+   },
+   {
+    "word": "4",
+    "start": 260.882,
+    "end": 261.232
+   },
+   {
+    "word": "anos",
+    "start": 261.232,
+    "end": 261.782
+   },
+   {
+    "word": "e",
+    "start": 261.782,
+    "end": 261.842
+   },
+   {
+    "word": "a",
+    "start": 261.842,
+    "end": 261.902
+   },
+   {
+    "word": "Agência",
+    "start": 261.902,
+    "end": 262.352
+   },
+   {
+    "word": "Internacional",
+    "start": 262.352,
+    "end": 263.182
+   },
+   {
+    "word": "de",
+    "start": 263.182,
+    "end": 263.302
+   },
+   {
+    "word": "Energia",
+    "start": 263.302,
+    "end": 263.762
+   },
+   {
+    "word": "coordenou",
+    "start": 263.762,
+    "end": 264.382
+   },
+   {
+    "word": "a",
+    "start": 264.382,
+    "end": 264.452
+   },
+   {
+    "word": "maior",
+    "start": 264.452,
+    "end": 264.812
+   },
+   {
+    "word": "liberação",
+    "start": 264.812,
+    "end": 265.462
+   },
+   {
+    "word": "de",
+    "start": 265.462,
+    "end": 265.612
+   },
+   {
+    "word": "estoques",
+    "start": 265.612,
+    "end": 266.102
+   },
+   {
+    "word": "de",
+    "start": 266.102,
+    "end": 266.222
+   },
+   {
+    "word": "emergência",
+    "start": 266.222,
+    "end": 266.862
+   },
+   {
+    "word": "da",
+    "start": 266.862,
+    "end": 267.002
+   },
+   {
+    "word": "sua",
+    "start": 267.002,
+    "end": 267.262
+   },
+   {
+    "word": "história",
+    "start": 267.262,
+    "end": 267.912
+   },
+   {
+    "word": "400",
+    "start": 267.912,
+    "end": 268.542
+   },
+   {
+    "word": "milhões",
+    "start": 268.542,
+    "end": 269.032
+   },
+   {
+    "word": "de",
+    "start": 269.032,
+    "end": 269.172
+   },
+   {
+    "word": "barris",
+    "start": 269.172,
+    "end": 269.822
+   }
+  ]
+ },
+ {
+  "scene": "orm-26",
+  "arquivo": "audios/narracao/exemplo-horizontal/orm-26.mp3",
+  "start": 270.302,
+  "end": 278.269,
+  "texto": "A Arabia Saudita passou a mandar 7 milhões de barris por dia pelo óleo duto até o Mar Vermelho, mesmo assim não dava para compensar.",
+  "segments": [
+   {
+    "start": 270.342,
+    "end": 278.182,
+    "text": "A Arabia Saudita passou a mandar 7 milhões de barris por dia pelo óleo duto até o Mar Vermelho, mesmo assim não dava para compensar."
+   }
+  ],
+  "words": [
+   {
+    "word": "A",
+    "start": 270.342,
+    "end": 270.362
+   },
+   {
+    "word": "Arabia",
+    "start": 270.362,
+    "end": 270.742
+   },
+   {
+    "word": "Saudita",
+    "start": 270.742,
+    "end": 271.182
+   },
+   {
+    "word": "passou",
+    "start": 271.182,
+    "end": 271.562
+   },
+   {
+    "word": "a",
+    "start": 271.562,
+    "end": 271.622
+   },
+   {
+    "word": "mandar",
+    "start": 271.622,
+    "end": 272.002
+   },
+   {
+    "word": "7",
+    "start": 272.002,
+    "end": 272.192
+   },
+   {
+    "word": "milhões",
+    "start": 272.192,
+    "end": 272.632
+   },
+   {
+    "word": "de",
+    "start": 272.632,
+    "end": 272.752
+   },
+   {
+    "word": "barris",
+    "start": 272.752,
+    "end": 273.252
+   },
+   {
+    "word": "por",
+    "start": 273.252,
+    "end": 273.462
+   },
+   {
+    "word": "dia",
+    "start": 273.462,
+    "end": 273.742
+   },
+   {
+    "word": "pelo",
+    "start": 273.742,
+    "end": 274.042
+   },
+   {
+    "word": "óleo",
+    "start": 274.042,
+    "end": 274.332
+   },
+   {
+    "word": "duto",
+    "start": 274.332,
+    "end": 274.642
+   },
+   {
+    "word": "até",
+    "start": 274.642,
+    "end": 274.882
+   },
+   {
+    "word": "o",
+    "start": 274.882,
+    "end": 274.942
+   },
+   {
+    "word": "Mar",
+    "start": 274.942,
+    "end": 275.192
+   },
+   {
+    "word": "Vermelho",
+    "start": 275.192,
+    "end": 276.062
+   },
+   {
+    "word": "mesmo",
+    "start": 276.062,
+    "end": 276.382
+   },
+   {
+    "word": "assim",
+    "start": 276.382,
+    "end": 276.702
+   },
+   {
+    "word": "não",
+    "start": 276.702,
+    "end": 276.912
+   },
+   {
+    "word": "dava",
+    "start": 276.912,
+    "end": 277.142
+   },
+   {
+    "word": "para",
+    "start": 277.142,
+    "end": 277.382
+   },
+   {
+    "word": "compensar",
+    "start": 277.382,
+    "end": 278.182
+   }
+  ]
+ },
+ {
+  "scene": "orm-27",
+  "arquivo": "audios/narracao/exemplo-horizontal/orm-27.mp3",
+  "start": 278.69,
+  "end": 288.486,
+  "texto": "Em abril, os Estados Unidos impuseram um bloqueio naval aos portos do Irã. Vieram tréguas, acordos e rupturas e o estreito voltou a ser fechado mais de uma vez.",
+  "segments": [
+   {
+    "start": 278.76,
+    "end": 282.95,
+    "text": "Em abril, os Estados Unidos impuseram um bloqueio naval aos portos do Irã."
+   },
+   {
+    "start": 282.95,
+    "end": 288.47,
+    "text": "Vieram tréguas, acordos e rupturas e o estreito voltou a ser fechado mais de uma vez."
+   }
+  ],
+  "words": [
+   {
+    "word": "Em",
+    "start": 278.76,
+    "end": 278.81
+   },
+   {
+    "word": "abril",
+    "start": 278.81,
+    "end": 279.23
+   },
+   {
+    "word": "os",
+    "start": 279.23,
+    "end": 279.35
+   },
+   {
+    "word": "Estados",
+    "start": 279.35,
+    "end": 279.78
+   },
+   {
+    "word": "Unidos",
+    "start": 279.78,
+    "end": 280.14
+   },
+   {
+    "word": "impuseram",
+    "start": 280.14,
+    "end": 280.68
+   },
+   {
+    "word": "um",
+    "start": 280.68,
+    "end": 280.8
+   },
+   {
+    "word": "bloqueio",
+    "start": 280.8,
+    "end": 281.28
+   },
+   {
+    "word": "naval",
+    "start": 281.28,
+    "end": 281.65
+   },
+   {
+    "word": "aos",
+    "start": 281.65,
+    "end": 281.95
+   },
+   {
+    "word": "portos",
+    "start": 281.95,
+    "end": 282.47
+   },
+   {
+    "word": "do",
+    "start": 282.47,
+    "end": 282.65
+   },
+   {
+    "word": "Irã",
+    "start": 282.65,
+    "end": 282.95
+   },
+   {
+    "word": "Vieram",
+    "start": 282.95,
+    "end": 283.45
+   },
+   {
+    "word": "tréguas",
+    "start": 283.45,
+    "end": 284.21
+   },
+   {
+    "word": "acordos",
+    "start": 284.21,
+    "end": 284.81
+   },
+   {
+    "word": "e",
+    "start": 284.81,
+    "end": 284.89
+   },
+   {
+    "word": "rupturas",
+    "start": 284.89,
+    "end": 285.63
+   },
+   {
+    "word": "e",
+    "start": 285.63,
+    "end": 285.7
+   },
+   {
+    "word": "o",
+    "start": 285.7,
+    "end": 285.75
+   },
+   {
+    "word": "estreito",
+    "start": 285.75,
+    "end": 286.28
+   },
+   {
+    "word": "voltou",
+    "start": 286.28,
+    "end": 286.68
+   },
+   {
+    "word": "a",
+    "start": 286.68,
+    "end": 286.74
+   },
+   {
+    "word": "ser",
+    "start": 286.74,
+    "end": 286.94
+   },
+   {
+    "word": "fechado",
+    "start": 286.94,
+    "end": 287.4
+   },
+   {
+    "word": "mais",
+    "start": 287.4,
+    "end": 287.67
+   },
+   {
+    "word": "de",
+    "start": 287.67,
+    "end": 287.8
+   },
+   {
+    "word": "uma",
+    "start": 287.8,
+    "end": 288.0
+   },
+   {
+    "word": "vez",
+    "start": 288.0,
+    "end": 288.47
+   }
+  ]
+ },
+ {
+  "scene": "orm-28",
+  "arquivo": "audios/narracao/exemplo-horizontal/orm-28.mp3",
+  "start": 288.906,
+  "end": 302.255,
+  "texto": "Em setembro, segundo a Agência Internacional de Energia, passaram por ali cerca de 10 milhões e 900 mil barris por dia, pouco mais da metade do que antes da guerra, e em outubro os ataques a navios voltaram a crescer.",
+  "segments": [
+   {
+    "start": 288.956,
+    "end": 302.186,
+    "text": "Em setembro, segundo a Agência Internacional de Energia, passaram por ali cerca de 10 milhões e 900 mil barris por dia, pouco mais da metade do que antes da guerra, e em outubro os ataques a navios voltaram a crescer."
+   }
+  ],
+  "words": [
+   {
+    "word": "Em",
+    "start": 288.956,
+    "end": 289.036
+   },
+   {
+    "word": "setembro",
+    "start": 289.036,
+    "end": 289.696
+   },
+   {
+    "word": "segundo",
+    "start": 289.696,
+    "end": 290.156
+   },
+   {
+    "word": "a",
+    "start": 290.156,
+    "end": 290.216
+   },
+   {
+    "word": "Agência",
+    "start": 290.216,
+    "end": 290.696
+   },
+   {
+    "word": "Internacional",
+    "start": 290.696,
+    "end": 291.536
+   },
+   {
+    "word": "de",
+    "start": 291.536,
+    "end": 291.666
+   },
+   {
+    "word": "Energia",
+    "start": 291.666,
+    "end": 292.356
+   },
+   {
+    "word": "passaram",
+    "start": 292.356,
+    "end": 292.786
+   },
+   {
+    "word": "por",
+    "start": 292.786,
+    "end": 292.936
+   },
+   {
+    "word": "ali",
+    "start": 292.936,
+    "end": 293.126
+   },
+   {
+    "word": "cerca",
+    "start": 293.126,
+    "end": 293.446
+   },
+   {
+    "word": "de",
+    "start": 293.446,
+    "end": 293.576
+   },
+   {
+    "word": "10",
+    "start": 293.576,
+    "end": 294.006
+   },
+   {
+    "word": "milhões",
+    "start": 294.006,
+    "end": 294.346
+   },
+   {
+    "word": "e",
+    "start": 294.346,
+    "end": 294.416
+   },
+   {
+    "word": "900",
+    "start": 294.416,
+    "end": 295.086
+   },
+   {
+    "word": "mil",
+    "start": 295.086,
+    "end": 295.306
+   },
+   {
+    "word": "barris",
+    "start": 295.306,
+    "end": 295.746
+   },
+   {
+    "word": "por",
+    "start": 295.746,
+    "end": 295.966
+   },
+   {
+    "word": "dia",
+    "start": 295.966,
+    "end": 296.336
+   },
+   {
+    "word": "pouco",
+    "start": 296.336,
+    "end": 296.706
+   },
+   {
+    "word": "mais",
+    "start": 296.706,
+    "end": 297.006
+   },
+   {
+    "word": "da",
+    "start": 297.006,
+    "end": 297.156
+   },
+   {
+    "word": "metade",
+    "start": 297.156,
+    "end": 297.746
+   },
+   {
+    "word": "do",
+    "start": 297.746,
+    "end": 297.796
+   },
+   {
+    "word": "que",
+    "start": 297.796,
+    "end": 297.976
+   },
+   {
+    "word": "antes",
+    "start": 297.976,
+    "end": 298.336
+   },
+   {
+    "word": "da",
+    "start": 298.336,
+    "end": 298.486
+   },
+   {
+    "word": "guerra",
+    "start": 298.486,
+    "end": 299.166
+   },
+   {
+    "word": "e",
+    "start": 299.166,
+    "end": 299.236
+   },
+   {
+    "word": "em",
+    "start": 299.236,
+    "end": 299.386
+   },
+   {
+    "word": "outubro",
+    "start": 299.386,
+    "end": 299.946
+   },
+   {
+    "word": "os",
+    "start": 299.946,
+    "end": 300.106
+   },
+   {
+    "word": "ataques",
+    "start": 300.106,
+    "end": 300.586
+   },
+   {
+    "word": "a",
+    "start": 300.586,
+    "end": 300.646
+   },
+   {
+    "word": "navios",
+    "start": 300.646,
+    "end": 301.036
+   },
+   {
+    "word": "voltaram",
+    "start": 301.036,
+    "end": 301.486
+   },
+   {
+    "word": "a",
+    "start": 301.486,
+    "end": 301.546
+   },
+   {
+    "word": "crescer",
+    "start": 301.546,
+    "end": 302.186
+   }
+  ]
+ },
+ {
+  "scene": "orm-29",
+  "arquivo": "audios/narracao/exemplo-horizontal/orm-29.mp3",
+  "start": 302.674,
+  "end": 308.186,
+  "texto": "Até a data desta pesquisa em meados de outubro de 2026, a crise continua.",
+  "segments": [
+   {
+    "start": 302.754,
+    "end": 308.074,
+    "text": "Até a data desta pesquisa em meados de outubro de 2026, a crise continua."
+   }
+  ],
+  "words": [
+   {
+    "word": "Até",
+    "start": 302.754,
+    "end": 302.904
+   },
+   {
+    "word": "a",
+    "start": 302.904,
+    "end": 302.954
+   },
+   {
+    "word": "data",
+    "start": 302.954,
+    "end": 303.234
+   },
+   {
+    "word": "desta",
+    "start": 303.234,
+    "end": 303.624
+   },
+   {
+    "word": "pesquisa",
+    "start": 303.624,
+    "end": 304.114
+   },
+   {
+    "word": "em",
+    "start": 304.114,
+    "end": 304.254
+   },
+   {
+    "word": "meados",
+    "start": 304.254,
+    "end": 304.674
+   },
+   {
+    "word": "de",
+    "start": 304.674,
+    "end": 304.804
+   },
+   {
+    "word": "outubro",
+    "start": 304.804,
+    "end": 305.274
+   },
+   {
+    "word": "de",
+    "start": 305.274,
+    "end": 305.474
+   },
+   {
+    "word": "2026",
+    "start": 305.474,
+    "end": 307.044
+   },
+   {
+    "word": "a",
+    "start": 307.044,
+    "end": 307.104
+   },
+   {
+    "word": "crise",
+    "start": 307.104,
+    "end": 307.404
+   },
+   {
+    "word": "continua",
+    "start": 307.404,
+    "end": 308.074
+   }
+  ]
+ },
+ {
+  "scene": "orm-30",
+  "arquivo": "audios/narracao/exemplo-horizontal/orm-30.mp3",
+  "start": 309.286,
+  "end": 316.522,
+  "texto": "Ormuz mostra uma regra antiga da geopolítica. Quem controla uma passagem estreita tem poder sobre quem depende dela.",
+  "segments": [
+   {
+    "start": 309.346,
+    "end": 312.426,
+    "text": "Ormuz mostra uma regra antiga da geopolítica."
+   },
+   {
+    "start": 312.426,
+    "end": 316.466,
+    "text": "Quem controla uma passagem estreita tem poder sobre quem depende dela."
+   }
+  ],
+  "words": [
+   {
+    "word": "Ormuz",
+    "start": 309.346,
+    "end": 309.736
+   },
+   {
+    "word": "mostra",
+    "start": 309.736,
+    "end": 310.206
+   },
+   {
+    "word": "uma",
+    "start": 310.206,
+    "end": 310.436
+   },
+   {
+    "word": "regra",
+    "start": 310.436,
+    "end": 310.816
+   },
+   {
+    "word": "antiga",
+    "start": 310.816,
+    "end": 311.276
+   },
+   {
+    "word": "da",
+    "start": 311.276,
+    "end": 311.426
+   },
+   {
+    "word": "geopolítica",
+    "start": 311.426,
+    "end": 312.426
+   },
+   {
+    "word": "Quem",
+    "start": 312.426,
+    "end": 312.676
+   },
+   {
+    "word": "controla",
+    "start": 312.676,
+    "end": 313.176
+   },
+   {
+    "word": "uma",
+    "start": 313.176,
+    "end": 313.366
+   },
+   {
+    "word": "passagem",
+    "start": 313.366,
+    "end": 313.866
+   },
+   {
+    "word": "estreita",
+    "start": 313.866,
+    "end": 314.406
+   },
+   {
+    "word": "tem",
+    "start": 314.406,
+    "end": 314.596
+   },
+   {
+    "word": "poder",
+    "start": 314.596,
+    "end": 314.926
+   },
+   {
+    "word": "sobre",
+    "start": 314.926,
+    "end": 315.246
+   },
+   {
+    "word": "quem",
+    "start": 315.246,
+    "end": 315.666
+   },
+   {
+    "word": "depende",
+    "start": 315.666,
+    "end": 315.976
+   },
+   {
+    "word": "dela",
+    "start": 315.976,
+    "end": 316.466
+   }
+  ]
+ },
+ {
+  "scene": "orm-31",
+  "arquivo": "audios/narracao/exemplo-horizontal/orm-31.mp3",
+  "start": 316.942,
+  "end": 326.268,
+  "texto": "Mas é um poder caro. O próprio Irã embarcava quase todo o seu petróleo na ilha de carga dentro do Golfo e precisa do estreito tanto quanto os vizinhos.",
+  "segments": [
+   {
+    "start": 316.972,
+    "end": 318.402,
+    "text": "Mas é um poder caro."
+   },
+   {
+    "start": 318.402,
+    "end": 326.182,
+    "text": "O próprio Irã embarcava quase todo o seu petróleo na ilha de carga dentro do Golfo e precisa do estreito tanto quanto os vizinhos."
+   }
+  ],
+  "words": [
+   {
+    "word": "Mas",
+    "start": 316.972,
+    "end": 317.212
+   },
+   {
+    "word": "é",
+    "start": 317.212,
+    "end": 317.302
+   },
+   {
+    "word": "um",
+    "start": 317.302,
+    "end": 317.482
+   },
+   {
+    "word": "poder",
+    "start": 317.482,
+    "end": 317.932
+   },
+   {
+    "word": "caro",
+    "start": 317.932,
+    "end": 318.402
+   },
+   {
+    "word": "O",
+    "start": 318.402,
+    "end": 318.402
+   },
+   {
+    "word": "próprio",
+    "start": 318.402,
+    "end": 318.872
+   },
+   {
+    "word": "Irã",
+    "start": 318.872,
+    "end": 319.062
+   },
+   {
+    "word": "embarcava",
+    "start": 319.062,
+    "end": 319.702
+   },
+   {
+    "word": "quase",
+    "start": 319.702,
+    "end": 320.082
+   },
+   {
+    "word": "todo",
+    "start": 320.082,
+    "end": 320.382
+   },
+   {
+    "word": "o",
+    "start": 320.382,
+    "end": 320.452
+   },
+   {
+    "word": "seu",
+    "start": 320.452,
+    "end": 320.702
+   },
+   {
+    "word": "petróleo",
+    "start": 320.702,
+    "end": 321.222
+   },
+   {
+    "word": "na",
+    "start": 321.222,
+    "end": 321.342
+   },
+   {
+    "word": "ilha",
+    "start": 321.342,
+    "end": 321.582
+   },
+   {
+    "word": "de",
+    "start": 321.582,
+    "end": 321.812
+   },
+   {
+    "word": "carga",
+    "start": 321.812,
+    "end": 322.452
+   },
+   {
+    "word": "dentro",
+    "start": 322.452,
+    "end": 322.822
+   },
+   {
+    "word": "do",
+    "start": 322.822,
+    "end": 322.942
+   },
+   {
+    "word": "Golfo",
+    "start": 322.942,
+    "end": 323.582
+   },
+   {
+    "word": "e",
+    "start": 323.582,
+    "end": 323.602
+   },
+   {
+    "word": "precisa",
+    "start": 323.602,
+    "end": 324.162
+   },
+   {
+    "word": "do",
+    "start": 324.162,
+    "end": 324.222
+   },
+   {
+    "word": "estreito",
+    "start": 324.222,
+    "end": 324.762
+   },
+   {
+    "word": "tanto",
+    "start": 324.762,
+    "end": 325.142
+   },
+   {
+    "word": "quanto",
+    "start": 325.142,
+    "end": 325.342
+   },
+   {
+    "word": "os",
+    "start": 325.342,
+    "end": 325.462
+   },
+   {
+    "word": "vizinhos",
+    "start": 325.462,
+    "end": 326.182
+   }
+  ]
+ },
+ {
+  "scene": "orm-32",
+  "arquivo": "audios/narracao/exemplo-horizontal/orm-32.mp3",
+  "start": 326.688,
+  "end": 334.264,
+  "texto": "Por isso estes 33 quilômetros de água continuam pesando no preço do combustível em Tóquio, em Mumbai e também aqui no Brasil.",
+  "segments": [
+   {
+    "start": 326.788,
+    "end": 334.168,
+    "text": "Por isso estes 33 quilômetros de água continuam pesando no preço do combustível em Tóquio, em Mumbai e também aqui no Brasil."
+   }
+  ],
+  "words": [
+   {
+    "word": "Por",
+    "start": 326.788,
+    "end": 326.888
+   },
+   {
+    "word": "isso",
+    "start": 326.888,
+    "end": 327.158
+   },
+   {
+    "word": "estes",
+    "start": 327.158,
+    "end": 327.578
+   },
+   {
+    "word": "33",
+    "start": 327.578,
+    "end": 327.898
+   },
+   {
+    "word": "quilômetros",
+    "start": 327.898,
+    "end": 328.688
+   },
+   {
+    "word": "de",
+    "start": 328.688,
+    "end": 328.848
+   },
+   {
+    "word": "água",
+    "start": 328.848,
+    "end": 329.228
+   },
+   {
+    "word": "continuam",
+    "start": 329.228,
+    "end": 329.648
+   },
+   {
+    "word": "pesando",
+    "start": 329.648,
+    "end": 330.188
+   },
+   {
+    "word": "no",
+    "start": 330.188,
+    "end": 330.248
+   },
+   {
+    "word": "preço",
+    "start": 330.248,
+    "end": 330.608
+   },
+   {
+    "word": "do",
+    "start": 330.608,
+    "end": 330.688
+   },
+   {
+    "word": "combustível",
+    "start": 330.688,
+    "end": 331.308
+   },
+   {
+    "word": "em",
+    "start": 331.308,
+    "end": 331.638
+   },
+   {
+    "word": "Tóquio",
+    "start": 331.638,
+    "end": 332.218
+   },
+   {
+    "word": "em",
+    "start": 332.218,
+    "end": 332.328
+   },
+   {
+    "word": "Mumbai",
+    "start": 332.328,
+    "end": 332.908
+   },
+   {
+    "word": "e",
+    "start": 332.908,
+    "end": 332.988
+   },
+   {
+    "word": "também",
+    "start": 332.988,
+    "end": 333.368
+   },
+   {
+    "word": "aqui",
+    "start": 333.368,
+    "end": 333.618
+   },
+   {
+    "word": "no",
+    "start": 333.618,
+    "end": 333.738
+   },
+   {
+    "word": "Brasil",
+    "start": 333.738,
+    "end": 334.168
+   }
+  ]
+ },
+ {
+  "scene": "orm-33",
+  "arquivo": "audios/narracao/exemplo-horizontal/orm-33.mp3",
+  "start": 335.263,
+  "end": 347.436,
+  "texto": "Se você gosta de entender o mundo pelo mapa, siga o canal e ative o sino. Deixe o seu like e compartilhe este vídeo e me conta aqui nos comentários. Você acha que o estreito de ormuz um dia vai voltar a ser o que era?",
+  "segments": [
+   {
+    "start": 335.323,
+    "end": 339.503,
+    "text": "Se você gosta de entender o mundo pelo mapa, siga o canal e ative o sino."
+   },
+   {
+    "start": 339.503,
+    "end": 344.023,
+    "text": "Deixe o seu like e compartilhe este vídeo e me conta aqui nos comentários."
+   },
+   {
+    "start": 344.023,
+    "end": 347.303,
+    "text": "Você acha que o estreito de ormuz um dia vai voltar a ser o que era?"
+   }
+  ],
+  "words": [
+   {
+    "word": "Se",
+    "start": 335.323,
+    "end": 335.393
+   },
+   {
+    "word": "você",
+    "start": 335.393,
+    "end": 335.663
+   },
+   {
+    "word": "gosta",
+    "start": 335.663,
+    "end": 336.003
+   },
+   {
+    "word": "de",
+    "start": 336.003,
+    "end": 336.133
+   },
+   {
+    "word": "entender",
+    "start": 336.133,
+    "end": 336.683
+   },
+   {
+    "word": "o",
+    "start": 336.683,
+    "end": 336.753
+   },
+   {
+    "word": "mundo",
+    "start": 336.753,
+    "end": 337.093
+   },
+   {
+    "word": "pelo",
+    "start": 337.093,
+    "end": 337.363
+   },
+   {
+    "word": "mapa",
+    "start": 337.363,
+    "end": 337.853
+   },
+   {
+    "word": "siga",
+    "start": 337.853,
+    "end": 338.143
+   },
+   {
+    "word": "o",
+    "start": 338.143,
+    "end": 338.213
+   },
+   {
+    "word": "canal",
+    "start": 338.213,
+    "end": 338.603
+   },
+   {
+    "word": "e",
+    "start": 338.603,
+    "end": 338.663
+   },
+   {
+    "word": "ative",
+    "start": 338.663,
+    "end": 339.043
+   },
+   {
+    "word": "o",
+    "start": 339.043,
+    "end": 339.103
+   },
+   {
+    "word": "sino",
+    "start": 339.103,
+    "end": 339.503
+   },
+   {
+    "word": "Deixe",
+    "start": 339.503,
+    "end": 339.883
+   },
+   {
+    "word": "o",
+    "start": 339.883,
+    "end": 339.953
+   },
+   {
+    "word": "seu",
+    "start": 339.953,
+    "end": 340.213
+   },
+   {
+    "word": "like",
+    "start": 340.213,
+    "end": 340.513
+   },
+   {
+    "word": "e",
+    "start": 340.513,
+    "end": 340.563
+   },
+   {
+    "word": "compartilhe",
+    "start": 340.563,
+    "end": 341.413
+   },
+   {
+    "word": "este",
+    "start": 341.413,
+    "end": 341.723
+   },
+   {
+    "word": "vídeo",
+    "start": 341.723,
+    "end": 342.183
+   },
+   {
+    "word": "e",
+    "start": 342.183,
+    "end": 342.243
+   },
+   {
+    "word": "me",
+    "start": 342.243,
+    "end": 342.363
+   },
+   {
+    "word": "conta",
+    "start": 342.363,
+    "end": 342.673
+   },
+   {
+    "word": "aqui",
+    "start": 342.673,
+    "end": 342.923
+   },
+   {
+    "word": "nos",
+    "start": 342.923,
+    "end": 343.113
+   },
+   {
+    "word": "comentários",
+    "start": 343.113,
+    "end": 344.023
+   },
+   {
+    "word": "Você",
+    "start": 344.023,
+    "end": 344.253
+   },
+   {
+    "word": "acha",
+    "start": 344.253,
+    "end": 344.483
+   },
+   {
+    "word": "que",
+    "start": 344.483,
+    "end": 344.653
+   },
+   {
+    "word": "o",
+    "start": 344.653,
+    "end": 344.733
+   },
+   {
+    "word": "estreito",
+    "start": 344.733,
+    "end": 345.173
+   },
+   {
+    "word": "de",
+    "start": 345.173,
+    "end": 345.283
+   },
+   {
+    "word": "ormuz",
+    "start": 345.283,
+    "end": 345.553
+   },
+   {
+    "word": "um",
+    "start": 345.553,
+    "end": 345.663
+   },
+   {
+    "word": "dia",
+    "start": 345.663,
+    "end": 345.833
+   },
+   {
+    "word": "vai",
+    "start": 345.833,
+    "end": 346.003
+   },
+   {
+    "word": "voltar",
+    "start": 346.003,
+    "end": 346.353
+   },
+   {
+    "word": "a",
+    "start": 346.353,
+    "end": 346.413
+   },
+   {
+    "word": "ser",
+    "start": 346.413,
+    "end": 346.583
+   },
+   {
+    "word": "o",
+    "start": 346.583,
+    "end": 346.643
+   },
+   {
+    "word": "que",
+    "start": 346.643,
+    "end": 346.813
+   },
+   {
+    "word": "era",
+    "start": 346.813,
+    "end": 347.303
+   }
+  ]
+ }
+]

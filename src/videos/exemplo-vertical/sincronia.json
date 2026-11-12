@@ -1,0 +1,553 @@
+{
+ "pastaDoAudio": "audios/narracao/exemplo-vertical",
+ "falas": [
+  "am-01",
+  "am-02",
+  "am-03",
+  "am-04",
+  "am-05",
+  "am-06",
+  "am-07",
+  "am-08",
+  "am-09",
+  "am-10",
+  "am-11",
+  "am-12",
+  "am-13",
+  "am-14",
+  "am-15",
+  "am-16",
+  "am-17",
+  "am-18",
+  "am-19",
+  "am-20"
+ ],
+ "inicio": 0.05,
+ "pausa": 0.16,
+ "pausas": {
+  "am-03": 0.4,
+  "am-11": 0.4
+ },
+ "correcoes": [
+  [
+   [
+    "deca",
+    "das"
+   ],
+   "Décadas"
+  ],
+  [
+   [
+    "janauario"
+   ],
+   "Janauari"
+  ],
+  [
+   [
+    "vitorias",
+    "rejas"
+   ],
+   "vitórias-régias"
+  ],
+  [
+   [
+    "adolfo"
+   ],
+   "Adolpho"
+  ],
+  [
+   [
+    "botos",
+    "gorde",
+    "rosa"
+   ],
+   "botos-cor-de-rosa"
+  ],
+  [
+   [
+    "o",
+    "satere",
+    "maue"
+   ],
+   "os Sateré-Mawé"
+  ],
+  [
+   [
+    "satere",
+    "maue"
+   ],
+   "Sateré-Mawé"
+  ],
+  [
+   [
+    "os",
+    "solimoes"
+   ],
+   "o Solimões"
+  ]
+ ],
+ "gatilhos": {
+  "am-01": [
+   [
+    "maiorRio",
+    "o maior rio",
+    "o rio acende"
+   ],
+   [
+    "atravessa",
+    "atravessa"
+   ],
+   [
+    "amazonas",
+    "o amazonas",
+    "o estado acende"
+   ],
+   [
+    "inteiro",
+    "inteiro"
+   ],
+   [
+    "existe",
+    "nao existe"
+   ],
+   [
+    "ponte",
+    "ponte",
+    "ponte cortada"
+   ]
+  ],
+  "am-02": [
+   [
+    "maiorEstado",
+    "maior estado",
+    "a bandeira abre"
+   ],
+   [
+    "guarda",
+    "guarda"
+   ],
+   [
+    "teatro",
+    "teatro",
+    "foto Teatro"
+   ],
+   [
+    "praias",
+    "praias de rio",
+    "foto praia"
+   ],
+   [
+    "cachoeiras",
+    "cachoeiras",
+    "foto cachoeira"
+   ],
+   [
+    "mata",
+    "mata"
+   ]
+  ],
+  "am-03": [
+   [
+    "norte",
+    "fica no norte",
+    "Região Norte"
+   ],
+   [
+    "divisa",
+    "faz divisa",
+    "recuo até os vizinhos"
+   ],
+   [
+    "roraima",
+    "roraima",
+    "RR"
+   ],
+   [
+    "para",
+    "para",
+    "PA"
+   ],
+   [
+    "mt",
+    "mato grosso",
+    "MT"
+   ],
+   [
+    "rondonia",
+    "rondonia",
+    "RO"
+   ],
+   [
+    "acre",
+    "acre",
+    "AC"
+   ],
+   [
+    "fronteira",
+    "fronteira"
+   ],
+   [
+    "venezuela",
+    "venezuela",
+    "VEN"
+   ],
+   [
+    "colombia",
+    "colombia",
+    "COL"
+   ],
+   [
+    "peru",
+    "peru",
+    "PER"
+   ]
+  ],
+  "am-04": [
+   [
+    "municipios",
+    "municipios",
+    "malha + 62"
+   ],
+   [
+    "milhoes",
+    "mais de 4 milhoes",
+    "pontos + habitantes"
+   ],
+   [
+    "metade",
+    "metade"
+   ],
+   [
+    "manaus",
+    "em manaus",
+    "pino Manaus"
+   ],
+   [
+    "maiorCidade",
+    "maior cidade",
+    "tag"
+   ]
+  ],
+  "am-05": [
+   [
+    "aventura",
+    "aventura"
+   ],
+   [
+    "aviao",
+    "aviao",
+    "ícone avião"
+   ],
+   [
+    "barco",
+    "barco",
+    "ícone barco"
+   ],
+   [
+    "terra",
+    "por terra"
+   ],
+   [
+    "br319",
+    "br319",
+    "BR-319"
+   ],
+   [
+    "centenas",
+    "centenas",
+    "trecho de terra"
+   ],
+   [
+    "floresta",
+    "floresta"
+   ]
+  ],
+  "am-06": [
+   [
+    "borracha",
+    "borracha",
+    "satélite cinza"
+   ],
+   [
+    "paris",
+    "paris dos tropicos",
+    "tag"
+   ],
+   [
+    "ergueu",
+    "ergueu"
+   ],
+   [
+    "teatroAm",
+    "teatro amazonas",
+    "foto"
+   ],
+   [
+    "europa",
+    "europa"
+   ]
+  ],
+  "am-07": [
+   [
+    "ingles",
+    "ingles"
+   ],
+   [
+    "sementes",
+    "sementes",
+    "70.000"
+   ],
+   [
+    "seringueira",
+    "seringueira"
+   ],
+   [
+    "asia",
+    "asia",
+    "seta à Ásia"
+   ],
+   [
+    "acabou",
+    "acabou"
+   ]
+  ],
+  "am-08": [
+   [
+    "decadas",
+    "decadas",
+    "cor volta"
+   ],
+   [
+    "zonaFranca",
+    "zona franca"
+   ],
+   [
+    "moto",
+    "moto",
+    "ícone moto"
+   ],
+   [
+    "saiManaus",
+    "sai de manaus"
+   ]
+  ],
+  "am-09": [
+   [
+    "mercado",
+    "mercado",
+    "foto Mercado"
+   ],
+   [
+    "pontaNegra",
+    "ponta negra",
+    "foto Ponta Negra"
+   ]
+  ],
+  "am-10": [
+   [
+    "negro",
+    "negro"
+   ],
+   [
+    "escuro",
+    "escuro"
+   ],
+   [
+    "solimoes",
+    "osolimoes"
+   ],
+   [
+    "barrento",
+    "barrento"
+   ],
+   [
+    "misturar",
+    "misturar"
+   ],
+   [
+    "juntos",
+    "juntos"
+   ],
+   [
+    "rioAmazonas",
+    "rio amazonas",
+    "recuo"
+   ]
+  ],
+  "am-11": [
+   [
+    "mas",
+    "mas e saindo",
+    "impacto"
+   ],
+   [
+    "impressiona",
+    "impressiona"
+   ]
+  ],
+  "am-12": [
+   [
+    "janauari",
+    "janauari",
+    "pino + foto"
+   ],
+   [
+    "vitorias",
+    "vitorias-regias"
+   ],
+   [
+    "doisMetros",
+    "dois metros"
+   ]
+  ],
+  "am-13": [
+   [
+    "novoAirao",
+    "novo airao",
+    "pino"
+   ],
+   [
+    "anavilhanas",
+    "anavilhanas"
+   ],
+   [
+    "ilhas",
+    "ilhas"
+   ],
+   [
+    "botos",
+    "botos-cor-de-rosa",
+    "foto boto"
+   ]
+  ],
+  "am-14": [
+   [
+    "figueiredo",
+    "presidente figueiredo",
+    "pino"
+   ],
+   [
+    "cem",
+    "mais de 100"
+   ],
+   [
+    "grutas",
+    "grutas"
+   ]
+  ],
+  "am-15": [
+   [
+    "parintins",
+    "parintins",
+    "pino"
+   ],
+   [
+    "ilha",
+    "ilha"
+   ],
+   [
+    "festival",
+    "festival",
+    "foto"
+   ],
+   [
+    "garantido",
+    "garantido"
+   ],
+   [
+    "caprichoso",
+    "caprichoso"
+   ]
+  ],
+  "am-16": [
+   [
+    "maues",
+    "maues",
+    "pino"
+   ],
+   [
+    "guarana",
+    "guarana"
+   ],
+   [
+    "satere",
+    "ossatere-mawe"
+   ],
+   [
+    "olhos",
+    "olhos"
+   ],
+   [
+    "olho",
+    "parece um olho"
+   ]
+  ],
+  "am-17": [
+   [
+    "indigenas",
+    "indigenas"
+   ],
+   [
+    "quatrocentos",
+    "mais de"
+   ],
+   [
+    "javari",
+    "javari"
+   ],
+   [
+    "isolados",
+    "isolados"
+   ]
+  ],
+  "am-18": [
+   [
+    "extremoNorte",
+    "extremo norte",
+    "voo"
+   ],
+   [
+    "neblina",
+    "pico da neblina"
+   ],
+   [
+    "teto",
+    "teto"
+   ],
+   [
+    "tresMil",
+    "quase"
+   ]
+  ],
+  "am-19": [
+   [
+    "encontroFim",
+    "do encontro"
+   ],
+   [
+    "neblinaFim",
+    "ao pico"
+   ],
+   [
+    "cheio",
+    "cheio"
+   ],
+   [
+    "descobrir",
+    "descobrir"
+   ]
+  ],
+  "am-20": [
+   [
+    "qual",
+    "qual desses",
+    "a pergunta"
+   ],
+   [
+    "conhecia",
+    "conhecia"
+   ]
+  ]
+ },
+ "ajustes": {}
+}

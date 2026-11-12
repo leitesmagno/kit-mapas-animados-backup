@@ -1,0 +1,185 @@
+{
+ "documentario": "exemplo-horizontal",
+ "imagens": {
+  "capa-petroleiro": {
+   "aprovada": null,
+   "atual": "7407fb59bf390f63",
+   "cena": "capa",
+   "estado": "gerada",
+   "ilustrativa": true,
+   "obrigatoria": false,
+   "revisao": "pendente",
+   "tipo": "thumbnail",
+   "versoes": {
+    "7407fb59bf390f63": {
+     "altura": 893,
+     "arquivo": "imagens-ia/exemplo-horizontal-capa/capa-petroleiro/7407fb59bf390f63.jpg",
+     "chave": "7407fb59bf390f63",
+     "config": {
+      "proporcao": "16:9",
+      "referencias": [],
+      "tamanho": "2K"
+     },
+     "custo_usd": 0.1371,
+     "gerada_em": "2026-10-15T00:49:56+00:00",
+     "id": "capa-petroleiro",
+     "largura": 1600,
+     "mime": "image/jpeg",
+     "modelo": "gemini-3-pro-image",
+     "prompt": "YouTube thumbnail background: ONE evident focal subject, bold simple shapes, strong contrast and separation from the background, saturated but controlled color, readable at small size. Leave a clean area for a headline that will be added later in post.\n\nDocumentary subject: O Estreito de Ormuz e a rota do petróleo do Golfo Pérsico.\nHistorical and geographic context: Passagem marítima estreita entre o Golfo Pérsico e o Golfo de Omã, entre a costa do Irã ao norte e a península de Musandam (Omã) ao sul; costas áridas e montanhosas, tráfego intenso de petroleiros.\nPlace: Strait of Hormuz, between the Persian Gulf and the Gulf of Oman.\nPeriod: present day.\n\nWhat the image shows: One huge crude oil tanker seen from a low angle on the water, sailing through a narrow passage between steep dark arid mountains, the ship on the right half of the frame, low warm sun behind the mountains creating a strong rim light, deep teal water.\nNarrative purpose of this shot: Fundo da thumbnail: um ponto focal (o petroleiro), contraste forte e o terço esquerdo livre para o título por código.\n\nVisual identity of the whole documentary: bold cinematic documentary thumbnail, high contrast, realistic.\nColor palette: deep teal sea, warm desert ochre, hazy dawn gold, oil black.\nLighting: low golden dawn light through light haze, soft long shadows.\nComposition: 16:9 horizontal frame for video, one clear focal point, readable on a phone screen, clean depth separation.\nLayout: keep the left third of the frame calm and uncluttered for a title.\n\nStrictly avoid: no text, letters, numbers, captions, signs or watermarks anywhere in the image; no maps, borders, country outlines or cartographic elements; no flags, coats of arms, logos or national/military insignia; no recognizable real people, politicians or public figures; no generic AI look: no plastic skin, no oversaturated HDR, no lens-flare spam, no centered symmetrical cliché; explosions or combat; warships; company names, flags or markings on the ship.\n",
+     "versao": "7407fb59bf390f63"
+    }
+   }
+  },
+  "fortaleza": {
+   "aprovada": null,
+   "atual": "fac3111eea0ba100",
+   "cena": "capa",
+   "estado": "gerada",
+   "ilustrativa": true,
+   "obrigatoria": false,
+   "revisao": "pendente",
+   "tipo": "elemento",
+   "versoes": {
+    "fac3111eea0ba100": {
+     "altura": 1195,
+     "arquivo": "imagens-ia/exemplo-horizontal-capa/fortaleza/fac3111eea0ba100.jpg",
+     "chave": "fac3111eea0ba100",
+     "config": {
+      "proporcao": "4:3",
+      "referencias": [],
+      "tamanho": "2K"
+     },
+     "custo_usd": 0.13805,
+     "gerada_em": "2026-10-17T00:43:19+00:00",
+     "id": "fortaleza",
+     "largura": 1600,
+     "mime": "image/jpeg",
+     "modelo": "gemini-3-pro-image",
+     "prompt": "A single subject for a YouTube thumbnail cut-out: hyper-detailed, punchy and dramatic, crisp silhouette, strong rim light and saturated but believable color, the WHOLE subject visible with generous margin, isolated on a perfectly flat, uniform pure green background (#00FF00, chroma key), no shadow or reflection on the background, no ground plane, no green tones on the subject itself.\n\nDocumentary subject: O Estreito de Ormuz e a rota do petróleo do Golfo Pérsico.\nHistorical and geographic context: Passagem marítima estreita entre o Golfo Pérsico e o Golfo de Omã, entre a costa do Irã ao norte e a península de Musandam (Omã) ao sul; costas áridas e montanhosas, tráfego intenso de petroleiros.\nPlace: Strait of Hormuz, between the Persian Gulf and the Gulf of Oman.\nPeriod: present day.\n\nWhat the image shows: an old 16th-century European stone sea fortress in ruins on a small rocky island outcrop, thick ochre-red stone walls with round bastions and a few rusty bronze cannons on top, seen from a low three-quarter angle, warm golden sunlight from the left (the rock base cut cleanly, no sea around it)\n\nVisual identity of the whole documentary: bold cinematic documentary thumbnail, high contrast, realistic.\nColor palette: deep teal sea, warm desert ochre, hazy dawn gold, oil black.\nLighting: low golden dawn light through light haze, soft long shadows.\nComposition: 4:3 horizontal frame, the subject fills about 80% of it, readable at 150 px.\n\nStrictly avoid: no text, letters, numbers, captions, signs or watermarks anywhere in the image; no maps, borders, country outlines or cartographic elements; no flags, coats of arms, logos or national/military insignia; no recognizable real people, politicians or public figures; explosions or combat; warships; flags or coats of arms; people.\n",
+     "versao": "fac3111eea0ba100"
+    }
+   }
+  },
+  "fundo-estreito": {
+   "aprovada": null,
+   "atual": "ff4e015821701f80",
+   "cena": "capa",
+   "estado": "gerada",
+   "ilustrativa": true,
+   "obrigatoria": false,
+   "revisao": "pendente",
+   "tipo": "fundo",
+   "versoes": {
+    "ff4e015821701f80": {
+     "altura": 893,
+     "arquivo": "imagens-ia/exemplo-horizontal-capa/fundo-estreito/ff4e015821701f80.jpg",
+     "chave": "ff4e015821701f80",
+     "config": {
+      "proporcao": "16:9",
+      "referencias": [],
+      "tamanho": "2K"
+     },
+     "custo_usd": 0.13706,
+     "gerada_em": "2026-10-17T00:35:51+00:00",
+     "id": "fundo-estreito",
+     "largura": 1600,
+     "mime": "image/jpeg",
+     "modelo": "gemini-3-pro-image",
+     "prompt": "Background plate for a high-click-through YouTube thumbnail: ONLY the environment, no main subject (the subjects are composited on top later). Dramatic depth, a strong light source behind the center (backlight / glow) that will separate the subjects, bold complementary colors (e.g. teal against orange), high contrast, details soft toward the edges, simple shapes that read at small size.\n\nDocumentary subject: O Estreito de Ormuz e a rota do petróleo do Golfo Pérsico.\nHistorical and geographic context: Passagem marítima estreita entre o Golfo Pérsico e o Golfo de Omã, entre a costa do Irã ao norte e a península de Musandam (Omã) ao sul; costas áridas e montanhosas, tráfego intenso de petroleiros.\nPlace: Strait of Hormuz, between the Persian Gulf and the Gulf of Oman.\nPeriod: present day.\n\nWhat the image shows: narrow sea passage between two dark steep arid mountain walls at dusk, a glowing orange sky right behind the center of the frame, deep teal water with sparkles, light haze\n\nVisual identity of the whole documentary: bold cinematic documentary thumbnail, high contrast, realistic.\nColor palette: deep teal sea, warm desert ochre, hazy dawn gold, oil black.\nLighting: low golden dawn light through light haze, soft long shadows.\nComposition: 16:9 horizontal frame for video, one clear focal point, readable on a phone screen, clean depth separation.\n\nStrictly avoid: no text, letters, numbers, captions, signs or watermarks anywhere in the image; no maps, borders, country outlines or cartographic elements; no flags, coats of arms, logos or national/military insignia; no recognizable real people, politicians or public figures; no generic AI look: no plastic skin, no oversaturated HDR, no lens-flare spam, no centered symmetrical cliché; explosions or combat; warships.\n",
+     "versao": "ff4e015821701f80"
+    }
+   }
+  },
+  "fundo-noite": {
+   "aprovada": null,
+   "atual": "59db9292d38d827d",
+   "cena": "capa",
+   "estado": "gerada",
+   "ilustrativa": true,
+   "obrigatoria": false,
+   "revisao": "pendente",
+   "tipo": "fundo",
+   "versoes": {
+    "59db9292d38d827d": {
+     "altura": 893,
+     "arquivo": "imagens-ia/exemplo-horizontal-capa/fundo-noite/59db9292d38d827d.jpg",
+     "chave": "59db9292d38d827d",
+     "config": {
+      "proporcao": "16:9",
+      "referencias": [],
+      "tamanho": "2K"
+     },
+     "custo_usd": 0.13697,
+     "gerada_em": "2026-10-17T00:42:56+00:00",
+     "id": "fundo-noite",
+     "largura": 1600,
+     "mime": "image/jpeg",
+     "modelo": "gemini-3-pro-image",
+     "prompt": "Background plate for a high-click-through YouTube thumbnail: ONLY the environment, no main subject (the subjects are composited on top later). Dramatic depth, a strong light source behind the center (backlight / glow) that will separate the subjects, bold complementary colors (e.g. teal against orange), high contrast, details soft toward the edges, simple shapes that read at small size.\n\nDocumentary subject: O Estreito de Ormuz e a rota do petróleo do Golfo Pérsico.\nHistorical and geographic context: Passagem marítima estreita entre o Golfo Pérsico e o Golfo de Omã, entre a costa do Irã ao norte e a península de Musandam (Omã) ao sul; costas áridas e montanhosas, tráfego intenso de petroleiros.\nPlace: Strait of Hormuz, between the Persian Gulf and the Gulf of Oman.\nPeriod: present day.\n\nWhat the image shows: tense night seascape in a narrow strait between dark mountain silhouettes, the sky behind the center glowing deep red and orange as if from a distant fire, dark navy water reflecting red light, smoke haze, ominous mood\n\nVisual identity of the whole documentary: bold cinematic documentary thumbnail, high contrast, realistic.\nColor palette: deep teal sea, warm desert ochre, hazy dawn gold, oil black.\nLighting: low golden dawn light through light haze, soft long shadows.\nComposition: 16:9 horizontal frame for video, one clear focal point, readable on a phone screen, clean depth separation.\n\nStrictly avoid: no text, letters, numbers, captions, signs or watermarks anywhere in the image; no maps, borders, country outlines or cartographic elements; no flags, coats of arms, logos or national/military insignia; no recognizable real people, politicians or public figures; no generic AI look: no plastic skin, no oversaturated HDR, no lens-flare spam, no centered symmetrical cliché; explosions or combat; warships.\n",
+     "versao": "59db9292d38d827d"
+    }
+   }
+  },
+  "petroleiro": {
+   "aprovada": null,
+   "atual": "4c1fe5e4cde0aff1",
+   "cena": "capa",
+   "estado": "gerada",
+   "ilustrativa": true,
+   "obrigatoria": false,
+   "revisao": "pendente",
+   "tipo": "elemento",
+   "versoes": {
+    "4c1fe5e4cde0aff1": {
+     "altura": 1195,
+     "arquivo": "imagens-ia/exemplo-horizontal-capa/petroleiro/4c1fe5e4cde0aff1.jpg",
+     "chave": "4c1fe5e4cde0aff1",
+     "config": {
+      "proporcao": "4:3",
+      "referencias": [],
+      "tamanho": "2K"
+     },
+     "custo_usd": 0.13766,
+     "gerada_em": "2026-10-17T00:36:14+00:00",
+     "id": "petroleiro",
+     "largura": 1600,
+     "mime": "image/jpeg",
+     "modelo": "gemini-3-pro-image",
+     "prompt": "A single subject for a YouTube thumbnail cut-out: hyper-detailed, punchy and dramatic, crisp silhouette, strong rim light and saturated but believable color, the WHOLE subject visible with generous margin, isolated on a perfectly flat, uniform pure green background (#00FF00, chroma key), no shadow or reflection on the background, no ground plane, no green tones on the subject itself.\n\nDocumentary subject: O Estreito de Ormuz e a rota do petróleo do Golfo Pérsico.\nHistorical and geographic context: Passagem marítima estreita entre o Golfo Pérsico e o Golfo de Omã, entre a costa do Irã ao norte e a península de Musandam (Omã) ao sul; costas áridas e montanhosas, tráfego intenso de petroleiros.\nPlace: Strait of Hormuz, between the Persian Gulf and the Gulf of Oman.\nPeriod: present day.\n\nWhat the image shows: a huge dark red and black crude oil tanker seen from a low front three-quarter angle, the bow coming towards the camera, warm orange rim light from behind on the left, small white bow wave at the waterline (the hull cut cleanly at the waterline, no sea around it)\n\nVisual identity of the whole documentary: bold cinematic documentary thumbnail, high contrast, realistic.\nColor palette: deep teal sea, warm desert ochre, hazy dawn gold, oil black.\nLighting: low golden dawn light through light haze, soft long shadows.\nComposition: 4:3 horizontal frame, the subject fills about 80% of it, readable at 150 px.\n\nStrictly avoid: no text, letters, numbers, captions, signs or watermarks anywhere in the image; no maps, borders, country outlines or cartographic elements; no flags, coats of arms, logos or national/military insignia; no recognizable real people, politicians or public figures; explosions or combat; warships; company names, flags, numbers or markings on the ship.\n",
+     "versao": "4c1fe5e4cde0aff1"
+    }
+   }
+  },
+  "petroleiro-frente": {
+   "aprovada": null,
+   "atual": "ac267669abe49fd8",
+   "cena": "capa",
+   "estado": "gerada",
+   "ilustrativa": true,
+   "obrigatoria": false,
+   "revisao": "pendente",
+   "tipo": "elemento",
+   "versoes": {
+    "ac267669abe49fd8": {
+     "altura": 1600,
+     "arquivo": "imagens-ia/exemplo-horizontal-capa/petroleiro-frente/ac267669abe49fd8.jpg",
+     "chave": "ac267669abe49fd8",
+     "config": {
+      "proporcao": "3:4",
+      "referencias": [],
+      "tamanho": "2K"
+     },
+     "custo_usd": 0.13738,
+     "gerada_em": "2026-10-17T00:42:33+00:00",
+     "id": "petroleiro-frente",
+     "largura": 1195,
+     "mime": "image/jpeg",
+     "modelo": "gemini-3-pro-image",
+     "prompt": "A single subject for a YouTube thumbnail cut-out: hyper-detailed, punchy and dramatic, crisp silhouette, strong rim light and saturated but believable color, the WHOLE subject visible with generous margin, isolated on a perfectly flat, uniform pure green background (#00FF00, chroma key), no shadow or reflection on the background, no ground plane, no green tones on the subject itself.\n\nDocumentary subject: O Estreito de Ormuz e a rota do petróleo do Golfo Pérsico.\nHistorical and geographic context: Passagem marítima estreita entre o Golfo Pérsico e o Golfo de Omã, entre a costa do Irã ao norte e a península de Musandam (Omã) ao sul; costas áridas e montanhosas, tráfego intenso de petroleiros.\nPlace: Strait of Hormuz, between the Persian Gulf and the Gulf of Oman.\nPeriod: present day.\n\nWhat the image shows: a gigantic dark red and black crude oil tanker seen almost head-on from a very low angle at water level, the massive bow towering towards the camera, slight perspective, warm orange rim light from behind, white bow wave at the waterline (hull cut cleanly at the waterline, no sea around it)\n\nVisual identity of the whole documentary: bold cinematic documentary thumbnail, high contrast, realistic.\nColor palette: deep teal sea, warm desert ochre, hazy dawn gold, oil black.\nLighting: low golden dawn light through light haze, soft long shadows.\nComposition: 3:4 vertical frame, the subject fills about 80% of it, readable at 150 px.\n\nStrictly avoid: no text, letters, numbers, captions, signs or watermarks anywhere in the image; no maps, borders, country outlines or cartographic elements; no flags, coats of arms, logos or national/military insignia; no recognizable real people, politicians or public figures; explosions or combat; warships; company names, flags, numbers or markings on the ship.\n",
+     "versao": "ac267669abe49fd8"
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,32 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm run:*)",
+      "Bash(npm install:*)",
+      "Bash(npx remotion:*)",
+      "Bash(npx tsx:*)",
+      "Bash(npx tsc:*)",
+      "Bash(node scripts/:*)",
+      "Bash(python3 scripts/:*)",
+      "Bash(ffmpeg:*)",
+      "Bash(ffprobe:*)",
+      "Bash(ls:*)",
+      "Bash(cp:*)",
+      "Bash(mv:*)",
+      "Bash(mkdir:*)",
+      "Read",
+      "Edit",
+      "Write",
+      "Skill",
+      "WebSearch",
+      "WebFetch"
+    ],
+    "deny": [
+      "Read(./.env)",
+      "Bash(rm -rf *)",
+      "Bash(rm -r *)",
+      "Bash(git push --force*)",
+      "Bash(git reset --hard*)"
+    ]
+  }
+}
